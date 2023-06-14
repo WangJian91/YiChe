@@ -1,0 +1,26 @@
+-
+  name: $ddt{name}
+  parameterize:
+    name-data-assert_data2112: 2112/test_2112_303_flow_data.yaml
+  request:
+    method: post
+    url: /algoplat/titan/engine/dcm/dcm/voicedcm
+    headers:
+      Content-Type: application/json
+    json:
+      sessionIdx: monitor_1313322212
+      inAction: 2
+      inParams:
+        callIdx: monitor_1313322212
+        tenantIdx: 2
+        robotIdx: 2112
+        env: 1
+        interIdx: 1
+        beginPlay: ''
+        endPlay: ''
+        resultTime: ''
+        flowResultType: 1
+        input: $ddt{data}
+        voiceType: m4a
+  validate:
+    - equals: $ddt{assert_data2112}

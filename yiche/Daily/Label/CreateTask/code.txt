@@ -1,0 +1,61 @@
+<View>
+  <AudioPlus name="audio" value="$audio"/>
+  <Text name="text" value="$convd"/>
+  <View style="box-shadow: 2px 2px 5px #999;                padding: 20px; margin-top: 2em;                border-radius: 5px;">
+    <Header value="ASR标注"/>
+    <Choices name="asr" toName="text" choice="single" showInLine="true"> 
+      <Choice value="ASR正确"/>
+      <Choice value="ASR错误"/>
+    </Choices>
+    <Header value="正确ASR结果"/>
+  <TextArea name="transcription" toName="audio" rows="4" editable="true" maxSubmissions="1"/>
+    <Header value="NLU标注"/>
+    <Choices name="nlu" toName="text" choice="multiple" showInLine="true"> 
+      <Choice value="否定意图"/>
+      <Choice value="否定咨询意图"/>
+      <Choice value="帮人咨询意图"/>
+      <Choice value="待定意图"/>
+      <Choice value="肯定意图"/>
+      <Choice value="肯定之无意向意图"/>
+      <Choice value="敏感意图"/>
+      <Choice value="请求机器人重复意图"/>
+      <Choice value="确认机器人身份意图"/>
+      <Choice value="确认机器人意向意图"/>
+      <Choice value="性别纠正意图"/>
+      <Choice value="询问来源意图"/>
+      <Choice value="在忙意图"/>
+      <Choice value="开车意图"/>
+      <Choice value="重复之无意向意图"/>
+      <Choice value="咨询方案意图"/>
+      <Choice value="自动回复意图"/>
+      <Choice value="汽车资讯平台意图"/>
+      <Choice value="车辆品牌意图"/>
+      <Choice value="购车意图"/>
+      <Choice value="时间类意图"/>
+      <Choice value="打招呼意图"/>
+      <Choice value="多品牌意图"/>
+      <Choice value="电话外地意图"/>
+      <Choice value="其他"/>
+    </Choices>
+    <Header value="全双工标注"/>
+    <Choices name="break" toName="text" choice="single" showInLine="true"> 
+      <Choice value="用户被打断"/>
+      <Choice value="用户未被打断"/>
+    </Choices>
+    <Header value="噪音标注"/>
+    <Choices name="noise" toName="text" choice="single" showInLine="true"> 
+      <Choice value="存在噪音"/>
+      <Choice value="不存在噪音"/>
+    </Choices>
+    <Header value="线索质量标注"/>
+    <Choices name="source-label" toName="text" choice="single" showInLine="true"> 
+      <Choice value="系统挂断"/>
+      <Choice value="用户挂断"/>
+    </Choices>
+    <Header value="是否成功单标注"/>
+    <Choices name="sucess-label" toName="text" choice="single" showInLine="true"> 
+      <Choice value="成功"/>
+      <Choice value="失败"/>
+    </Choices>
+  </View>
+</View>

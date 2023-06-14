@@ -1,0 +1,24 @@
+#基础路径配置
+base:
+  base_test_url: http://10.168.47.19:50000
+#  base_test_url: http://10.168.47.19:50020
+#  base_test_url: http://10.168.47.19:50021
+#  base_test_url: http://10.168.47.19:50022
+#  base_test_url: http://10.168.47.19:50023
+#  base_test_url: http://10.168.47.19:50024
+#  base_test_url: http://10.168.47.19:50025
+#  base_test_url: http://10.168.47.19:50026
+#  base_test_url: http://10.168.47.19:50027
+#  base_test_url: http://10.168.47.19:50028
+#日志配置
+log:
+  log_level: info
+#  log_format: '[%(asctime)s] %(filename)s->%(funcName)s line:%(lineno)d [%(levelname)s] %(message)s'
+  log_format: '[%(asctime)s][%(levelname)s] %(message)s'
+
+#system:
+#  robot: 31
+#  robot: 2077
+#  robot: 2112
+#  robot: 22
+
