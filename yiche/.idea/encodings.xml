@@ -2,8 +2,11 @@
 <project version="4">
   <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
     <file url="file://$PROJECT_DIR$/ConversationTree/pytest.ini" charset="UTF-8" />
+<<<<<<< HEAD
     <file url="file://$PROJECT_DIR$/IMRobot/Debug/case.yaml" charset="GBK" />
     <file url="file://$PROJECT_DIR$/IMRobot/case.yaml" charset="GBK" />
+=======
+>>>>>>> 9994d9dd41a8e38ef027d55d24b2a205292cfbf4
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

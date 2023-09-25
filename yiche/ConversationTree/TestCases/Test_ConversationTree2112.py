@@ -20,7 +20,11 @@ class TestConversationTreeXj01:
     """Q1"""
     @allure.story("第1流程")
     @pytest.mark.parametrize('case_info', read_case('./TestCases/2112/test_2112_1_flow.yaml'))
+<<<<<<< HEAD
     @pytest.mark.debug
+=======
+    @pytest.mark.all
+>>>>>>> 9994d9dd41a8e38ef027d55d24b2a205292cfbf4
     @pytest.mark.t2112
     def test_2112_1_flow(self, case_info):
         """1-1"""

@@ -4,7 +4,10 @@ from ConversationTree.Common.logger_util import error_log, logs
 from ConversationTree.Common.parameterize_util import *
 import json
 import re
+<<<<<<< HEAD
 import asyncio
+=======
+>>>>>>> 9994d9dd41a8e38ef027d55d24b2a205292cfbf4
 import traceback
 import jsonpath
 import requests
@@ -177,10 +180,24 @@ class RequestsUtil:
             else:
                 lists = jsonpath.jsonpath(sj_result, '$..promptText')
                 if lists:
+<<<<<<< HEAD
                     if assert_value not in lists:
                         flag = flag + 1
                         print("断言失败:" + "promptText字段" + "不等于：" + str(assert_value))
                         print(f'返回结果为：{sj_result}')
+=======
+                    if isinstance(assert_value, str):
+                        if assert_value not in lists:
+                            flag = flag + 1
+                            print("断言失败:" + "promptText字段" + "不等于：" + str(assert_value))
+                            print(f'返回结果为：{sj_result}')
+                    if isinstance(assert_value, dict):
+                        robot = read_config("system", "robot")
+                        if assert_value[str(robot)] not in lists:
+                            flag = flag + 1
+                            print("断言失败:" + "promptText字段" + "不等于：" + str(assert_value[str(robot)]))
+                            print(f'返回结果为：{sj_result}')
+>>>>>>> 9994d9dd41a8e38ef027d55d24b2a205292cfbf4
                 else:
                     flag = flag + 1
                     print("断言失败:返回的结果中不存在:" + assert_value)

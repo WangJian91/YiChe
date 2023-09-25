@@ -5,7 +5,10 @@ from ConversationTree.Common.parameterize_util import get_object_path, read_conf
 import logging
 import datetime
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 9994d9dd41a8e38ef027d55d24b2a205292cfbf4
 class LoggerUtil:
     def create_log(self, logger_name='log'):
         # 创建一个日志对象
