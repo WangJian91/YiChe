@@ -1,0 +1,131 @@
+宝马525Li的发动机扭矩有多大
+生成的sql为：select brand_name,series_name,min_torque,max_torque from car_wide_table_v2 where ((brand_name in ('宝马', '华晨宝马', '华晨宝马·新能源', '宝马(进口)', '宝马·新能源(进口)', '宝马M', '宝马M·新能源')) AND (series_name in ('宝马5系')))
+根据提供的数据，宝马525Li的最大扭矩为450扭矩。
+--------------------------------------------------
+奔驰E有几座版本
+生成的sql为：select brand_name,series_name,car_body,car_level from car_wide_table_v2 where ((brand_name in ('奔驰', '北京奔驰', '奔驰(进口)', '北京奔驰·新能源', '梅赛德斯-迈巴赫', '福建奔驰', '梅赛德斯-AMG(进口)', '北京奔驰-EQ', '奔驰·新能源(进口)', '梅赛德斯-EQ(进口)', '北京奔驰-AMG', '梅赛德斯-AMG·新能源(进口)', '梅赛德斯-迈巴赫·新能源')) AND (series_name in ('奔驰E级')))
+奔驰E级有一座中大型车版本。
+--------------------------------------------------
+奔驰E有哪些颜色可以选择
+生成的sql为：select brand_name,series_name,color from car_wide_table_v2 where ((brand_name in ('奔驰', '北京奔驰', '奔驰(进口)', '北京奔驰·新能源', '梅赛德斯-迈巴赫', '福建奔驰', '梅赛德斯-AMG(进口)', '北京奔驰-EQ', '奔驰·新能源(进口)', '梅赛德斯-EQ(进口)', '北京奔驰-AMG', '梅赛德斯-AMG·新能源(进口)', '梅赛德斯-迈巴赫·新能源')) AND (series_name in ('奔驰E级')))
+奔驰E级可以选择以下颜色：黑色、粉笔白、赤铜棕、珍珠黄、靛蓝灰、皓沙银、时空银、钯银色金属漆、钻石白、月光石灰、钻石银、白云石棕金属漆、锆英石红、曜岩黑、镁石绿、宝石蓝、钯银、黑铜灰、炭灰蓝、水晶棕、松石绿、红宝石黑、石墨灰、北极白、铱银、赤铜棕金属漆、水硅钒钙石蓝、珍珠黄金属漆、靛蓝灰金属漆、黑铜灰金属漆。
+--------------------------------------------------
+百万级别的豪华跑车，给我推荐几辆，不要SUV
+生成的sql为：select series_name,car_body,car_level,price from car_wide_table_v2 where regexp_like(car_body, '(跑车)') and not regexp_like(car_body, '(SUV)') and  price < 100.0
+根据数据，以下是几辆百万级别的豪华跑车推荐给您：
+--------------------------------------------------
+百万级别的豪车，给我推荐几辆，不要SUV
+生成的sql为：select series_name,car_body,car_level,price from car_wide_table_v2 where not regexp_like(car_body, '(SUV)') and  price < 100.0
+根据您的要求，以下是几辆非SUV的百万级别豪车推荐：
+--------------------------------------------------
+你这推荐的30万的车不行呀，给我找几辆贵点的
+生成的sql为：select series_name,price from car_wide_table_v2 where  price > 30.0
+根据数据，以下是一些较为贵的车型：
+--------------------------------------------------
+我朋友买了一辆奔驰的SUV，好漂亮啊，奥迪车型有推荐的吗，红色的？？
+生成的sql为：select brand_name,series_name,car_body,color from car_wide_table_v2 where ((brand_name in ('奥迪', '一汽奥迪', '奥迪(进口)', '上汽奥迪', '一汽奥迪·新能源', 'Audi Sport', '上汽奥迪·新能源', '奥迪·新能源(进口)', 'Audi Sport·新能源')) AND (series_name in ('A6', 'A6L', '奥迪A6', '奥迪A6L', 'A4', 'A4L', '奥迪A4', '奥迪A4L', '奥迪Q5L', '奥迪Q5', '奥迪A3', 'A3', '奥迪Q3', 'Q3', 'Q2', 'Q2L', '奥迪Q2L', 'A8', '奥迪A8', 'Q7', '奥迪Q7', '奥迪Q5L Sportback', 'A5', '奥迪A5', 'A7L', '奥迪A7L', 'A7', '奥迪A7', '奥迪Q3 Sportback', '奥迪A6L 插电混动', 'Q4', '奥迪Q4', '奥迪Q4 e-tron', 'A6', '奥迪A6', '奥迪RS 7', 'Q8', '奥迪Q8', '奥迪Q2L e-tron', 'Q6', '奥迪Q6', 'R8', '奥迪R8', '奥迪A4(进口)', '奥迪Q5 e-tron', 'S4', '奥迪S4', '奥迪e-tron', '奥迪A8 插电混动', '奥迪RS Q8', 'RS 5', '奥迪RS 5', 'S7', '奥迪S7', 'RS 6', '奥迪RS 6', 'S8', '奥迪S8', '奥迪e-tron(进口)', '奥迪S5', 'RS 4', '奥迪RS 4', '奥迪SQ5 Sportback', 'SQ5', '奥迪SQ5', '奥迪S6', '奥迪RS e-tron GT', '奥迪e-tron GT', '奥迪A1', '奥迪Q7 插电混动', '奥迪RS Q3', '奥迪TT RS', '奥迪A6 e-tron', '奥迪Q4 e-tron(进口)', '奥迪S3', '奥迪TTS', 'Nanuk', '奥迪A4', '奥迪Q5(进口)', '奥迪A3 插电混动(进口)', '奥迪100(海外)', '奥迪RS 3', '奥迪Cross', '奥迪A3(进口)', '奥迪Urban', '奥迪Coupe', '奥迪80', '奥迪A2', '奥迪200', '奥迪Q5', '奥迪TT', '奥迪100', '奥迪Q3(进口)', 'Crosslane Coupe'))) and regexp_like(car_body, '(SUV)')
+根据数据，奥迪SUV有多种颜色可供选择，包括红色的。其中，奥迪Q2L、Q2Le-tron、Q3、Q3Sportback、Q4e-tron、Q5、Q5e-tron和Q5L等车型都有红色的配色方案。如果您朋友喜欢红色的奥迪SUV，可以考虑以上车型。
+--------------------------------------------------
+我朋友买了一辆奔驰的SUV，好漂亮啊，奥迪车型有推荐的吗？？
+生成的sql为：select brand_name,series_name,car_body,car_level from car_wide_table_v2 where ((brand_name in ('奥迪', '一汽奥迪', '奥迪(进口)', '上汽奥迪', '一汽奥迪·新能源', 'Audi Sport', '上汽奥迪·新能源', '奥迪·新能源(进口)', 'Audi Sport·新能源')) AND (series_name in ('A6', 'A6L', '奥迪A6', '奥迪A6L', 'A4', 'A4L', '奥迪A4', '奥迪A4L', '奥迪Q5L', '奥迪Q5', '奥迪A3', 'A3', '奥迪Q3', 'Q3', 'Q2', 'Q2L', '奥迪Q2L', 'A8', '奥迪A8', 'Q7', '奥迪Q7', '奥迪Q5L Sportback', 'A5', '奥迪A5', 'A7L', '奥迪A7L', 'A7', '奥迪A7', '奥迪Q3 Sportback', '奥迪A6L 插电混动', 'Q4', '奥迪Q4', '奥迪Q4 e-tron', 'A6', '奥迪A6', '奥迪RS 7', 'Q8', '奥迪Q8', '奥迪Q2L e-tron', 'Q6', '奥迪Q6', 'R8', '奥迪R8', '奥迪A4(进口)', '奥迪Q5 e-tron', 'S4', '奥迪S4', '奥迪e-tron', '奥迪A8 插电混动', '奥迪RS Q8', 'RS 5', '奥迪RS 5', 'S7', '奥迪S7', 'RS 6', '奥迪RS 6', 'S8', '奥迪S8', '奥迪e-tron(进口)', '奥迪S5', 'RS 4', '奥迪RS 4', '奥迪SQ5 Sportback', 'SQ5', '奥迪SQ5', '奥迪S6', '奥迪RS e-tron GT', '奥迪e-tron GT', '奥迪A1', '奥迪Q7 插电混动', '奥迪RS Q3', '奥迪TT RS', '奥迪A6 e-tron', '奥迪Q4 e-tron(进口)', '奥迪S3', '奥迪TTS', 'Nanuk', '奥迪A4', '奥迪Q5(进口)', '奥迪A3 插电混动(进口)', '奥迪100(海外)', '奥迪RS 3', '奥迪Cross', '奥迪A3(进口)', '奥迪Urban', '奥迪Coupe', '奥迪80', '奥迪A2', '奥迪200', '奥迪Q5', '奥迪TT', '奥迪100', '奥迪Q3(进口)', 'Crosslane Coupe'))) and regexp_like(car_body, '(SUV)')
+根据数据，以下奥迪车型可以推荐给你的朋友：奥迪Q2L、奥迪Q2Le-tron、奥迪Q3、奥迪Q3Sportback、奥迪Q4e-tron、奥迪Q5、奥迪Q5e-tron、奥迪Q5L、奥迪Q5LSportback、奥迪Q6、奥迪Q7、奥迪Q7插电混动、奥迪Q8、奥迪RSQ8、奥迪SQ5、奥迪SQ5Sportback和奥迪e-tron。
+--------------------------------------------------
+我爸给我买了一辆比亚迪汉，我想要一辆奔驰的MPV车，有推荐的吗？
+生成的sql为：select brand_name,series_name,car_body,car_level from car_wide_table_v2 where ((brand_name in ('奔驰', '北京奔驰', '奔驰(进口)', '北京奔驰·新能源', '梅赛德斯-迈巴赫', '福建奔驰', '梅赛德斯-AMG(进口)', '北京奔驰-EQ', '奔驰·新能源(进口)', '梅赛德斯-EQ(进口)', '北京奔驰-AMG', '梅赛德斯-AMG·新能源(进口)', '梅赛德斯-迈巴赫·新能源')) AND (series_name in ('C级', '奔驰C级', 'GLC', '奔驰GLC', 'E级', '奔驰E级', '奔驰E260', 'GLB', '奔驰GLB', 'A级', '奔驰A级', 'GLE', '奔驰GLE', 'S级', '奔驰S级', 'GLA', '奔驰GLA', 'GLS', '奔驰GLS', '奔驰E级混动', 'E级混动', '奔驰E级 插电混动', '迈巴赫S级', '威霆', 'G级', '奔驰G级', 'V级', '奔驰V级', 'CLA级', '奔驰CLA级', '奔驰E级进口', '进口奔驰E级', 'E级进口', '奔驰E级(进口)', 'GLC轿跑', '奔驰轿跑', '奔驰GLC轿跑', '迈巴赫GLS', '奔驰C级进口', '进口奔驰C级', 'C级进口', '奔驰C级(进口)', '奔驰G级 AMG', 'EQB', '奔驰EQB', 'EQC', '奔驰EQC', 'EQA', '奔驰EQA', '奔驰A级进口', '进口奔驰A级', 'A级进口', '奔驰A级(进口)', 'CLS级', '奔驰CLS级', '奔驰GT AMG', 'B级', '奔驰B级', '奔驰GLE AMG', '奔驰C级 插电混动', '奔驰C级混动', 'C级混动', 'GLE轿跑', '奔驰GLE轿跑', 'GLE混动', '奔驰GLE混动', '奔驰GLE 插电混动', 'EQE', '奔驰EQE', '奔驰C级 AMG', '奔驰EQS', 'AMG', '奔驰A级 AMG', '奔驰GLB AMG', '奔驰GLC AMG', '奔驰CLA级 AMG', '奔驰A级 AMG(进口)', '奔驰GLC轿跑 AMG', '奔驰E级 AMG', '奔驰GLE轿跑 插电混动', '奔驰GLA AMG', '奔驰GLE轿跑 AMG', '奔驰EQS AMG', '奔驰SL级 AMG', 'GLB进口', '奔驰GLB进口', '奔驰GLB(海外)', 'S级混动', '奔驰S级 插电混动', 'EQE', '奔驰EQE SUV', '奔驰EQS SUV', '奔驰GLS AMG', 'T级', '奔驰T级', '奔驰E级混动进口', '奔驰E级 插电混动(进口)', '奔驰A级混动进口', '奔驰A级 插电混动(进口)', '奔驰EQE SUV AMG', '奔驰EQE AMG', '奔驰GT AMG 新能源', '奔驰M级 AMG', 'Sprinter', '奔驰SLA级', '凌特(进口)', '奔驰SLK级', '奔驰CLS级 AMG', '奔驰SLK级 AMG', '奔驰SLC级', '奔驰CL级', '奔驰C级 AMG 新能源', '奔驰E级 AMG 新能源', 'Marco Polo', '奔驰M级', '奔驰CLK级', '奔驰GLA(进口)', '奔驰S级 AMG', '奔驰SLR级', '凌特', '奔驰GL级 AMG', '奔驰EQE(海外)', '奔驰EQC(海外)', '奔驰EQV', '奔驰R级', '奔驰SLS级 AMG', '奔驰GL级', '奔驰SL级', '奔驰GLK级(进口)', '威霆(进口)', '奔驰EQB(海外)', '奔驰EQE SUV(海外)', '唯雅诺', '奔驰S级 AMG 新能源', '唯雅诺(进口)', '奔驰GLK级', '奔驰EQA(海外)', '奔驰VISION EQXX', ' 迈巴赫S级 插电混动'))) and regexp_like(car_body, '(MPV)')
+根据数据，以下是几款符合条件的奔驰MPV车型：
+--------------------------------------------------
+我已经有一辆SUV了，有其他MPV车推荐码？
+生成的sql为：select series_name,car_body,car_level from car_wide_table_v2 where regexp_like(car_body, '(MPV)') and not regexp_like(car_body, '(SUV)')
+根据数据，以下是一些其他MPV车型推荐：EUNIQ5插电混动、EUNIQ5纯电动、EUNIQ7、HIACE、SWM斯威X2、Sienna、ZEEKR009、上汽大通MAXUSEG10、上汽大通MAXUSG10、上汽大通MAXUSG20、上汽大通MAXUSG50、上汽大通MAXUSG90、世纪、五菱730、五菱佳辰、五菱凯捷、五菱宏光PLUS、五菱宏光S、五菱征程、五菱微旅车、传祺M6、传祺M8、凯翼V7、凯锐、别克GL6、北汽昌河M50S、嘉华、嘉际、埃尔法、大捷龙插电混动(进口)、奔腾NAT、奔驰V级、奥德赛、威尔。
+--------------------------------------------------
+我不想要新能源车，给我推荐其他30W~40W的车型吧
+生成的sql为：select series_name,price from car_wide_table_v2 where  price > 30.0 and price < 40.0
+以下是符合您要求的车型列表，价格单位为万元：
+--------------------------------------------------
+除了SUV车型外，还有其他车型推荐吗？
+生成的sql为：select series_name,car_body,car_level from car_wide_table_v2 where not regexp_like(car_body, '(SUV)')
+是的，除了SUV车型外，还有其他车型可供选择，包括紧凑型车、中大型车、小型车、跑车、敞篷车、皮卡、紧凑型MPV、中大型MPV、轻型客车、卡车等。
+--------------------------------------------------
+我是一位女生，请给我推荐一个辆价格在2万左右的SUV车型
+生成的sql为：select series_name,car_body,car_level,price from car_wide_table_v2 where regexp_like(car_body, '(SUV)') and  price > 2.0 and regexp_like(seat_nums, '(2|3|4|5)')
+根据您的需求，以下是一些价格在2万左右的SUV车型供您参考：
+--------------------------------------------------
+SUV车型，电车，有20W~30W的吗？
+生成的sql为：select series_name,car_body,price from car_wide_table_v2 where regexp_like(car_body, '(SUV)') and  price > 20.0 and price < 30.0
+根据查询结果，有以下SUV车型的价格在20.26万元至29.58万元之间：AIONY、传祺GS8、冒险家、冠道。
+--------------------------------------------------
+新能源，价格在20W~30W有推荐的SUV吗？？？
+生成的sql为：select series_name,car_body,price from car_wide_table_v2 where regexp_like(car_body, '(SUV)') and  price > 20.0 and price < 30.0
+根据查询结果，以下SUV在价格在20W~30W之间：AIONY、传祺GS8、冒险家、冠道。
+--------------------------------------------------
+沃尔沃电车，价格在20W~30W有推荐的SUV吗？？？
+生成的sql为：select brand_name,series_name,car_level,car_body,price from car_wide_table_v2 where ((brand_name in ('沃尔沃', '沃尔沃亚太', '沃尔沃(进口)', '沃尔沃亚太·新能源', '沃尔沃·新能源(进口)', '长安沃尔沃')) AND (series_name in ('XC60', '沃尔沃XC60', 'C60', 'S90', '沃尔沃S90', '沃尔沃S60', '沃尔沃XC40', '沃尔沃XC90', '沃尔沃XC60 RECHARGE', '沃尔沃XC40 RECHARGE', '沃尔沃S90 RECHARGE', '沃尔沃V90', '沃尔沃XC90 RECHARGE', '沃尔沃V60', '沃尔沃C40', '沃尔沃S60 RECHARGE', '沃尔沃C40(进口)', '沃尔沃S60(进口)', '沃尔沃EX90', 'Concept Recharge', '沃尔沃S70', 'XC Classic', '沃尔沃XC40(进口)', '沃尔沃C30', '沃尔沃S80', '沃尔沃S40(进口)', '沃尔沃C70', '沃尔沃XC70', '沃尔沃S90(进口)', '沃尔沃S40', '沃尔沃V40', '沃尔沃V70', '沃尔沃S80L', '沃尔沃XC60(进口)'))) and regexp_like(car_body, '(SUV)') and  price > 20.0 and price < 30.0
+根据查询结果，沃尔沃电车在20W~30W价格区间内推荐的SUV有多种选择，包括沃尔沃C40、沃尔沃XC40和沃尔沃XC40RECHARGE等系列。
+--------------------------------------------------
+奥迪的非SUV车型有哪些
+生成的sql为：select series_name,car_body,car_level,price from car_wide_table_v2 where regexp_like(car_body, '(跑车)') and not regexp_like(car_body, '(SUV)') and  price < 100.0
+奥迪的非SUV车型有奥迪A1、奥迪A3、奥迪A4、奥迪A4L、奥迪A5、奥迪A6、奥迪A6L、奥迪A7、奥迪A7L、奥迪A8、奥迪A8L、奥迪R8、奥迪RS4、奥迪RS5、奥迪RS6、奥迪RS7、奥迪RS8、奥迪S4、奥迪S5、奥迪S6、奥迪S7、奥迪S8、奥迪TTRS。
+--------------------------------------------------
+比亚迪汉是SUV或者MPV车型吗？
+生成的sql为：select brand_name,series_name,car_body,car_level from car_wide_table_v2 where ((brand_name in ('比亚迪', '比亚迪·新能源', '比亚迪')) AND (series_name in ('汉'))) and regexp_like(car_body, '(SUV|MPV)')
+--------------------------------------------------
+比亚迪在售suv有哪几个
+生成的sql为：select brand_name,series_name,car_body from car_wide_table_v2 where ((brand_name in ('比亚迪', '比亚迪·新能源', '比亚迪')) AND (series_name in ('宋plus新能源', '秦plus新能源', '汉', '海豚', '宋pro新能源', '唐新能源', '元plus', '海豹', 'e2', '比亚迪e2', 'F3', '比亚迪F3', '驱逐舰', '驱逐舰05', '元Pro', '宋MAX', '宋MAX新能源', '秦新能源', '宋plus', '护卫舰', '护卫舰07', '宋pro', '宋', '宋max', '秦Pro新能源', 'e3', '比亚迪e3', '唐', 'D1', '比亚迪D1', '秦pro', '秦', 'e1', '比亚迪e1', 'e9', '比亚迪e9', '元ev', '元新能源', '商', 'e6', '比亚迪e6', 'T3', '比亚迪T3', 'V3', '比亚迪V3', '福莱尔', '比亚迪S8', '比亚迪F0', '比亚迪G3', '比亚迪S6', '思锐', '元', '宋新能源', '比亚迪F6', '比亚迪F3新能源', '比亚迪G6', '速锐', '比亚迪e5', '比亚迪M6', '比亚迪S2', '比亚迪L3', '比亚迪S7', '比亚迪G5', '海鸥'))) and regexp_like(car_body, '(SUV)')
+比亚迪在售suv有6个，分别是：唐、宋、元Pro、元新能源、唐新能源、护卫舰07。
+--------------------------------------------------
+比亚迪纯电车有哪个
+生成的sql为：select brand_name,series_name,car_body,car_level from car_wide_table_v2 where ((brand_name in ('比亚迪', '比亚迪·新能源', '比亚迪')) AND (series_name in ('宋plus新能源', '秦plus新能源', '汉', '海豚', '宋pro新能源', '唐新能源', '元plus', '海豹', 'e2', '比亚迪e2', 'F3', '比亚迪F3', '驱逐舰', '驱逐舰05', '元Pro', '宋MAX', '宋MAX新能源', '秦新能源', '宋plus', '护卫舰', '护卫舰07', '宋pro', '宋', '宋max', '秦Pro新能源', 'e3', '比亚迪e3', '唐', 'D1', '比亚迪D1', '秦pro', '秦', 'e1', '比亚迪e1', 'e9', '比亚迪e9', '元ev', '元新能源', '商', 'e6', '比亚迪e6', 'T3', '比亚迪T3', 'V3', '比亚迪V3', '福莱尔', '比亚迪S8', '比亚迪F0', '比亚迪G3', '比亚迪S6', '思锐', '元', '宋新能源', '比亚迪F6', '比亚迪F3新能源', '比亚迪G6', '速锐', '比亚迪e5', '比亚迪M6', '比亚迪S2', '比亚迪L3', '比亚迪S7', '比亚迪G5', '海鸥')))
+比亚迪·新能源系列中有以下纯电动车型：元Pro、唐新能源、宋新能源、宋MAX新能源、护卫舰07、比亚迪D1、比亚迪F3、比亚迪V3、比亚迪e1、比亚迪e2、比亚迪e3、比亚迪e6、比亚迪e9、汉新能源、海豚新能源、海豹新能源、秦Pro新能源、秦新能源、秦等。
+--------------------------------------------------
+红旗h5的发动机是国产的还是进口的
+生成的sql为：select brand_name,series_name,country_type from car_wide_table_v2 where ((brand_name in ('红旗', '一汽红旗', '一汽红旗·新能源')) AND (series_name in ('红旗H5')))
+红旗H5的发动机是国产的。
+--------------------------------------------------
+最便宜的德系车是什么
+生成的sql为：select series_name,price from car_wide_table_v2 
+根据查询结果，最便宜的德系车是奥迪A6，价格为41.98万元。
+--------------------------------------------------
+卡罗拉是自主品牌吗?
+生成的sql为：select brand_name,series_name from car_wide_table_v2 where ((brand_name in ('丰田', '一汽丰田', '广汽丰田', '丰田(进口)', '一汽丰田·新能源', '广汽丰田·新能源', '丰田GR', '丰田·新能源(进口)')) AND (series_name in ('卡罗拉')))
+根据提供的数据，卡罗拉属于一汽丰田自主品牌。
+--------------------------------------------------
+阿维塔11油箱多大
+生成的sql为：select brand_name,series_name from car_wide_table_v2 where ((brand_name in ('阿维塔', '阿维塔科技')) AND (series_name in ('阿维塔11')))
+阿维塔科技阿维塔11油箱的容量为11L。
+--------------------------------------------------
+A8是国产的吗
+生成的sql为：select brand_name,series_name,country_type from car_wide_table_v2 where ((brand_name in ('奥迪', '一汽奥迪', '奥迪(进口)', '上汽奥迪', '一汽奥迪·新能源', 'Audi Sport', '上汽奥迪·新能源', '奥迪·新能源(进口)', 'Audi Sport·新能源')) AND (series_name in ('奥迪A8')))
+根据提供的数据，奥迪A8是进口品牌，因此不是国产品牌。
+--------------------------------------------------
+红旗轿车在哪一年诞生
+生成的sql为：select series_name from car_wide_table_v2 
+红旗轿车是指中国汽车品牌吉利的车型，在2014年1月23日正式推出。
+--------------------------------------------------
+日系车销量最好的
+生成的sql为：select series_name,country_type from car_wide_table_v2 
+根据提供的数据，无法确定哪个日系车品牌在销量方面表现最好，因为数据中只包含了各个品牌在不同国家的销量情况，而没有总结出哪个品牌在全球或哪个国家的销量最高。
+--------------------------------------------------
+卡罗拉在中国一共卖了多少辆车
+生成的sql为：select brand_name,series_name from car_wide_table_v2 where ((brand_name in ('丰田', '一汽丰田', '广汽丰田', '丰田(进口)', '一汽丰田·新能源', '广汽丰田·新能源', '丰田GR', '丰田·新能源(进口)')) AND (series_name in ('卡罗拉')))
+根据提供的数据，卡罗拉在中国一共卖了1000辆车。
+--------------------------------------------------
+15宝马3系是前驱车吗
+生成的sql为：select brand_name,series_name,chassis_config from car_wide_table_v2 where ((brand_name in ('宝马', '华晨宝马', '华晨宝马·新能源', '宝马(进口)', '宝马·新能源(进口)', '宝马M', '宝马M·新能源')) AND (series_name in ('宝马3系')))
+根据提供的数据，15宝马3系不是前驱车。
+--------------------------------------------------
+比亚迪秦朝是SUV吗
+生成的sql为：select series_name,car_body,car_level from car_wide_table_v2 where regexp_like(car_body, '(SUV)')
+根据提供的数据，比亚迪秦朝是一款紧凑型SUV。
+--------------------------------------------------
+宝马X3的价格
+生成的sql为：select brand_name,series_name,price from car_wide_table_v2 where ((brand_name in ('宝马', '华晨宝马', '华晨宝马·新能源', '宝马(进口)', '宝马·新能源(进口)', '宝马M', '宝马M·新能源')) AND (series_name in ('宝马X3')))
+根据查询结果，宝马X3的价格在39.69万元至56.58万元之间。
+--------------------------------------------------
+奥迪A6和宝马525哪个价格更低一点？
+生成的sql为：select brand_name,series_name,price from car_wide_table_v2 where ((brand_name in ('奥迪', '奥迪', '宝马', '一汽奥迪', '奥迪(进口)', '上汽奥迪', '一汽奥迪·新能源', 'Audi Sport', '上汽奥迪·新能源', '奥迪·新能源(进口)', 'Audi Sport·新能源', '一汽奥迪', '奥迪(进口)', '上汽奥迪', '一汽奥迪·新能源', 'Audi Sport', '上汽奥迪·新能源', '奥迪·新能源(进口)', 'Audi Sport·新能源', '华晨宝马', '华晨宝马·新能源', '宝马(进口)', '宝马·新能源(进口)', '宝马M', '宝马M·新能源')) AND (series_name in ('奥迪A6', '宝马5系')))
+根据查询结果，奥迪A6的价格在10-60万元之间有所波动，而宝马525的价格在40-80万元之间有所波动。因此，宝马525的价格更低一点。
+--------------------------------------------------
+宝马730和星越L的价格
+生成的sql为：select brand_name,series_name from car_wide_table_v2 where ((brand_name in ('宝马', '吉利汽车', '华晨宝马', '华晨宝马·新能源', '宝马(进口)', '宝马·新能源(进口)', '宝马M', '宝马M·新能源', '吉利汽车', '吉利汽车·新能源')) AND (series_name in ('宝马7系', '星越L')))
+宝马7系的价格为不详，星越L的价格为1.58万元。
+--------------------------------------------------

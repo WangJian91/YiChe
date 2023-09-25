@@ -1,0 +1,107 @@
+[2023-07-10 09:57:50,091][INFO] --------测试开始--------
+[2023-07-10 09:57:50,091][INFO] question：宝马5系
+[2023-07-10 09:57:50,091][INFO] action_label：汽车点评和常见问题查询
+[2023-07-10 09:57:50,091][INFO] action_input_info：宝马5系
+[2023-07-10 09:58:06,405][INFO] action_label_en:Vehicle reviews and FAQ query
+[2023-07-10 09:58:06,405][INFO] action_result:Vehicle parameter configuration
+[2023-07-10 09:58:06,405][INFO] 断言失败
+[2023-07-10 09:58:06,405][INFO] --------测试结束--------
+
+[2023-07-10 09:58:06,494][INFO] --------测试开始--------
+[2023-07-10 09:58:06,494][INFO] question：宝马525LI的配置
+[2023-07-10 09:58:06,494][INFO] action_label：车辆参配查询
+[2023-07-10 09:58:06,494][INFO] action_input_info：宝马525LI的配置
+[2023-07-10 09:58:21,311][INFO] action_label_en:Vehicle parameter configuration
+[2023-07-10 09:58:21,311][INFO] action_result:Vehicle parameter configuration
+[2023-07-10 09:58:21,311][INFO] 断言成功
+[2023-07-10 09:58:21,311][INFO] --------测试结束--------
+
+[2023-07-10 09:59:12,019][INFO] --------测试开始--------
+[2023-07-10 09:59:12,019][INFO] question：宝马5系
+[2023-07-10 09:59:12,019][INFO] action_label：汽车点评和常见问题查询
+[2023-07-10 09:59:12,019][INFO] action_input_info：宝马5系
+[2023-07-10 09:59:28,407][INFO] action_label_en:Vehicle reviews and FAQ query
+[2023-07-10 09:59:28,407][INFO] action_result:Vehicle parameter configuration
+[2023-07-10 09:59:28,407][INFO] 断言失败
+[2023-07-10 09:59:28,407][INFO] --------测试结束--------
+
+[2023-07-10 09:59:28,532][INFO] --------测试开始--------
+[2023-07-10 09:59:28,532][INFO] question：宝马525LI的配置
+[2023-07-10 09:59:28,532][INFO] action_label：车辆参配查询
+[2023-07-10 09:59:28,532][INFO] action_input_info：宝马525LI的配置
+[2023-07-10 09:59:43,415][INFO] action_label_en:Vehicle parameter configuration
+[2023-07-10 09:59:43,415][INFO] action_result:Vehicle parameter configuration
+[2023-07-10 09:59:43,415][INFO] 断言成功
+[2023-07-10 09:59:43,415][INFO] --------测试结束--------
+
+[2023-07-10 10:01:57,826][INFO] --------测试开始--------
+[2023-07-10 10:01:57,826][INFO] question：宝马5系
+[2023-07-10 10:01:57,826][INFO] action_label：汽车点评和常见问题查询
+[2023-07-10 10:01:57,826][INFO] action_input_info：宝马5系
+[2023-07-10 10:02:14,435][INFO] action_label_en:Vehicle reviews and FAQ query
+[2023-07-10 10:02:14,435][INFO] action_result:Vehicle parameter configuration
+[2023-07-10 10:02:14,435][INFO] 断言失败
+[2023-07-10 10:02:14,435][INFO] --------测试结束--------
+
+[2023-07-10 10:02:14,559][INFO] --------测试开始--------
+[2023-07-10 10:02:14,559][INFO] question：宝马525LI的配置
+[2023-07-10 10:02:14,559][INFO] action_label：车辆参配查询
+[2023-07-10 10:02:14,559][INFO] action_input_info：宝马525LI的配置
+[2023-07-10 10:02:29,429][INFO] action_label_en:Vehicle parameter configuration
+[2023-07-10 10:02:29,429][INFO] action_result:Vehicle parameter configuration
+[2023-07-10 10:02:29,429][INFO] 断言成功
+[2023-07-10 10:02:29,429][INFO] --------测试结束--------
+
+[2023-07-10 10:03:57,432][INFO] --------测试开始--------
+[2023-07-10 10:03:57,432][INFO] question：宝马5系
+[2023-07-10 10:03:57,432][INFO] action_label：汽车点评和常见问题查询
+[2023-07-10 10:03:57,432][INFO] action_input_info：宝马5系
+[2023-07-10 10:04:13,835][INFO] action_label_en:Vehicle reviews and FAQ query
+[2023-07-10 10:04:13,835][INFO] action_result:Vehicle parameter configuration
+[2023-07-10 10:04:13,835][INFO] 断言失败
+[2023-07-10 10:04:13,835][INFO] --------测试结束--------
+
+[2023-07-10 10:04:13,945][INFO] --------测试开始--------
+[2023-07-10 10:04:13,945][INFO] question：宝马525LI的配置
+[2023-07-10 10:04:13,945][INFO] action_label：车辆参配查询
+[2023-07-10 10:04:13,945][INFO] action_input_info：宝马525LI的配置
+[2023-07-10 10:04:28,863][INFO] action_label_en:Vehicle parameter configuration
+[2023-07-10 10:04:28,863][INFO] action_result:Vehicle parameter configuration
+[2023-07-10 10:04:28,863][INFO] 断言成功
+[2023-07-10 10:04:28,879][INFO] --------测试结束--------
+
+[2023-07-10 10:18:00,190][INFO] --------测试开始--------
+[2023-07-10 10:18:00,190][INFO] question：宝马5系
+[2023-07-10 10:18:00,190][INFO] action_label：汽车点评和常见问题查询
+[2023-07-10 10:18:00,190][INFO] action_input_info：宝马5系
+[2023-07-10 10:18:16,860][INFO] action_label_en:Vehicle reviews and FAQ query
+[2023-07-10 10:18:16,876][INFO] action_result:Vehicle parameter configuration
+[2023-07-10 10:18:16,876][INFO] 断言失败
+[2023-07-10 10:18:16,876][INFO] --------测试结束--------
+
+[2023-07-10 10:18:16,995][INFO] --------测试开始--------
+[2023-07-10 10:18:16,995][INFO] question：宝马525LI的配置
+[2023-07-10 10:18:16,995][INFO] action_label：车辆参配查询
+[2023-07-10 10:18:16,995][INFO] action_input_info：宝马525LI的配置
+[2023-07-10 10:18:36,678][INFO] --------测试开始--------
+[2023-07-10 10:18:36,678][INFO] question：宝马5系
+[2023-07-10 10:18:36,678][INFO] action_label：汽车点评和常见问题查询
+[2023-07-10 10:18:36,678][INFO] action_input_info：宝马5系
+[2023-07-10 10:18:53,246][INFO] action_label_en:Vehicle reviews and FAQ query
+[2023-07-10 10:18:53,246][INFO] action_result:Vehicle parameter configuration
+[2023-07-10 10:18:53,246][INFO] 断言失败
+[2023-07-10 10:18:53,246][INFO] --------测试结束--------
+
+[2023-07-10 10:18:53,334][INFO] --------测试开始--------
+[2023-07-10 10:18:53,334][INFO] question：宝马525LI的配置
+[2023-07-10 10:18:53,334][INFO] action_label：车辆参配查询
+[2023-07-10 10:18:53,334][INFO] action_input_info：宝马525LI的配置
+[2023-07-10 10:19:09,238][INFO] action_label_en:Vehicle parameter configuration
+[2023-07-10 10:19:09,238][INFO] action_result:Vehicle parameter configuration
+[2023-07-10 10:19:09,238][INFO] 断言成功
+[2023-07-10 10:19:09,238][INFO] --------测试结束--------
+
+[2023-07-10 10:44:50,685][INFO] <coroutine object RequestsUtil.send_msg at 0x0000027EB2D927C0>
+[2023-07-10 10:44:50,768][INFO] <coroutine object RequestsUtil.send_msg at 0x0000027EB3A3E7C0>
+[2023-07-10 10:48:12,522][INFO] <coroutine object RequestsUtil.send_msg at 0x00000175B14037C0>
+[2023-07-10 10:48:12,617][INFO] <coroutine object RequestsUtil.send_msg at 0x00000175B20AE7C0>

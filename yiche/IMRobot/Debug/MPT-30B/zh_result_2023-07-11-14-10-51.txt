@@ -1,0 +1,49 @@
+prompt：
+You are a Language Retelling Engineer. Answer the following questions as best you can.
+First you need to analyze the conversation history.
+Extract dialogue logic and entity information that appears in the conversation history.
+
+Then you need to complete the user question information based on the user question.
+During the retelling generate, you can complete the following types of natural language processing tasks: 
+eg: Chinese referential disambiguation tasks, complete dialogue discuss vehicle series in Retelling etc. 
+
+<example>
+```
+Conversation history = [
+User: 这款车的口碑怎样,
+Agent: 根据已知信息，天籁这款车的口碑较好，消费者对其动力、操控、舒适性和空间等方面评价较高。但也有一些消费者对其外观和内饰提出了质疑。总体来说，天籁是一款性价比较高的中型车，值得消费者考虑。",
+User: 售价多少,
+Agent: 根据已知信息，天籁目前在售车型有2.0l和2.0t两款发动机可供选择，售价从17.98万元到26.98万元不等，目前厂家指导价优惠3万元左右，可以参考一下这个价格。因此，天籁",
+User: 变速箱怎样,
+Agent: 天籁的工程师可能会告诉你，天籁使用的cvt变速箱表现很不错，具有平顺性、油耗和扭矩控制等优点。但是，cvt变速箱不太适合大排量发动机，因此可能无法提供与大排量发动机相匹配的驾驶体验。"
+]
+```
+User Question: '容易坏吗'
+User Retelling Question: 天籁质量怎么样？容易坏吗？
+</example>
+
+Note: Ensure generated retelling to use the user's perspective and personal name.
+Note: Please provide the generate in Chinese.
+
+Now let's start retelling:
+Conversation history = [ 
+User:我一家四口，两大两小，选车时应该注意什么
+Agent: 选车时，考虑到一家四口，两大两小，需要选择适合家庭用车的车型，以下是一些建议：
+1. 空间：车型的空间是选择车时需要考虑的重要因素，特别是家里有两个孩子，需要更大的空间来容纳他们。
+2. 安全性：车辆的安全性也是需要考虑的因素，特别是家里有老人和小孩，需要选择安全性能更好的车型。
+3. 油耗：车辆的油耗也是需要考虑的因素，因为家庭用车通常需要经常行驶，需要选择油耗较低的车型。
+4. 品牌信誉：选择品牌信誉好的车辆，可以降低购车后的风险，因为品牌信誉好的车辆通常质量更好，售后服务更可靠。
+5. 车型选择：根据家庭用车的需求和预算，选择适合自己的车型。可以考虑一些大型SUV、轿车、跑车等不同类型的车型。
+在购车前，建议先了解车辆的基本知识，包括车型、发动机、变速器、悬挂系统等，然后根据自己的需求和预算，选择最适合自己的车型。
+
+]
+User Question: '有什么车可以推荐给我的不？'
+Thought: you should always think about what to do
+User Retelling Question: 
+--------------------------------------------------
+result：
+在选择家庭用车时，有很多车型可以推荐给你。根据你的需求和预算，以下是一些可能适合你的车型：
+1. 大型SUV：例如奔驰GLE、巴菲特CX-9、康提斯马尼拉GX8、奥迪Q7等。这类车型通常有很好的空间和安全性，可以满足你的家庭用车需求。
+2. 轿车：例如宾利ZS、奔驰CLA、BMW3系列、AUDIA4等。这类车型通常有很好的动力和操控性能，可以满足你的日常行驶需求。
+3. 跑车：例如宾利TTS、奔驰AMG C43、BMWM2、AUDIRS3等。这类
+----------------------------------------------------------------------------------------------------

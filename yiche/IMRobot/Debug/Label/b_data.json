@@ -1,0 +1,372 @@
+{
+    "id": 129843,
+    "annotations": [
+        {
+            "id": 73038,
+            "completed_by": 27,
+            "result": [
+                {
+                    "value": {
+                        "choices": [
+                            "语义相似"
+                        ]
+                    },
+                    "id": "uts2DxbVGY",
+                    "from_name": "sentiment",
+                    "to_name": "text",
+                    "type": "choices",
+                    "origin": "manual"
+                },
+                {
+                    "value": {
+                        "choices": [
+                            "语义相似"
+                        ]
+                    },
+                    "id": "Skx8scYd99",
+                    "from_name": "sentiment2",
+                    "to_name": "text",
+                    "type": "choices",
+                    "origin": "manual"
+                },
+                {
+                    "value": {
+                        "choices": [
+                            "语义相似"
+                        ]
+                    },
+                    "id": "aiHL2xz76o",
+                    "from_name": "sentiment3",
+                    "to_name": "text",
+                    "type": "choices",
+                    "origin": "manual"
+                },
+                {
+                    "value": {
+                        "choices": [
+                            "语义相似"
+                        ]
+                    },
+                    "id": "1IfX-dhsLF",
+                    "from_name": "sentiment4",
+                    "to_name": "text",
+                    "type": "choices",
+                    "origin": "manual"
+                },
+                {
+                    "value": {
+                        "choices": [
+                            "语义不同"
+                        ]
+                    },
+                    "id": "LYmUoUwloS",
+                    "from_name": "sentiment5",
+                    "to_name": "text",
+                    "type": "choices",
+                    "origin": "manual"
+                },
+                {
+                    "value": {
+                        "choices": [
+                            "语义相似"
+                        ]
+                    },
+                    "id": "rJe18rrRjQ",
+                    "from_name": "sentiment6",
+                    "to_name": "text",
+                    "type": "choices",
+                    "origin": "manual"
+                },
+                {
+                    "value": {
+                        "choices": [
+                            "语义相似"
+                        ]
+                    },
+                    "id": "wfvfSsO7Pi",
+                    "from_name": "sentiment7",
+                    "to_name": "text",
+                    "type": "choices",
+                    "origin": "manual"
+                },
+                {
+                    "value": {
+                        "choices": [
+                            "语义不同"
+                        ]
+                    },
+                    "id": "cUmBNrbOml",
+                    "from_name": "sentiment8",
+                    "to_name": "text",
+                    "type": "choices",
+                    "origin": "manual"
+                },
+                {
+                    "value": {
+                        "choices": [
+                            "语义相似"
+                        ]
+                    },
+                    "id": "ZDj_owpLeK",
+                    "from_name": "sentiment9",
+                    "to_name": "text",
+                    "type": "choices",
+                    "origin": "manual"
+                },
+                {
+                    "value": {
+                        "choices": [
+                            "语义相似"
+                        ]
+                    },
+                    "id": "fyUd67DMTm",
+                    "from_name": "sentiment10",
+                    "to_name": "text",
+                    "type": "choices",
+                    "origin": "manual"
+                },
+                {
+                    "value": {
+                        "choices": [
+                            "语义不同"
+                        ]
+                    },
+                    "id": "KIZGYP7BOo",
+                    "from_name": "sentiment11",
+                    "to_name": "text",
+                    "type": "choices",
+                    "origin": "manual"
+                },
+                {
+                    "value": {
+                        "choices": [
+                            "语义相似"
+                        ]
+                    },
+                    "id": "PQ654zUK-4",
+                    "from_name": "sentiment12",
+                    "to_name": "text",
+                    "type": "choices",
+                    "origin": "manual"
+                },
+                {
+                    "value": {
+                        "choices": [
+                            "语义不同"
+                        ]
+                    },
+                    "id": "-l3Ri8HSMG",
+                    "from_name": "sentiment13",
+                    "to_name": "text",
+                    "type": "choices",
+                    "origin": "manual"
+                },
+                {
+                    "value": {
+                        "choices": [
+                            "语义相似"
+                        ]
+                    },
+                    "id": "ii6IVh5vDQ",
+                    "from_name": "sentiment14",
+                    "to_name": "text",
+                    "type": "choices",
+                    "origin": "manual"
+                },
+                {
+                    "value": {
+                        "choices": [
+                            "语义相似"
+                        ]
+                    },
+                    "id": "bZvlsQkn2P",
+                    "from_name": "sentiment15",
+                    "to_name": "text",
+                    "type": "choices",
+                    "origin": "manual"
+                }
+            ],
+            "was_cancelled": false,
+            "ground_truth": false,
+            "created_at": "2023-08-22T01:47:11.567975Z",
+            "updated_at": "2023-08-22T01:47:11.568015Z",
+            "lead_time": 74.425,
+            "prediction": {},
+            "result_count": 0,
+            "task": 129843,
+            "parent_prediction": null,
+            "parent_annotation": null
+        }
+    ],
+    "file_upload": "f824c3f6-label_upload_data.json",
+    "drafts": [],
+    "predictions": [],
+    "data": {
+        "text1": "\nsentece_1: 可以买吗？\nsentece_2: 能买吗？",
+        "text2": "\nsentece_1: 可以买吗？\nsentece_2: 可以买吗",
+        "text3": "\nsentece_1: 可以买吗？\nsentece_2: 可以购买的吗？",
+        "text4": "\nsentece_1: 可以买吗？\nsentece_2: 可以购买吗！",
+        "text5": "\nsentece_1: 可以买吗？\nsentece_2: 是不是可以购买了？",
+        "text6": "\nsentece_1: 可以买吗？\nsentece_2: 可以购入么",
+        "text7": "\nsentece_1: 可以买吗？\nsentece_2: 这个可以购买吗！",
+        "text8": "\nsentece_1: 可以买吗？\nsentece_2: 值得买吗？",
+        "text9": "\nsentece_1: 可以买吗？\nsentece_2: 可以入手吗",
+        "text10": "\nsentece_1: 可以买吗？\nsentece_2: 可以放心购买吗！",
+        "text11": "\nsentece_1: 可以买吗？\nsentece_2: 值得购买吗",
+        "text12": "\nsentece_1: 可以买吗？\nsentece_2: 现在可不可以购买了？",
+        "text13": "\nsentece_1: 可以买吗？\nsentece_2: 会买？",
+        "text14": "\nsentece_1: 可以买吗？\nsentece_2: 最近看上了，想问问可以买吗？",
+        "text15": "\nsentece_1: 可以买吗？\nsentece_2: 能买吗？",
+        "info": {
+            "Unnamed: 0": {
+                "824": 824,
+                "825": 825,
+                "826": 826,
+                "827": 827,
+                "828": 828,
+                "829": 829,
+                "830": 830,
+                "831": 831,
+                "832": 832,
+                "833": 833,
+                "834": 834,
+                "835": 835,
+                "836": 836,
+                "837": 837,
+                "5286": 5286,
+                "5287": 5287,
+                "5288": 5288,
+                "5289": 5289,
+                "5290": 5290,
+                "5291": 5291,
+                "5292": 5292,
+                "5293": 5293,
+                "5294": 5294,
+                "5295": 5295,
+                "5296": 5296,
+                "5297": 5297,
+                "5298": 5298
+            },
+            "query": {
+                "824": "可以买吗？",
+                "825": "可以买吗？",
+                "826": "可以买吗？",
+                "827": "可以买吗？",
+                "828": "可以买吗？",
+                "829": "可以买吗？",
+                "830": "可以买吗？",
+                "831": "可以买吗？",
+                "832": "可以买吗？",
+                "833": "可以买吗？",
+                "834": "可以买吗？",
+                "835": "可以买吗？",
+                "836": "可以买吗？",
+                "837": "可以买吗？",
+                "5286": "可以买吗？",
+                "5287": "可以买吗？",
+                "5288": "可以买吗？",
+                "5289": "可以买吗？",
+                "5290": "可以买吗？",
+                "5291": "可以买吗？",
+                "5292": "可以买吗？",
+                "5293": "可以买吗？",
+                "5294": "可以买吗？",
+                "5295": "可以买吗？",
+                "5296": "可以买吗？",
+                "5297": "可以买吗？",
+                "5298": "可以买吗？"
+            },
+            "text": {
+                "824": "能买吗？",
+                "825": "可以买吗",
+                "826": "可以购买的吗？",
+                "827": "可以购买吗！",
+                "828": "是不是可以购买了？",
+                "829": "可以购入么",
+                "830": "这个可以购买吗！",
+                "831": "值得买吗？",
+                "832": "可以入手吗",
+                "833": "可以放心购买吗！",
+                "834": "值得购买吗",
+                "835": "现在可不可以购买了？",
+                "836": "会买？",
+                "837": "最近看上了，想问问可以买吗？",
+                "5286": "能买吗？",
+                "5287": "可以买吗",
+                "5288": "可以购买的吗？",
+                "5289": "可以购买吗！",
+                "5290": "是不是可以购买了？",
+                "5291": "可以购入么",
+                "5292": "可以放心购买吗？",
+                "5293": "值得买嘛？",
+                "5294": "值得买吗?",
+                "5295": "值得购买的吗？",
+                "5296": "会买？",
+                "5297": "最近看上了，想问问可以买吗？",
+                "5298": "购买的人多不多？"
+            },
+            "score": {
+                "824": 0.022838819772005,
+                "825": 0.0353320464491844,
+                "826": 0.0370709411799907,
+                "827": 0.063472181558609,
+                "828": 0.0939996540546417,
+                "829": 0.0972955375909805,
+                "830": 0.1044363006949424,
+                "831": 0.1125449687242508,
+                "832": 0.1291474401950836,
+                "833": 0.1475401222705841,
+                "834": 0.1571908742189407,
+                "835": 0.1580742597579956,
+                "836": 0.1605220139026641,
+                "837": 0.1716949939727783,
+                "5286": 0.0228388328105211,
+                "5287": 0.0353322178125381,
+                "5288": 0.0370709225535392,
+                "5289": 0.0634722858667373,
+                "5290": 0.0939995273947715,
+                "5291": 0.0972955971956253,
+                "5292": 0.1156049519777298,
+                "5293": 0.1304457485675811,
+                "5294": 0.1389124244451522,
+                "5295": 0.1451512575149536,
+                "5296": 0.1605221033096313,
+                "5297": 0.1716949939727783,
+                "5298": 0.1866490542888641
+            },
+            "use_model": {
+                "824": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "825": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "826": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "827": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "828": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "829": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "830": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "831": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "832": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "833": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "834": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "835": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "836": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "837": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "5286": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "5287": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "5288": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "5289": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "5290": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "5291": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "5292": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "5293": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "5294": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "5295": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "5296": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "5297": "/data/wcy/textembedding/download_models/bge-large-zh",
+                "5298": "/data/wcy/textembedding/download_models/bge-large-zh"
+            }
+        }
+    },
+    "meta": {},
+    "created_at": "2023-08-14T09:32:51.898497Z",
+    "updated_at": "2023-08-22T01:47:11.618256Z",
+    "project": 310
+}

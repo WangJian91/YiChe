@@ -1,0 +1,21 @@
+-
+  name: 用户接入，机器人问候
+  request:
+    method: post
+    url: /algoplat/titan/engine/dcm/dcm/voicedcm
+    headers:
+      Content-Type: application/json
+    json:
+      sessionIdx: monitor_1313322212
+      inAction: 1
+      inParams:
+        callIdx: monitor_1313322212
+        tenantIdx: 2
+        robotIdx: 2112
+        env: 1
+        userInfo:
+          UserName: 旺德福
+          Sex: 先生
+          OrderNo: 订单号
+  validate:
+    - equals: 您好

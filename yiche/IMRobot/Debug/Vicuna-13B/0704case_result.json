@@ -1,0 +1,2413 @@
+[
+    {
+        "data": {
+            "history": [],
+            "question": "宝马5系"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我知道这是一款车型，但我需要更多信息才能回答这个问题\n\nAction: Vehicle parameter configuration\n\nAction Input: 宝马5系\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "宝马5系",
+        "action_input_result": "宝马5系",
+        "score": 0,
+        "result_value": 1.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "宝马5系",
+                    "agent": "宝马5系是一款豪华型轿车，品牌为华晨宝马，系列名为宝马5系，规格名为525 Li豪华型，价格约为61.2万元，拥有156马力的最小动力和340马力的最大动力，最大扭矩为450牛·米，最小扭矩为200牛·米，座位数为5个。"
+                }
+            ],
+            "question": "宝马525LI的配置"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要查询宝马525LI的配置信息\n\nAction: Vehicle parameter configuration\n\nAction Input: 宝马525LI\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "宝马525LI的配置",
+        "action_input_result": "宝马525LI",
+        "score": 1,
+        "result_value": 0.6666666666666666
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "宝马5系",
+                    "agent": "宝马5系是一款豪华型轿车，品牌为华晨宝马，系列名为宝马5系，规格名为525 Li豪华型，价格约为61.2万元，拥有156马力的最小动力和340马力的最大动力，最大扭矩为450牛·米，最小扭矩为200牛·米，座位数为5个。"
+                },
+                {
+                    "user": "宝马525LI的配置",
+                    "agent": "宝马525LI的配置如下：\n品牌：华晨宝马\n系列：宝马5系\n规格：525 Li豪华型\n价格：61.2万元\n最小动力：156马力\n最大动力：340马力\n最大扭矩：450牛·米\n最小扭矩：200牛·米\n座位数：5个\n内部配置：车内氛围灯11色、皮革方向盘、方向盘材质皮质、多功能方向盘、电动上下、手动上下、方向盘记忆、手动空调、双温区自动空调、后排空调出风口、车载空气净化器、车内PM2.5过滤装置、香氛系统。\n希望这些信息能够帮助您了解宝马525LI的配置。 "
+                }
+            ],
+            "question": "大概多少钱"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我知道这款车的价格是61.2万元，但是这不是最准确的数字，因为价格可能会因地区、配置和市场变化而有所不同。\n\nAction: Vehicle parameter configuration\n\nAction Input: 宝马5系、525 Li豪华型、61.2万元\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "宝马525LI多少钱",
+        "action_input_result": "宝马5系、525 Li豪华型、61.2万元",
+        "score": 1,
+        "result_value": 0.1111111111111111
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "宝马5系",
+                    "agent": "宝马5系是一款豪华型轿车，品牌为华晨宝马，系列名为宝马5系，规格名为525 Li豪华型，价格约为61.2万元，拥有156马力的最小动力和340马力的最大动力，最大扭矩为450牛·米，最小扭矩为200牛·米，座位数为5个。"
+                },
+                {
+                    "user": "宝马525LI的配置",
+                    "agent": "宝马525LI的配置如下：\n品牌：华晨宝马\n系列：宝马5系\n规格：525 Li豪华型\n价格：61.2万元\n最小动力：156马力\n最大动力：340马力\n最大扭矩：450牛·米\n最小扭矩：200牛·米\n座位数：5个\n内部配置：车内氛围灯11色、皮革方向盘、方向盘材质皮质、多功能方向盘、电动上下、手动上下、方向盘记忆、手动空调、双温区自动空调、后排空调出风口、车载空气净化器、车内PM2.5过滤装置、香氛系统。\n希望这些信息能够帮助您了解宝马525LI的配置。 "
+                },
+                {
+                    "user": "大概多少钱",
+                    "agent": "宝马5系的价格因配置和地区而异。根据最新报价，宝马5系最低配置的裸车价格大约在47.5万元-53万元之间，全款办完车价大约在53万元左右-60万元之间。不过，具体售价还需要根据地区和配置的不同而有所不同。"
+                }
+            ],
+            "question": "宝马525LI怎么样"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要查询宝马525LI的详细信息，包括车型、系列、规格、价格、动力、扭矩、座位数等。\n\nAction: Vehicle parameter configuration\n\nAction Input: 宝马525Li\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "宝马525LI怎么样",
+        "action_input_result": "宝马525Li",
+        "score": 0,
+        "result_value": 1.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "宝马525LI的配置",
+                    "agent": "宝马525LI的配置如下：\n品牌：华晨宝马\n系列：宝马5系\n规格：525 Li豪华型\n价格：61.2万元\n最小动力：156马力\n最大动力：340马力\n最大扭矩：450牛·米\n最小扭矩：200牛·米\n座位数：5个\n内部配置：车内氛围灯11色、皮革方向盘、方向盘材质皮质、多功能方向盘、电动上下、手动上下、方向盘记忆、手动空调、双温区自动空调、后排空调出风口、车载空气净化器、车内PM2.5过滤装置、香氛系统。\n希望这些信息能够帮助您了解宝马525LI的配置。 "
+                },
+                {
+                    "user": "大概多少钱",
+                    "agent": "宝马5系的价格因配置和地区而异。根据最新报价，宝马5系最低配置的裸车价格大约在47.5万元-53万元之间，全款办完车价大约在53万元左右-60万元之间。不过，具体售价还需要根据地区和配置的不同而有所不同。"
+                },
+                {
+                    "user": "宝马525LI怎么样",
+                    "agent": "宝马525LI是一款高性能豪华轿车，拥有出色的动力性能和舒适的驾驶体验。它配备了先进的发动机和驾驶辅助技术，为您的驾驶提供安全和便利。此外，宝马525LI还具有良好的安全性能，配备了各种驾驶辅助设备和安全控制系统，确保您的安全和舒适。总的来说，宝马525LI是一款非常优秀的豪华轿车，值得您的信赖。 "
+                }
+            ],
+            "question": "525的同级车有哪些"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要查找525的同级车，以便为用户提供更多选择。\n\nAction: Vehicle parameter configuration\n\nAction Input: 525\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "525的同级车",
+        "action_input_result": "525",
+        "score": 0,
+        "result_value": 0.3333333333333333
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "星越L"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "这个问题有什么关系我的车？\n\nAction: \n\nAction Input: 星越L\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "",
+        "action_input_info": "星越L",
+        "action_input_result": "星越L",
+        "score": 0,
+        "result_value": 1.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "星越L",
+                    "agent": "星越L是吉利旗下车型，基于CMA平台打造，搭载2.0T发动机，匹配8速自动变速器，最大功率和扭矩分别为180kW和300N·m，零百加速时间为7.7秒。星越L的长宽高尺寸分别为4770/1895/1689毫米，2845毫米的轴距，比星越大一圈，是吉利旗舰SUV。\n相较于星越，星越L的2.0T动力更加强劲，加速性能更好，同时空间也更大。但是，油耗方面星越L也需要关注，毕竟动力更强，油耗也更高。\n总体来说，星越L的动力总成很牛，但也要注意油耗，希望星越L处于正常水准会能体现车辆的整体素质。"
+                }
+            ],
+            "question": "价格如何"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要知道星越L的价格，以回答用户的问题\n\nAction: Vehicle parameter configuration\n\nAction Input: 星越L\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "星越L价格",
+        "action_input_result": "星越L",
+        "score": 1,
+        "result_value": 0.6666666666666666
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "星越L",
+                    "agent": "星越L是吉利旗下车型，基于CMA平台打造，搭载2.0T发动机，匹配8速自动变速器，最大功率和扭矩分别为180kW和300N·m，零百加速时间为7.7秒。星越L的长宽高尺寸分别为4770/1895/1689毫米，2845毫米的轴距，比星越大一圈，是吉利旗舰SUV。\n相较于星越，星越L的2.0T动力更加强劲，加速性能更好，同时空间也更大。但是，油耗方面星越L也需要关注，毕竟动力更强，油耗也更高。\n总体来说，星越L的动力总成很牛，但也要注意油耗，希望星越L处于正常水准会能体现车辆的整体素质。"
+                },
+                {
+                    "user": "价格如何",
+                    "agent": "星越L的价格在13.72万-18.52万之间，具体价格会因配置不同和地区而异。此外，四驱版本的星越L价格较高，落地也得20-21万左右，和领克的落地价格差距不大。不过，星越L的动力总成很牛，油耗也处于正常水准，但需要注意价格和油耗之间的平衡。"
+                }
+            ],
+            "question": "配置怎么样呢？通俗的给我介绍下"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要了解用户的需求，然后根据这些信息推荐适合的配置。\n\nAction: 配置推荐\n\nAction Input: 星越L\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "配置推荐",
+        "action_input_info": "星越L的配置",
+        "action_input_result": "星越L",
+        "score": 0,
+        "result_value": 0.6666666666666666
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "星越L",
+                    "agent": "星越L是吉利旗下车型，基于CMA平台打造，搭载2.0T发动机，匹配8速自动变速器，最大功率和扭矩分别为180kW和300N·m，零百加速时间为7.7秒。星越L的长宽高尺寸分别为4770/1895/1689毫米，2845毫米的轴距，比星越大一圈，是吉利旗舰SUV。\n相较于星越，星越L的2.0T动力更加强劲，加速性能更好，同时空间也更大。但是，油耗方面星越L也需要关注，毕竟动力更强，油耗也更高。\n总体来说，星越L的动力总成很牛，但也要注意油耗，希望星越L处于正常水准会能体现车辆的整体素质。"
+                },
+                {
+                    "user": "价格如何",
+                    "agent": "星越L的价格在13.72万-18.52万之间，具体价格会因配置不同和地区而异。此外，四驱版本的星越L价格较高，落地也得20-21万左右，和领克的落地价格差距不大。不过，星越L的动力总成很牛，油耗也处于正常水准，但需要注意价格和油耗之间的平衡。"
+                },
+                {
+                    "user": "配置怎么样呢？通俗的给我介绍下",
+                    "agent": "吉利汽车星越L2.0T 双离合两驱旗舰型是一款中型SUV，具有以下配置：\n- 品牌：吉利汽车\n- 系列：星越L\n- 规格：2.0T 双离合两驱旗舰型\n- 价格：16.52万元\n- 最小动力：150马力\n- 最大动力：238马力\n- 最大扭矩：350牛·米\n- 最小扭矩：225牛·米\n- 座位数：5\n- 内部配置：车内氛围灯72色、遮阳板化妆镜主驾驶+照明灯、副驾驶+照明灯、方向盘材质皮质、多功能方向盘、方向盘调节手动上下+前后调节、前排空调双温区自动空调、前排空调单温区自动空调、后排空调单温区自动空调、后排空调出风口、车内PM2.5过滤装置、负离子发生器、主动降噪。\n该车型拥有5个座位，提供车内氛围灯、遮阳板化妆镜、方向盘材质皮质、多功能方向盘、方向盘调节手动上下+前后调节、前排空调双温区自动空调、前排空调单温区自动空调、后排空调单温区自动空调、后排空调出风口、车内PM2.5过滤装置、负离子发生器、主动降噪等配置。"
+                }
+            ],
+            "question": "详细介绍下发动机吧"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要知道星越L发动机的详细信息，以便更好地回答问题\n\nAction: Vehicle parameter configuration\n\nAction Input: 星越L\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "星越L发动机",
+        "action_input_result": "星越L",
+        "score": 1,
+        "result_value": 0.6666666666666666
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "长安CS75PLUS发动机型号是什么"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要知道长安CS75PLUS发动机的型号才能回答这个问题\n\nAction: Vehicle parameter configuration\n\nAction Input: 长安CS75PLUS\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "长安CS75PLUS发动机型号",
+        "action_input_result": "长安CS75PLUS",
+        "score": 1,
+        "result_value": 0.5
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "长安CS75PLUS发动机型号是什么",
+                    "agent": "长安CS75PLUS 2.0T 手自一体 旗舰型发动机型号为YF473J20B。"
+                }
+            ],
+            "question": "发动机型号为是2.0L L4 BWM发动机吗"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要确定这辆车的发动机型号是否是2.0L L4 BWM发动机，我会查看车辆的发动机信息。\n\nAction: Vehicle parameter configuration\n\nAction Input: 长安CS75PLUS 2.0T 手自一体 旗舰型发动机型号为YF473J20B\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "长安CS75PLUS发动机型号",
+        "action_input_result": "长安CS75PLUS 2.0T 手自一体 旗舰型发动机型号为YF473J20B",
+        "score": 1,
+        "result_value": 0.36363636363636365
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "长安CS75PLUS发动机型号是什么",
+                    "agent": "长安CS75PLUS 2.0T 手自一体 旗舰型发动机型号为YF473J20B。"
+                },
+                {
+                    "user": "动机型号为是2.0L L4 BWM发动机吗",
+                    "agent": "长安CS75PLUS发动机型号是2.0L L4 BWM。"
+                }
+            ],
+            "question": "星越L"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "这个问题有关于汽车，我需要查询汽车评论和FAQ。\nAction: Vehicle reviews and FAQ query\nAction Input: 星越L\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle reviews and FAQ query",
+        "action_input_info": "星越L",
+        "action_input_result": "星越L",
+        "score": 0,
+        "result_value": 1.0
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "星越L"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "这个问题有什么关系我的车？\n\nAction: \n\nAction Input: 星越L\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "",
+        "action_input_info": "星越L",
+        "action_input_result": "星越L",
+        "score": 0,
+        "result_value": 1.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "星越L",
+                    "agent": "星越L2.0T 双离合两驱旗舰型，16.52万元。\n150马力，238马力，350牛·米，225牛·米，4770mm,4770mm,1895mm,1895mm,110马力，175马力，棕色/白色，星空灰/黑色，95号，92号，紧凑型SUV，国六排放，4年或10万公里，自动空调，多媒体系统，导航，电话，空调，天窗，手机无线充电，外接音源接口Type-C。"
+                }
+            ],
+            "question": "价格是多少"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我知道这辆车的价格是150万元和16.52万元，这是哪一辆车？\n\nAction: 查询Vehicle parameter configuration\n\nAction Input: 星越L2.0T 双离合两驱旗舰型\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "查询Vehicle parameter configuration",
+        "action_input_info": "星越L价格",
+        "action_input_result": "星越L2.0T 双离合两驱旗舰型",
+        "score": 1,
+        "result_value": 0.1
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "星越L",
+                    "agent": "星越L2.0T 双离合两驱旗舰型，16.52万元。\n150马力，238马力，350牛·米，225牛·米，4770mm,4770mm,1895mm,1895mm,110马力，175马力，棕色/白色，星空灰/黑色，95号，92号，紧凑型SUV，国六排放，4年或10万公里，自动空调，多媒体系统，导航，电话，空调，天窗，手机无线充电，外接音源接口Type-C。"
+                },
+                {
+                    "user": "价格是多少",
+                    "agent": "星越L2.0T价格：16.52万元。"
+                }
+            ],
+            "question": "价格是不是有点太低了"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我不确定价格是否合理，需要查询相关信息\n\nAction: Vehicle reviews and FAQ query\n\nAction Input: 星越L2.0T\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle reviews and FAQ query",
+        "action_input_info": "星越L价格",
+        "action_input_result": "星越L2.0T",
+        "score": 1,
+        "result_value": 0.2
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "星越L",
+                    "agent": "星越L2.0T 双离合两驱旗舰型，16.52万元。150马力，238马力，350牛·米，225牛·米，4770mm,4770mm,1895mm,1895mm,110马力，175马力，棕色/白色，星空灰/黑色，95号，92号，紧凑型SUV，国六排放，4年或10万公里，自动空调，多媒体系统，导航，电话，空调，天窗，手机无线充电，外接音源接口Type-C。"
+                },
+                {
+                    "user": "价格是多少",
+                    "agent": "星越L2.0T价格：16.52万元。"
+                },
+                {
+                    "user": "价格是不是有点太低了",
+                    "agent": "根据已知信息，星越L2.0T价格确实有点太低了。虽然它拥有出色的性能和内饰，但是价格相对较低可能会影响其市场竞争力。此外，还需要考虑其他因素，如购买时间、保险和税收等，这些因素可能会对价格产生影响。建议在购买前仔细比较不同品牌和型号的車，并考虑其他选项，以确保获得最佳的性价比。"
+                }
+            ],
+            "question": "还能优惠吗？最低价多少？"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要了解更多信息才能回答这个问题。\n\nAction: Vehicle reviews and FAQ query\n\nAction Input: 星越L2.0T\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle reviews and FAQ query",
+        "action_input_info": "星越L最低价？",
+        "action_input_result": "星越L2.0T",
+        "score": 1,
+        "result_value": 0.2
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "价格是多少",
+                    "agent": "星越L2.0T价格：16.52万元。"
+                },
+                {
+                    "user": "价格是不是有点太低了",
+                    "agent": "根据已知信息，星越L2.0T价格确实有点太低了。虽然它拥有出色的性能和内饰，但是价格相对较低可能会影响其市场竞争力。此外，还需要考虑其他因素，如购买时间、保险和税收等，这些因素可能会对价格产生影响。建议在购买前仔细比较不同品牌和型号的車，并考虑其他选项，以确保获得最佳的性价比。"
+                },
+                {
+                    "user": "还能优惠吗？最低价多少？",
+                    "agent": "很抱歉，我需要更多的上下文信息才能回答您的问题。请提供更多关于星越L2.0T的信息，以便我能够更好地回答您的问题。"
+                }
+            ],
+            "question": "星越L2.0T价格还能优惠吗?最低价多少？"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要更多信息才能回答这个问题。\n\nAction: 请提供更多关于星越L2.0T的信息。\n\nAction Input: 星越L2.0T\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "请提供更多关于星越L2.0T的信息。",
+        "action_input_info": "星越L2.0T最低价",
+        "action_input_result": "星越L2.0T",
+        "score": 0,
+        "result_value": 0.75
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "比较下宝马6GT和宝马525"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要知道这两款车的优缺点和哪一款更好\n\nAction: Vehicle parameter configuration\n\nAction Input: 宝马6GT, 宝马525\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "宝马6GT和宝马525",
+        "action_input_result": "宝马6GT, 宝马525",
+        "score": 0,
+        "result_value": 0.75
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "比较下宝马6GT和宝马525",
+                    "agent": "宝马6GT和宝马525都是宝马旗下的车型，它们在某些方面有所不同，具体比较如下：\n- 选车理由：6GT注重外观和性能，525则更注重舒适性和实用性。\n- 最满意：6GT的外观设计时尚、性能出色，而525的舒适性和实用性更好。\n- 最不满意：6GT的油耗较高，而525的舒适性和实用性不如6GT。\n- 空间：6GT的车内空间较大，适合家庭或商务用途，而525则更适合单身或小型家庭。\n- 外观：6GT的外观设计更加时尚、运动，而525则更加传统、稳重。\n- 油耗：6GT的油耗较高，而525的油耗相对较低。\n总体来说，6GT和525在外观、性能、舒适性和实用性等方面有所不同，用户可以根据自己的需求和喜好选择适合自己的车型。"
+                }
+            ],
+            "question": "比较下宝马6GT和宝马525Li的参数"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要查看这两款车的相关参数来进行比较。\n\nAction: Vehicle parameter configuration\n\nAction Input: 宝马6GT, 宝马525Li\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "宝马6GT和宝马525Li的参数",
+        "action_input_result": "宝马6GT, 宝马525Li",
+        "score": 1,
+        "result_value": 0.6
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "比较下宝马6GT和宝马525",
+                    "agent": "宝马6GT和宝马525都是宝马旗下的车型，它们在某些方面有所不同，具体比较如下：- 选车理由：6GT注重外观和性能，525则更注重舒适性和实用性。- 最满意：6GT的外观设计时尚、性能出色，而525的舒适性和实用性更好。- 最不满意：6GT的油耗较高，而525的舒适性和实用性不如6GT。- 空间：6GT的车内空间较大，适合家庭或商务用途，而525则更适合单身或小型家庭。- 外观：6GT的外观设计更加时尚、运动，而525则更加传统、稳重。- 油耗：6GT的油耗较高，而525的油耗相对较低。总体来说，6GT和525在外观、性能、舒适性和实用性等方面有所不同，用户可以根据自己的需求和喜好选择适合自己的车型。"
+                },
+                {
+                    "user": "比较下宝马6GT和宝马525Li的参数",
+                    "agent": "宝马6GT和525Li是两款宝马车型，它们在不同的市场和定位中拥有不同的参数。\n宝马6GT是一款高性能跑车，它拥有3.0升六缸双涡管发动机，最大功率384马力，匹配8速自动变速器。宝马6GT的外观前脸帅气十足，线条流畅，紧跟时代步伐，很喜欢这种时尚的感觉。宝马6GT的舒适性和空间一般，但它的外观设计和性能表现让它成为了一款备受关注的车型。\n宝马525Li则是一款豪华轿车，它拥有2.0升四缸双涡管发动机，最大功率258马力，匹配7速自动变速器。宝马525Li的外观简洁大方，线条流畅，拥有舒适的舒适性和宽敞的空间。宝马525Li的油耗表现较为理想。\n总的来说，宝马6GT和525Li在外观、性能、舒适性和空间等方面都有各自的优势和不足，消费者可以根据自己的需求和预算选择适合自己的车型。"
+                }
+            ],
+            "question": "比较下宝马6GT和宝马525Li的动力"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要知道这两款车的动力表现，以便为用户提供更准确的建议。\n\nAction: 查询宝马6GT和宝马525Li的动力表现。\n\nAction Input: 查询\"宝马6GT\"和\"宝马525Li\"的动力表现。\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "查询宝马6GT和宝马525Li的动力表现。",
+        "action_input_info": "宝马6GT和宝马525Li的动力",
+        "action_input_result": "查询\"宝马6GT\"和\"宝马525Li\"的动力表现。",
+        "score": 0,
+        "result_value": 0.6666666666666666
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "个我介绍下宝马6GT"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我知道这款车，它是宝马旗下的一款轿车，具有较高的性价比和较好的驾驶体验。\n\nAction: 查询宝马6GT的规格和评价\n\nAction Input: 宝马6GT\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "查询宝马6GT的规格和评价",
+        "action_input_info": "宝马6GT",
+        "action_input_result": "宝马6GT",
+        "score": 0,
+        "result_value": 1.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "个我介绍下宝马6GT",
+                    "agent": "宝马6GT是一款高性能的豪华轿车，拥有时尚的外观和宽敞的驾驶空间。其动力性能出色，油门响应灵敏，速度感强烈。此外，6GT还配备了先进的驾驶辅助系统和豪华舒适的内饰，为驾驶体验提供了全方位的保障。是一款性价比极高的豪华轿车，值得选购。"
+                }
+            ],
+            "question": "它的发动机怎么样"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要查询宝马6GT的发动机参数，以便回答问题。\n\nAction: Vehicle parameter configuration\n\nAction Input: 宝马6GT\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "宝马6GT的发动机",
+        "action_input_result": "宝马6GT",
+        "score": 0,
+        "result_value": 0.6666666666666666
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "哈佛H6的配置"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要查看H6的配置，然后回答问题\n\nAction: Vehicle parameter configuration\n\nAction Input: H6\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "哈佛H6的配置",
+        "action_input_result": "H6",
+        "score": 1,
+        "result_value": 0.3333333333333333
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "哈佛H6的口碑怎么样"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要查看哈佛H6的评价和口碑，以确定其是否是一款优秀的车型。\n\nAction: Vehicle reviews and FAQ query\n\nAction Input: 哈佛H6\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle reviews and FAQ query",
+        "action_input_info": "哈佛H6的口碑",
+        "action_input_result": "哈佛H6",
+        "score": 1,
+        "result_value": 0.6666666666666666
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "哈佛H6的口碑怎么样",
+                    "agent": "根据已知信息，哈佛H6是一款受欢迎的紧凑型SUV，其口碑较好。许多人称赞它的外观和内饰，并且认为它的动力和燃油经济性都很优秀。然而，每个人的通勤路况和驾驶风格不同，因此对于哈佛H6的口碑评价也会有所不同。如果您有使用哈佛H6的经验，您可以提供更多的信息，以便我为您提供更准确的答案。"
+                }
+            ],
+            "question": "这款车容易坏吗"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要更多的信息来确定这款车是否容易坏。\n\nAction: Vehicle reviews and FAQ query\n\nAction Input: H6, SUV, 容易坏\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle reviews and FAQ query",
+        "action_input_info": "哈佛H6容易坏吗",
+        "action_input_result": "H6, SUV, 容易坏",
+        "score": 1,
+        "result_value": 0.4
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "哈佛H6的口碑怎么样",
+                    "agent": "根据已知信息，哈佛H6是一款受欢迎的紧凑型SUV，其口碑较好。许多人称赞它的外观和内饰，并且认为它的动力和燃油经济性都很优秀。然而，每个人的通勤路况和驾驶风格不同，因此对于哈佛H6的口碑评价也会有所不同。如果您有使用哈佛H6的经验，您可以提供更多的信息，以便我为您提供更准确的答案。"
+                },
+                {
+                    "user": "这款车容易坏吗",
+                    "agent": "根据已知信息，哈佛H6的维修方便，一般配件4S店都有，不用担心没有配件的问题。而且哈佛H6很大众，如果开车过程中出现故障，一给4S店打电话就行，都能给你解决。因此，哈佛H6这款车不容易坏。但是，车还是像其他物品一样，会经历使用期限和磨损，所以建议在使用哈佛H6时，要注意保养和定期更换必要的零部件。"
+                }
+            ],
+            "question": "价格是多少"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要知道哈佛H6的价格，以便回答用户的问题\n\nAction: Vehicle parameter configuration\n\nAction Input: 哈佛H6\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "哈佛H6价格",
+        "action_input_result": "哈佛H6",
+        "score": 1,
+        "result_value": 0.6666666666666666
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "哈佛H6的口碑怎么样",
+                    "agent": "根据已知信息，哈佛H6是一款受欢迎的紧凑型SUV，其口碑较好。许多人称赞它的外观和内饰，并且认为它的动力和燃油经济性都很优秀。然而，每个人的通勤路况和驾驶风格不同，因此对于哈佛H6的口碑评价也会有所不同。如果您有使用哈佛H6的经验，您可以提供更多的信息，以便我为您提供更准确的答案。"
+                },
+                {
+                    "user": "这款车容易坏吗",
+                    "agent": "根据已知信息，哈佛H6的维修方便，一般配件4S店都有，不用担心没有配件的问题。而且哈佛H6很大众，如果开车过程中出现故障，一给4S店打电话就行，都能给你解决。因此，哈佛H6这款车不容易坏。但是，车还是像其他物品一样，会经历使用期限和磨损，所以建议在使用哈佛H6时，要注意保养和定期更换必要的零部件。"
+                },
+                {
+                    "user": "价格是多少",
+                    "agent": "长城哈弗H6 2.0L 手动两驱尊贵型汽油的价格为11.58万元。"
+                }
+            ],
+            "question": "如果贷款的话，裸车价格会不会相对低一些"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "贷款会影响购车成本，需要考虑这个因素\n\nAction: Vehicle parameter configuration\n\nAction Input: 贷款\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "长城哈弗H6 2.0L 手动两驱尊贵型汽油贷款裸车价格",
+        "action_input_result": "贷款",
+        "score": 0,
+        "result_value": 0.07692307692307693
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "这款车容易坏吗",
+                    "agent": "根据已知信息，哈佛H6的维修方便，一般配件4S店都有，不用担心没有配件的问题。而且哈佛H6很大众，如果开车过程中出现故障，一给4S店打电话就行，都能给你解决。因此，哈佛H6这款车不容易坏。但是，车还是像其他物品一样，会经历使用期限和磨损，所以建议在使用哈佛H6时，要注意保养和定期更换必要的零部件。"
+                },
+                {
+                    "user": "价格是多少",
+                    "agent": "长城哈弗H6 2.0L 手动两驱尊贵型汽油的价格为11.58万元。"
+                },
+                {
+                    "user": "如果贷款的话，裸车价格会不会相对低一些",
+                    "agent": "根据已知信息，贷款买车费用比全款要多，手续费是二三千，没有免息的话，要给利息，与个人贷款金额有关，有个别店还要求安装GPS，费用要二千多。因此，贷款可能会影响价格，如果贷款的话，裸车价格可能会相对低一些。但是，具体裸车价格差异取决于贷款金额、利率、车型、店庆等因素，需要综合考虑。"
+                }
+            ],
+            "question": "你知道这款车的发动机型号吗"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要知道这款车的发动机型号才能回答问题。\n\nAction: Vehicle parameter configuration\n\nAction Input: 哈佛H6\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "长城哈弗H6 2.0L 手动两驱尊贵型汽油发动机型号",
+        "action_input_result": "哈佛H6",
+        "score": 1,
+        "result_value": 0.07692307692307693
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "价格是多少",
+                    "agent": "长城哈弗H6 2.0L 手动两驱尊贵型汽油的价格为11.58万元。"
+                },
+                {
+                    "user": "如果贷款的话，裸车价格会不会相对低一些",
+                    "agent": "根据已知信息，贷款买车费用比全款要多，手续费是二三千，没有免息的话，要给利息，与个人贷款金额有关，有个别店还要求安装GPS，费用要二千多。因此，贷款可能会影响价格，如果贷款的话，裸车价格可能会相对低一些。但是，具体裸车价格差异取决于贷款金额、利率、车型、店庆等因素，需要综合考虑。"
+                },
+                {
+                    "user": "你知道这款车的发动机型号吗",
+                    "agent": "根据已知信息，这款车的发动机型号是双顶置凸轮轴(Dohc)16V。"
+                }
+            ],
+            "question": "那变速箱呢"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要知道这款车的变速箱\n\nAction: Vehicle parameter configuration\n\nAction Input: 变速箱\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "长城哈弗H6 2.0L 手动两驱尊贵型汽油变速箱",
+        "action_input_result": "变速箱",
+        "score": 1,
+        "result_value": 0.09090909090909091
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "欧拉好猫续航"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我知道这个问题有什么与我们的车型有关\n\nAction: Vehicle parameter configuration\n\nAction Input: 欧拉\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "欧拉好猫续航",
+        "action_input_result": "欧拉",
+        "score": 0,
+        "result_value": 0.3333333333333333
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "欧拉好猫续航",
+                    "agent": "根据已知信息，欧拉好猫这台车子的续航可以达到501千米，而且这款车子本身的车型就比较小，所以挺省电的。因此，可以推测欧拉好猫的续航应该相当长。但是，由于未提供足够的相关信息，无法进一步确定其实际续航里程。"
+                }
+            ],
+            "question": "欧拉好猫续航怎么样"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要更多信息来确定欧拉好猫的续航里程。\n\nAction: Vehicle parameter configuration\n\nAction Input: 欧拉好猫\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "欧拉好猫续航",
+        "action_input_result": "欧拉好猫",
+        "score": 0,
+        "result_value": 0.6666666666666666
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "欧拉好猫续航",
+                    "agent": "根据已知信息，欧拉好猫这台车子的续航可以达到501千米，而且这款车子本身的车型就比较小，所以挺省电的。因此，可以推测欧拉好猫的续航应该相当长。但是，由于未提供足够的相关信息，无法进一步确定其实际续航里程。"
+                },
+                {
+                    "user": "欧拉好猫续航怎么样",
+                    "agent": "根据已知信息，欧拉好猫的官方指导续航可以达到501千米，实际表现与官方指导相差不大，因此欧拉好猫的续航表现是比较不错的。"
+                }
+            ],
+            "question": "多少钱"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要知道用户想要买的车型，才能回答这个问题。\n\nAction: Vehicle reviews and FAQ query\n\nAction Input: 欧拉好猫\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle reviews and FAQ query",
+        "action_input_info": "欧拉好猫多少钱",
+        "action_input_result": "欧拉好猫",
+        "score": 0,
+        "result_value": 0.6666666666666666
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "欧拉好猫续航",
+                    "agent": "根据已知信息，欧拉好猫这台车子的续航可以达到501千米，而且这款车子本身的车型就比较小，所以挺省电的。因此，可以推测欧拉好猫的续航应该相当长。但是，由于未提供足够的相关信息，无法进一步确定其实际续航里程。"
+                },
+                {
+                    "user": "欧拉好猫续航怎么样",
+                    "agent": "根据已知信息，欧拉好猫的官方指导续航可以达到501千米，实际表现与官方指导相差不大，因此欧拉好猫的续航表现是比较不错的。"
+                },
+                {
+                    "user": "多少钱",
+                    "agent": "根据已知信息，欧拉猫最低底价为5万块钱一辆。但是请注意，这只是最低底价，实际价格可能会因地区、颜色和配置等因素而有所不同。如果有更多关于欧拉猫的信息，请提供更多细节，我将尽力为您提供帮助。"
+                }
+            ],
+            "question": "是什么电池的"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要确定欧拉猫的电池类型，以便更好地回答问题。\n\nAction: Vehicle parameter configuration\n\nAction Input: 欧拉猫\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "欧拉好猫电池",
+        "action_input_result": "欧拉猫",
+        "score": 1,
+        "result_value": 0.6666666666666666
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "欧拉好猫续航怎么样",
+                    "agent": "根据已知信息，欧拉好猫的官方指导续航可以达到501千米，实际表现与官方指导相差不大，因此欧拉好猫的续航表现是比较不错的。"
+                },
+                {
+                    "user": "多少钱",
+                    "agent": "根据已知信息，欧拉猫最低底价为5万块钱一辆。但是请注意，这只是最低底价，实际价格可能会因地区、颜色和配置等因素而有所不同。如果有更多关于欧拉猫的信息，请提供更多细节，我将尽力为您提供帮助。"
+                },
+                {
+                    "user": "是什么电池的",
+                    "agent": "欧拉好猫是长城汽车·新能源欧拉好猫401km 标准续航 缪斯版 三元锂车型使用的电池。 "
+                }
+            ],
+            "question": "是磷酸铁锂电池吗"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要确定欧拉好猫的电池类型，因为这是用户问的\n\nAction: Vehicle Brand and Series Recognition\n\nAction Input: 欧拉好猫\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle Brand and Series Recognition",
+        "action_input_info": "欧拉好猫电池",
+        "action_input_result": "欧拉好猫",
+        "score": 0,
+        "result_value": 0.6666666666666666
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "多少钱",
+                    "agent": "根据已知信息，欧拉猫最低底价为5万块钱一辆。但是请注意，这只是最低底价，实际价格可能会因地区、颜色和配置等因素而有所不同。如果有更多关于欧拉猫的信息，请提供更多细节，我将尽力为您提供帮助。"
+                },
+                {
+                    "user": "是什么电池的",
+                    "agent": "欧拉好猫是长城汽车·新能源欧拉好猫401km 标准续航 缪斯版 三元锂车型使用的电池。 "
+                },
+                {
+                    "user": "是磷酸铁锂电池吗",
+                    "agent": "根据已知信息，现代菲斯塔纯电动的电池是一款三元锂动力的电池组，因此不是磷酸铁锂电池。"
+                }
+            ],
+            "question": "欧拉好猫的电池类型是什么"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "根据用户提供的信息，欧拉好猫使用的电池类型应该是三元锂电池。\n\nAction: Vehicle parameter configuration\n\nAction Input: 欧拉好猫\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "欧拉好猫的电池类型",
+        "action_input_result": "欧拉好猫",
+        "score": 1,
+        "result_value": 0.5
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "介绍一下最新款的宝来"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": " 我需要知道宝来的最新款",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "",
+        "action_input_info": "最新款的宝来",
+        "action_input_result": "",
+        "score": 0,
+        "result_value": 0.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "介绍一下最新款的宝来",
+                    "agent": "最新款的大众宝来是2021年推出的，它采用了最新的设计语言和技术，具有更高的颜值和更好的性能。此外，它还提供了多种配置，包括电动天窗、皮质座椅、自动空调等，以满足消费者的需求。宝来的平台和发动机技术也进行了升级，使其燃油效率和可靠性都得到了提升。总的来说，最新款的大众宝来是一款非常优秀的家用小车，值得消费者考虑。"
+                }
+            ],
+            "question": "新宝来"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要知道这辆车的价格和性能，以及它是否有较高的燃油经济性。\n\nAction: Vehicle parameter configuration\n\nAction Input: 宝来\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "新宝来",
+        "action_input_result": "宝来",
+        "score": 1,
+        "result_value": 0.0
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "宝马5系"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我知道这是一款车型，但我需要更多信息才能回答这个问题\n\nAction: Vehicle parameter configuration\n\nAction Input: 宝马5系\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "宝马5系",
+        "action_input_result": "宝马5系",
+        "score": 0,
+        "result_value": 1.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "宝马5系",
+                    "agent": "宝马5系是一款豪华轿车，外观大气、端庄，感觉非常有档次。乘坐空间也是比较宽松的，乘坐舒适性很强。操控性是一流的，方向盘也很精准。动力表现也是很强劲的，深踩油会有强烈的推背感，动力输出非常平顺。总的来说，宝马5系的性价比也是很高的，值得选择入手。"
+                }
+            ],
+            "question": "多少钱"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我知道这款车售价很高，但是需要知道具体的价格。\n\nAction: Vehicle parameter configuration\n\nAction Input: 宝马5系\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "宝马5系多少钱",
+        "action_input_result": "宝马5系",
+        "score": 1,
+        "result_value": 0.6666666666666666
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "宝马5系",
+                    "agent": "宝马5系是一款豪华轿车，外观大气、端庄，感觉非常有档次。乘坐空间也是比较宽松的，乘坐舒适性很强。操控性是一流的，方向盘也很精准。动力表现也是很强劲的，深踩油会有强烈的推背感，动力输出非常平顺。总的来说，宝马5系的性价比也是很高的，值得选择入手。"
+                },
+                {
+                    "user": "多少钱",
+                    "agent": "宝马5系的价格因配置不同而异，裸车最低配置需要约47.5万元，全款办完约53万元左右。请提供具体车型及配置，以便更准确地回答您的问题。"
+                }
+            ],
+            "question": "宝马525"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我知道这是宝马5系的一个车型，但是需要更多信息才能回答这个问题。\n\nAction: Vehicle parameter configuration\n\nAction Input: 宝马525\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "宝马525",
+        "action_input_result": "宝马525",
+        "score": 0,
+        "result_value": 1.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "宝马5系",
+                    "agent": "宝马5系是一款豪华轿车，外观大气、端庄，感觉非常有档次。乘坐空间也是比较宽松的，乘坐舒适性很强。操控性是一流的，方向盘也很精准。动力表现也是很强劲的，深踩油会有强烈的推背感，动力输出非常平顺。总的来说，宝马5系的性价比也是很高的，值得选择入手。"
+                },
+                {
+                    "user": "多少钱",
+                    "agent": "宝马5系的价格因配置不同而异，裸车最低配置需要约47.5万元，全款办完约53万元左右。请提供具体车型及配置，以便更准确地回答您的问题。"
+                },
+                {
+                    "user": "宝马525",
+                    "agent": "宝马5系的价格因配置不同而异，裸车最低配置需要约47.5万元，全款办完约53万元左右。请提供具体车型及配置，以便更准确地回答您的问题。"
+                }
+            ],
+            "question": "宝马525Li"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我知道这款车的一些信息，但是我需要更多信息来回答您的问题。\n\nAction: Vehicle parameter configuration\n\nAction Input: 宝马525Li\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "宝马525Li",
+        "action_input_result": "宝马525Li",
+        "score": 0,
+        "result_value": 1.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "多少钱",
+                    "agent": "宝马5系的价格因配置不同而异，裸车最低配置需要约47.5万元，全款办完约53万元左右。请提供具体车型及配置，以便更准确地回答您的问题。"
+                },
+                {
+                    "user": "宝马525",
+                    "agent": "宝马5系的价格因配置不同而异，裸车最低配置需要约47.5万元，全款办完约53万元左右。请提供具体车型及配置，以便更准确地回答您的问题。"
+                },
+                {
+                    "user": "宝马525Li",
+                    "agent": "宝马5系是一款豪华轿车，外观大气、端庄，感觉非常有档次。乘坐空间也是比较宽松的，乘坐舒适性很强。操控性是一流的，方向盘也很精准。动力表现也是很强劲的，深踩油会有强烈的推背感，动力输出非常平顺。总的来说，宝马5系的性价比也是很高的，值得选择入手。"
+                }
+            ],
+            "question": "发动机怎么样"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要知道宝马5系的发动机情况，以回答用户的问题。\n\nAction: 查询宝马5系的发动机参数\n\nAction Input: 宝马5系\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "查询宝马5系的发动机参数",
+        "action_input_info": "宝马525Li发动机",
+        "action_input_result": "宝马5系",
+        "score": 0,
+        "result_value": 0.25
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "宝马525",
+                    "agent": "宝马5系的价格因配置不同而异，裸车最低配置需要约47.5万元，全款办完约53万元左右。请提供具体车型及配置，以便更准确地回答您的问题。"
+                },
+                {
+                    "user": "宝马525Li",
+                    "agent": "宝马5系是一款豪华轿车，外观大气、端庄，感觉非常有档次。乘坐空间也是比较宽松的，乘坐舒适性很强。操控性是一流的，方向盘也很精准。动力表现也是很强劲的，深踩油会有强烈的推背感，动力输出非常平顺。总的来说，宝马5系的性价比也是很高的，值得选择入手。"
+                },
+                {
+                    "user": "发动机怎么样",
+                    "agent": "根据已知信息，可以回答您的问题：发动机是汽车的重要部件之一，其性能直接影响汽车的性能和可靠性。三菱发动机质量稳定，性能可靠，具有低噪音、低振动、高效率、高可靠性等特点，因此在汽车制造业中广泛使用。但是，发动机的性能受到多种因素的影响，如驾驶风格、路况、天气等，因此不能简单地用是否省油来衡量其性能。"
+                }
+            ],
+            "question": "变速箱怎么样"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要知道更多关于变速箱的信息，以回答这个问题。\n\nAction: Vehicle parameter configuration\n\nAction Input: 变速箱\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "宝马525Li变速箱",
+        "action_input_result": "变速箱",
+        "score": 0,
+        "result_value": 0.3333333333333333
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "20-25万值得购买的车"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我要了解这些车的性能、价格和驾驶体验，然后给出一个明确的建议。\n\nAction: Vehicle parameter configuration\n\nAction Input: 20-25万车型\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "20-25万值得购买的车",
+        "action_input_result": "20-25万车型",
+        "score": 0,
+        "result_value": 0.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "20-25万值得购买的车",
+                    "agent": "根据已知信息，20-25万的价格范围内，值得购买的车有：\n\n1. 丰田卡罗拉(Toyota Corolla)：这是一款经济实用、可靠性高的车型，适合日常驾驶和家用。 \n\n2. 本田雅阁(Honda Accord)：雅阁是一款性能卓越的中型车，拥有出色的动力和操控表现，同时也具有舒适的驾驶体验。 \n\n3. 大众高尔夫(Volkswagen Golf)：这是一款外观时尚、内饰豪华、操控优秀的小型车，适合城市驾驶和日常出行。\n\n4. 丰田凯美瑞(Toyota Camry)：凯美瑞是一款中型车，拥有出色的可靠性和舒适性，同时也具有强大的动力和油耗表现。 \n\n以上车型都是20-25万价格范围内的优秀选择，可以根据自己的需求和喜好进行选择。 "
+                }
+            ],
+            "question": "卡罗拉多少钱"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我已经告诉过用户卡罗拉的价格范围，可以根据用户的需求和喜好来选择购买。\n\nAction: Vehicle parameter configuration\n\nAction Input: 丰田卡罗拉\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "卡罗拉多少钱",
+        "action_input_result": "丰田卡罗拉",
+        "score": 1,
+        "result_value": 0.5
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "20-25万值得购买的车",
+                    "agent": "根据已知信息，20-25万的价格范围内，值得购买的车有：\n\n1. 丰田卡罗拉(Toyota Corolla)：这是一款经济实用、可靠性高的车型，适合日常驾驶和家用。 \n\n2. 本田雅阁(Honda Accord)：雅阁是一款性能卓越的中型车，拥有出色的动力和操控表现，同时也具有舒适的驾驶体验。 \n\n3. 大众高尔夫(Volkswagen Golf)：这是一款外观时尚、内饰豪华、操控优秀的小型车，适合城市驾驶和日常出行。\n\n4. 丰田凯美瑞(Toyota Camry)：凯美瑞是一款中型车，拥有出色的可靠性和舒适性，同时也具有强大的动力和油耗表现。 \n\n以上车型都是20-25万价格范围内的优秀选择，可以根据自己的需求和喜好进行选择。 "
+                },
+                {
+                    "user": "卡罗拉多少钱",
+                    "agent": "丰田卡罗拉GL-i AT价格：15.98万元。 "
+                }
+            ],
+            "question": "雅阁多少钱"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我已经知道雅阁的价格，但需要再确认一下。\n\nAction: Vehicle reviews and FAQ query\n\nAction Input: 本田雅阁\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle reviews and FAQ query",
+        "action_input_info": "雅阁多少钱",
+        "action_input_result": "本田雅阁",
+        "score": 0,
+        "result_value": 0.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "20-25万值得购买的车",
+                    "agent": "根据已知信息，20-25万的价格范围内，值得购买的车有：\n\n1. 丰田卡罗拉(Toyota Corolla)：这是一款经济实用、可靠性高的车型，适合日常驾驶和家用。 \n\n2. 本田雅阁(Honda Accord)：雅阁是一款性能卓越的中型车，拥有出色的动力和操控表现，同时也具有舒适的驾驶体验。 \n\n3. 大众高尔夫(Volkswagen Golf)：这是一款外观时尚、内饰豪华、操控优秀的小型车，适合城市驾驶和日常出行。\n\n4. 丰田凯美瑞(Toyota Camry)：凯美瑞是一款中型车，拥有出色的可靠性和舒适性，同时也具有强大的动力和油耗表现。 \n\n以上车型都是20-25万价格范围内的优秀选择，可以根据自己的需求和喜好进行选择。 "
+                },
+                {
+                    "user": "卡罗拉多少钱",
+                    "agent": "丰田卡罗拉GL-i AT价格：15.98万元。 "
+                },
+                {
+                    "user": "雅阁多少钱",
+                    "agent": "Honda Accord雅阁的价格是26.18万元。"
+                }
+            ],
+            "question": "图片内容：图像的主要元素是一辆黑色的宝马轿车停在停车场。这辆车停在停车场的中心位置。\n根据用户图片内容，这是什么车"
+        },
+        "action_label": "车辆品牌车型识别",
+        "llm_result": "根据图片内容，这辆车看起来很大，可能是一款中型车或者豪华轿车。 \n\nAction: 我会查询该车的品牌和型号，以确定这辆车的具体车型。\n\nAction Input: 宝马\n\n",
+        "label_en": "Vehicle brand and series recognition",
+        "action_result": "我会查询该车的品牌和型号，以确定这辆车的具体车型。",
+        "action_input_info": "图片内容：图像的主要元素是一辆黑色的宝马轿车停在停车场。这辆车停在停车场的中心位置。\n根据用户图片内容，这是什么车",
+        "action_input_result": "宝马",
+        "score": 0,
+        "result_value": 0.05555555555555555
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "卡罗拉多少钱",
+                    "agent": "丰田卡罗拉GL-i AT价格：15.98万元。 "
+                },
+                {
+                    "user": "雅阁多少钱",
+                    "agent": "Honda Accord雅阁的价格是26.18万元。"
+                },
+                {
+                    "user": "图片内容：图像的主要元素是一辆黑色的宝马轿车停在停车场。这辆车停在停车场的中心位置。\n根据用户图片内容，这是什么车",
+                    "agent": "这是宝马6系GT轿车。"
+                }
+            ],
+            "question": "这个车多少钱"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要查询这款车的价格。\n\nAction: Vehicle reviews and FAQ query\n\nAction Input: 宝马6系GT\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle reviews and FAQ query",
+        "action_input_info": "宝马6系GT多少钱",
+        "action_input_result": "宝马6系GT",
+        "score": 0,
+        "result_value": 0.75
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "雅阁多少钱",
+                    "agent": "Honda Accord雅阁的价格是26.18万元。"
+                },
+                {
+                    "user": "图片内容：图像的主要元素是一辆黑色的宝马轿车停在停车场。这辆车停在停车场的中心位置。\n根据用户图片内容，这是什么车",
+                    "agent": "这是宝马6系GT轿车。"
+                },
+                {
+                    "user": "这个车多少钱",
+                    "agent": "宝马6系GT这个车价格：64.99万元。"
+                }
+            ],
+            "question": "图片内容：图像中的主要元素是一辆红色的奥迪汽车。它停在一条街道上，靠近一座砖墙。\n根据用户图片内容，这个车多少钱"
+        },
+        "action_label": "车辆品牌车型识别",
+        "llm_result": "我需要查询车型和价格，以回答这个问题。\n\nAction: Vehicle reviews and FAQ query\n\nAction Input: Honda Accord, 26.18万元, 64.99万元\n\n",
+        "label_en": "Vehicle brand and series recognition",
+        "action_result": "Vehicle reviews and FAQ query",
+        "action_input_info": "图片内容：图像中的主要元素是一辆红色的奥迪汽车。它停在一条街道上，靠近一座砖墙。\n根据用户图片内容，这个车多少钱",
+        "action_input_result": "Honda Accord, 26.18万元, 64.99万元",
+        "score": 0,
+        "result_value": 0.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "图片内容：图像的主要元素是一辆黑色的宝马轿车停在停车场。这辆车停在停车场的中心位置。\n根据用户图片内容，这是什么车",
+                    "agent": "这是宝马6系GT轿车。"
+                },
+                {
+                    "user": "这个车多少钱",
+                    "agent": "宝马6系GT这个车价格：64.99万元。"
+                },
+                {
+                    "user": "图片内容：图像中的主要元素是一辆红色的奥迪汽车。它停在一条街道上，靠近一座砖墙。\n根据用户图片内容，这个车多少钱",
+                    "agent": "根据我的识别结果，这辆车是奥迪RS 6，它的价格在64.99万元至79.99万元之间。"
+                }
+            ],
+            "question": "图片内容：图像的主要对象是一只狗。这只狗是一只棕色的金毛犬，它的嘴巴张开，嘴唇湿润。它的眼睛是蓝色的，看起来很有趣。狗坐在一张蓝色的椅子上，椅子上有一个蓝色的背景。\n根据用户图片内容，图片里面是什么"
+        },
+        "action_label": "图片内容识别",
+        "llm_result": "我可以使用\"Vehicle Brand and Series Recognition\"工具来识别椅子上的背景是什么车型。\n\nAction: 我会使用\"Vehicle Brand and Series Recognition\"工具来识别椅子上的背景是什么车型。\n\nAction Input: 椅子上的背景是一辆蓝色的宝马轿车。\n\n",
+        "label_en": "Image content recognition",
+        "action_result": "我会使用\"Vehicle Brand and Series Recognition\"工具来识别椅子上的背景是什么车型。",
+        "action_input_info": "图片内容：图像的主要对象是一只狗。这只狗是一只棕色的金毛犬，它的嘴巴张开，嘴唇湿润。它的眼睛是蓝色的，看起来很有趣。狗坐在一张蓝色的椅子上，椅子上有一个蓝色的背景。\n根据用户图片内容，图片里面是什么",
+        "action_input_result": "椅子上的背景是一辆蓝色的宝马轿车。",
+        "score": 0,
+        "result_value": 0.125
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "奥迪热门车推荐"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要知道奥迪热门车的信息，以便回答问题\n\nAction: Vehicle parameter configuration\n\nAction Input: 奥迪\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "奥迪热门车推荐",
+        "action_input_result": "奥迪",
+        "score": 0,
+        "result_value": 0.25
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "奥迪热门车推荐",
+                    "agent": "根据已知信息，奥迪RS 6是一款高性能跑车，其选车理由包括外形沉稳耐看，开着很有安全感，视野好，动力不错，底盘稳等。最满意是外观大气，内饰也还不错，坐在里面舒服，视野宽阔，空间很大，很满意回头率极高。最不满意是车的做工、接缝。车外部拼接的接缝稍宽，如后备箱门，前后排门。做工问题欠差。空间很宽敞，符合其高性能的定位。\n\n因此，根据已知信息，奥迪RS 6是一款值得推荐的热门车。"
+                }
+            ],
+            "question": "奥迪A7和帝豪gl phev对比"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要比较奥迪A7和帝豪gl phev的优缺点，以便为用户提供最佳的建议。\n\nAction: 查询奥迪A7和帝豪gl phev的优缺点，并对比分析。\n\nAction Input: 奥迪A7、帝豪gl phev\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "查询奥迪A7和帝豪gl phev的优缺点，并对比分析。",
+        "action_input_info": "奥迪A7和帝豪gl phev",
+        "action_input_result": "奥迪A7、帝豪gl phev",
+        "score": 0,
+        "result_value": 1.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "奥迪热门车推荐",
+                    "agent": "根据已知信息，奥迪RS 6是一款高性能跑车，其选车理由包括外形沉稳耐看，开着很有安全感，视野好，动力不错，底盘稳等。最满意是外观大气，内饰也还不错，坐在里面舒服，视野宽阔，空间很大，很满意回头率极高。最不满意是车的做工、接缝。车外部拼接的接缝稍宽，如后备箱门，前后排门。做工问题欠差。空间很宽敞，符合其高性能的定位。\n\n因此，根据已知信息，奥迪RS 6是一款值得推荐的热门车。"
+                },
+                {
+                    "user": "奥迪A7和帝豪gl phev对比",
+                    "agent": "奥迪A7和帝豪GL phev是两款不同的车型，在性能、价格、配置等方面都有所不同。\n\n奥迪A7是一款高档豪华轿车，拥有出色的动力性能和驾驶体验，同时还配备了先进的驾驶辅助系统和豪华舒适的内饰。而帝豪GL phev则是一款插电混动车型，拥有更强的燃油经济性和更长的续航里程，同时还具有不错的驾驶稳定性和舒适性。\n\n在价格方面，奥迪A7的价格相对较高，而帝豪GL phev的价格则较为亲民。\n\n在配置方面，奥迪A7的配置更加丰富，例如配备了先进的驾驶辅助系统、豪华舒适的内饰、丰富的多媒体配置等。而帝豪GL phev则更加注重燃油经济性和续航里程，例如配备了智能互联系统、电动天窗、丰富的多媒体配置等。\n\n总的来说，奥迪A7和帝豪GL phev是两款不同类型的车型，选择哪一款应该根据自己的实际需求和预算来决定。"
+                }
+            ],
+            "question": "凯美瑞颜色有哪些"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要知道凯美瑞的颜色，以便更好地回答问题。\n\nAction: Vehicle Brand and Series Recognition\n\nAction Input: \"凯美瑞\"\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle Brand and Series Recognition",
+        "action_input_info": "凯美瑞颜色",
+        "action_input_result": "凯美瑞",
+        "score": 0,
+        "result_value": 0.5
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "奥迪热门车推荐",
+                    "agent": "根据已知信息，奥迪RS 6是一款高性能跑车，其选车理由包括外形沉稳耐看，开着很有安全感，视野好，动力不错，底盘稳等。最满意是外观大气，内饰也还不错，坐在里面舒服，视野宽阔，空间很大，很满意回头率极高。最不满意是车的做工、接缝。车外部拼接的接缝稍宽，如后备箱门，前后排门。做工问题欠差。空间很宽敞，符合其高性能的定位。\n\n因此，根据已知信息，奥迪RS 6是一款值得推荐的热门车。"
+                },
+                {
+                    "user": "奥迪A7和帝豪gl phev对比",
+                    "agent": "奥迪A7和帝豪GL phev是两款不同的车型，在性能、价格、配置等方面都有所不同。\n\n奥迪A7是一款高档豪华轿车，拥有出色的动力性能和驾驶体验，同时还配备了先进的驾驶辅助系统和豪华舒适的内饰。而帝豪GL phev则是一款插电混动车型，拥有更强的燃油经济性和更长的续航里程，同时还具有不错的驾驶稳定性和舒适性。\n\n在价格方面，奥迪A7的价格相对较高，而帝豪GL phev的价格则较为亲民。\n\n在配置方面，奥迪A7的配置更加丰富，例如配备了先进的驾驶辅助系统、豪华舒适的内饰、丰富的多媒体配置等。而帝豪GL phev则更加注重燃油经济性和续航里程，例如配备了智能互联系统、电动天窗、丰富的多媒体配置等。\n\n总的来说，奥迪A7和帝豪GL phev是两款不同类型的车型，选择哪一款应该根据自己的实际需求和预算来决定。"
+                },
+                {
+                    "user": "凯美瑞颜色有哪些",
+                    "agent": "凯美瑞的颜色包括黑色、白色、灰色、棕色等。其中，黑色是最常见的一种颜色，但凯美瑞也有其他多种颜色可供选择，以满足不同的消费者需求。此外，凯美瑞还提供了多种内饰颜色和材质选择，以满足不同消费者的需求。总的来说，凯美瑞的颜色和内饰选择非常丰富，消费者可以根据自己的喜好和需求进行选择。"
+                }
+            ],
+            "question": "风神A60内部空间"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要了解风神A60内部空间的情况，以便更好地为用户提供服务。\n\nAction: 我会查询风神A60内部空间的相关信息，包括座椅的宽度、舒适度、车内空间的大小、配置等。\n\nAction Input: 我会输入\"风神A60内部空间\"作为参数，以获取更准确的信息。\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "我会查询风神A60内部空间的相关信息，包括座椅的宽度、舒适度、车内空间的大小、配置等。",
+        "action_input_info": "风神A60空间",
+        "action_input_result": "我会输入\"风神A60内部空间\"作为参数，以获取更准确的信息。",
+        "score": 0,
+        "result_value": 0.2
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "奥迪A7和思皓E40X对比"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要知道这两汽车的优缺点和哪一汽车更好\n\nAction: Vehicle parameter configuration\n\nAction Input: 奥迪A7、思皓E40X\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "奥迪A7和思皓E40X",
+        "action_input_result": "奥迪A7、思皓E40X",
+        "score": 1,
+        "result_value": 1.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "奥迪A7 和思皓E40X对比",
+                    "agent": "根据已知信息，思皓E40X是一款豪华轿车，与奥迪A7有一定的相似之处，但也有一些区别。思皓E40X在外观设计上采用了豪华商务风格，车身线条流畅，视觉效果出色。而奥迪A7则更加强调运动和豪华感，车身线条更加陡峭，视 觉效果更加震撼。\n\n在内饰方面，思皓E40X采用了豪华舒适的内饰设计，配备了大量高科技配置，例如全液晶仪表盘和中控屏幕等。而奥迪A7则更加注重科技感和豪华感，采用了虚拟驾驶辅助系统等高科技配置。\n\n在动力系统方面，思皓E40X搭载了一台2.0T发动机，最大功率184马力，匹配7速dsg变速器。而奥迪A7则搭载了一台3.0T发动机，最大功率258马力，匹配8速变速器。\n\n总的来说，思皓E40X和奥迪A7都是豪华品牌的豪华轿车，它们在外观设计、内饰风格、动力系统等方面都有各自的特点和优势。选择哪一款车还需要根据个人的实际需求和喜好来决定。"
+                }
+            ],
+            "question": "奥迪A7内部空间 "
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要知道奥迪A7内部空间的情况，以便为用户提供更好的建议。\n\nAction: Vehicle parameter configuration\n\nAction Input: 奥迪A7\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "奥迪A7空间 ",
+        "action_input_result": "奥迪A7",
+        "score": 1,
+        "result_value": 0.5
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "奥迪A7 和思皓E40X对比",
+                    "agent": "根据已知信息，思皓E40X是一款豪华轿车，与奥迪A7有一定的相似之处，但也有一些区别。思皓E40X在外观设计上采用了豪华商务风格，车身线条流畅，视觉效果出色。而奥迪A7则更加强调运动和豪华感，车身线条更加陡峭，视 觉效果更加震撼。\n\n在内饰方面，思皓E40X采用了豪华舒适的内饰设计，配备了大量高科技配置，例如全液晶仪表盘和中控屏幕等。而奥迪A7则更加注重科技感和豪华感，采用了虚拟驾驶辅助系统等高科技配置。\n\n在动力系统方面，思皓E40X搭载了一台2.0T发动机，最大功率184马力，匹配7速dsg变速器。而奥迪A7则搭载了一台3.0T发动机，最大功率258马力，匹配8速变速器。\n\n总的来说，思皓E40X和奥迪A7都是豪华品牌的豪华轿车，它们在外观设计、内饰风格、动力系统等方面都有各自的特点和优势。选择哪一款车还需要根据个人的实际需求和喜好来决定。"
+                },
+                {
+                    "user": "奥迪A7内部空间",
+                    "agent": "根据已知信息，奥迪A7内部空间一般。选车理由方面，因为不喜欢宝马的操控，所以选择 AMG 但没有现车，最终选择了奔驰。最满意是车辆的动力，其次是外观和内饰。最不满意的是空间一般，与选车理由相符。关于外观、内饰、动力、操控、舒适性和油耗等方面，奥迪A7 在这些方面都表现出色。"
+                }
+            ],
+            "question": "你说的没一点用"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "这个人可能不喜欢奥迪A7的内部空间，可能是因为他需要更多的空间或者更好的设计。\n\nAction: 检查其他车型的内部空间，比较奥迪A7与其他车的空间大小和设计，提供相关的规格和价格信息。\n\nAction Input: Audi A8, BMW 7系列, Mercedes-Benz S- klas\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "检查其他车型的内部空间，比较奥迪A7与其他车的空间大小和设计，提供相关的规格和价格信息。",
+        "action_input_info": "奥迪A7空间",
+        "action_input_result": "Audi A8, BMW 7系列, Mercedes-Benz S- klas",
+        "score": 0,
+        "result_value": 0.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "奥迪A7 和思皓E40X对比",
+                    "agent": "根据已知信息，思皓E40X是一款豪华轿车，与奥迪A7有一定的相似之处，但也有一些区别。思皓E40X在外观设计上采用了豪华商务风格，车身线条流畅，视觉效果出色。而奥迪A7则更加强调运动和豪华感，车身线条更加陡峭，视 觉效果更加震撼。\n\n在内饰方面，思皓E40X采用了豪华舒适的内饰设计，配备了大量高科技配置，例如全液晶仪表盘和中控屏幕等。而奥迪A7则更加注重科技感和豪华感，采用了虚拟驾驶辅助系统等高科技配置。\n\n在动力系统方面，思皓E40X搭载了一台2.0T发动机，最大功率184马力，匹配7速dsg变速器。而奥迪A7则搭载了一台3.0T发动机，最大功率258马力，匹配8速变速器。\n\n总的来说，思皓E40X和奥迪A7都是豪华品牌的豪华轿车，它们在外观设计、内饰风格、动力系统等方面都有各自的特点和优势。选择哪一款车还需要根据个人的实际需求和喜好来决定。"
+                },
+                {
+                    "user": "奥迪A7内部空间",
+                    "agent": "根据已知信息，奥迪A7内部空间一般。选车理由方面，因为不喜欢宝马的操控，所以选择 AMG 但没有现车，最终选择了奔驰。最满意是车辆的动力，其次是外观和内饰。最不满意的是空间一般，与选车理由相符。关于外观、内饰、动力、操控、舒适性和油耗等方面，奥迪A7 在这些方面都表现出色。"
+                },
+                {
+                    "user": "你说的没一点用",
+                    "agent": "根据已知信息，奥迪A7车内空间表现不错，前后排宽敞的空间可以满足用户的需求。然而，头顶空间相对小，可能与车的高度有关。因此，如果需要更大的车内空间，可以考虑选择其他车型。"
+                }
+            ],
+            "question": "具体长宽高是多少"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要知道奥迪A7的具体长宽高，以便更好地了解车内空间\n\nAction: 查询奥迪A7的具体长宽高\n\nAction Input: 查询奥迪A7的车型\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "查询奥迪A7的具体长宽高",
+        "action_input_info": "奥迪A7具体长宽高",
+        "action_input_result": "查询奥迪A7的车型",
+        "score": 0,
+        "result_value": 0.3333333333333333
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "奥迪A7内部空间",
+                    "agent": "根据已知信息，奥迪A7内部空间一般。选车理由方面，因为不喜欢宝马的操控，所以选择 AMG 但没有现车，最终选择了奔驰。最满意是车辆的动力，其次是外观和内饰。最不满意的是空间一般，与选车理由相符。关于外观、内饰、动力、操控、舒适性和油耗等方面，奥迪A7 在这些方面都表现出色。"
+                },
+                {
+                    "user": "你说的没一点用",
+                    "agent": "根据已知信息，奥迪A7车内空间表现不错，前后排宽敞的空间可以满足用户的需求。然而，头顶空间相对小，可能与车的高度有关。因此，如果需要更大的车内空间，可以考虑选择其他车型。"
+                },
+                {
+                    "user": "具体长宽高是多少",
+                    "agent": "根据已知信息，奥迪A7的长宽高具体长宽高为：\n\n- 车长：4976mm\n- 车宽：1809mm\n- 车高：1405mm\n\n以上数据是根据奥迪A7系列车型的标准尺寸计算得出的，可能会因不同的车型和配置而有所不同。"
+                }
+            ],
+            "question": "50-100万的中大型车怎么选？"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "根据用户的需求，需要考虑车辆的功能性、安全性、舒适性、动力性能和价格等多个方面。\n\nAction: 根据已知信息，推荐使用Vehicle parameter configuration工具，输入车型名称，比较车辆的功能性、安全性、舒适性、动力性能和价格等方面的参数，并结合用户的需求和预算，找到最合适的车型。\n\nAction Input: 根据已知信息，输入车型名称，比较车辆的功能性、安全性、舒适性、动力性能和价格等方面的参数。\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "根据已知信息，推荐使用Vehicle parameter configuration工具，输入车型名称，比较车辆的功能性、安全性、舒适性、动力性能和价格等方面的参数，并结合用户的需求和预算，找到最合适的车型。",
+        "action_input_info": "50-100万的中大型车",
+        "action_input_result": "根据已知信息，输入车型名称，比较车辆的功能性、安全性、舒适性、动力性能和价格等方面的参数。",
+        "score": 0,
+        "result_value": 0.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "你说的没一点用",
+                    "agent": "根据已知信息，奥迪A7车内空间表现不错，前后排宽敞的空间可以满足用户的需求。然而，头顶空间相对小，可能与车的高度有关。因此，如果需要更大的车内空间，可以考虑选择其他车型。"
+                },
+                {
+                    "user": "具体长宽高是多少",
+                    "agent": "根据已知信息，奥迪A7的长宽高具体长宽高为：\n\n- 车长：4976mm\n- 车宽：1809mm\n- 车高：1405mm\n\n以上数据是根据奥迪A7系列车型的标准尺寸计算得出的，可能会因不同的车型和配置而有所不同。"
+                },
+                {
+                    "user": "50-100万的中大型车怎么选？",
+                    "agent": "50-100万的中大型车预算，可以考虑以下几款：\n\n1. 宝马5系li：外观时尚，内饰豪华，动力强劲，配置丰富。优惠较大，性价比较高。\n\n2. 奔驰E级：外观大气，内饰成熟稳重，动力表现不错，配置丰富。目前最高优惠可达6万左右。 \n\n3. 奥迪A6L：外观豪华，内饰科技感强，动力表现优秀，配置丰富。优惠相对较小。\n\n4. 沃尔沃S90：外观时尚，内饰豪华，安全性高，配置丰富。虽然价格较高，但考虑到其安全性和品质，也是一个不错的选择。\n\n以上车型都是不错的选择，可以根据自己的喜好和需求进行选择。同时，建议在购买前多做比较，了解不同车型的优惠、配置、性能等详细信息，以便做出更加明智的决策。"
+                }
+            ],
+            "question": "50-100万的中大型车怎么选？"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我已经回答了这个问题，但是用户可能需要更详细的信息，所以我需要提供更多的车型信息。\n\nAction: Vehicle parameter configuration\n\nAction Input: 50-100万的中大型车\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "50-100万的中大型车",
+        "action_input_result": "50-100万的中大型车",
+        "score": 0,
+        "result_value": 1.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "具体长宽高是多少",
+                    "agent": "根据已知信息，奥迪A7的长宽高具体长宽高为：\n\n- 车长：4976mm\n- 车宽：1809mm\n- 车高：1405mm\n\n以上数据是根据奥迪A7系列车型的标准尺寸计算得出的，可能会因不同的车型和配置而有所不同。"
+                },
+                {
+                    "user": "50-100万的中大型车怎么选？",
+                    "agent": "50-100万的中大型车预算，可以考虑以下几款：\n\n1. 宝马5系li：外观时尚，内饰豪华，动力强劲，配置丰富。优惠较大，性价比较高。\n\n2. 奔驰E级：外观大气，内饰成熟稳重，动力表现不错，配置丰富。目前最高优惠可达6万左右。 \n\n3. 奥迪A6L：外观豪华，内饰科技感强，动力表现优秀，配置丰富。优惠相对较小。\n\n4. 沃尔沃S90：外观时尚，内饰豪华，安全性高，配置丰富。虽然价格较高，但考虑到其安全性和品质，也是一个不错的选择。\n\n以上车型都是不错的选择，可以根据自己的喜好和需求进行选择。同时，建议在购买前多做比较，了解不同车型的优惠、配置、性能等详细信息，以便做出更加明智的决策。"
+                },
+                {
+                    "user": "50-100万的中大型车怎么选？",
+                    "agent": "选择50-100万的中大型车，需要考虑以下几个方面： \n\n1. 品牌信誉：中大型车市场竞争激烈，选择品牌信誉良好的品牌可以获得更好的质量和售后服务。奔驰、宝马、奥迪等品牌在中大型车市场上拥有较高的声誉。 \n\n2. 外观设计：外观设计是影响车辆形象的重要因素，需要考虑个人喜好和审美观念。奔驰e300、宝马5系、奥迪a6等车型在外观设计上具有较高的水准，符合大多数人的审美。\n\n3. 内饰豪华程度：内饰豪华程度也是选择中大型车时需要考虑的因素之一。奔驰e300、宝马5系、奥迪a6等车型在内饰豪华程度方面表现出色，符合人们对豪华内饰的需求。\n\n4. 动力系统：中大型车通常需要强大的动力系统才能满足用户的需求。50-100万的预算范围内，可以选择奔驰e300的2.0t发动机、宝马5系的3.0t发动机、奥迪a6的2.0t发动机等车型。\n\n5. 安全性能：中大型车通常需要较高的安全性能才能满足用户的需求。在选择车型时，需要考虑车辆的安全性能，如碰撞测试成绩、车身结构等。\n\n综上所述，选择50-100万的中大型车，需要考虑品牌信誉、外观设计、内饰豪华程度、动力系统、安全性能等方面。建议根据自己的需求和喜好，结合以上因素进行选择。"
+                }
+            ],
+            "question": "推荐几款"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "根据用户的需求和喜好，推荐几款中大型车。\n\nAction: 推荐几款中大型车\n\nAction Input: 推荐的中大型车品牌和型号\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "推荐几款中大型车",
+        "action_input_info": "推荐几款50-100万的中大型车",
+        "action_input_result": "推荐的中大型车品牌和型号",
+        "score": 0,
+        "result_value": 0.5
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "50-100万的中大型车怎么选？",
+                    "agent": "50-100万的中大型车预算，可以考虑以下几款：\n\n1. 宝马5系li：外观时尚，内饰豪华，动力强劲，配置丰富。优惠较大，性价比较高。\n\n2. 奔驰E级：外观大气，内饰成熟稳重，动力表现不错，配置丰富。目前最高优惠可达6万左右。 \n\n3. 奥迪A6L：外观豪华，内饰科技感强，动力表现优秀，配置丰富。优惠相对较小。\n\n4. 沃尔沃S90：外观时尚，内饰豪华，安全性高，配置丰富。虽然价格较高，但考虑到其安全性和品质，也是一个不错的选择。\n\n以上车型都是不错的选择，可以根据自己的喜好和需求进行选择。同时，建议在购买前多做比较，了解不同车型的优惠、配置、性能等详细信息，以便做出更加明智的决策。"
+                },
+                {
+                    "user": "50-100万的中大型车怎么选？",
+                    "agent": "选择50-100万的中大型车，需要考虑以下几个方面： \n\n1. 品牌信誉：中大型车市场竞争激烈，选择品牌信誉良好的品牌可以获得更好的质量和售后服务。奔驰、宝马、奥迪等品牌在中大型车市场上拥有较高的声誉。 \n\n2. 外观设计：外观设计是影响车辆形象的重要因素，需要考虑个人喜好和审美观念。奔驰e300、宝马5系、奥迪a6等车型在外观设计上具有较高的水准，符合大多数人的审美。\n\n3. 内饰豪华程度：内饰豪华程度也是选择中大型车时需要考虑的因素之一。奔驰e300、宝马5系、奥迪a6等车型在内饰豪华程度方面表现出色，符合人们对豪华内饰的需求。\n\n4. 动力系统：中大型车通常需要强大的动力系统才能满足用户的需求。50-100万的预算范围内，可以选择奔驰e300的2.0t发动机、宝马5系的3.0t发动机、奥迪a6的2.0t发动机等车型。\n\n5. 安全性能：中大型车通常需要较高的安全性能才能满足用户的需求。在选择车型时，需要考虑车辆的安全性能，如碰撞测试成绩、车身结构等。\n\n综上所述，选择50-100万的中大型车，需要考虑品牌信誉、外观设计、内饰豪华程度、动力系统、安全性能等方面。建议根据自己的需求和喜好，结合以上因素进行选择。"
+                },
+                {
+                    "user": "推荐几款",
+                    "agent": "根据已知信息，雪佛兰创界优惠力度很大，性价比很不错。从价格来看，不管买哪款性价比都很不错。因此，推荐购买创界锋锐版，执笔易瑞版多1万块钱，但多了很多实质性的功能，比如侧安全气帘、后驻车雷达和倒车影像等。\n\n中大型车品牌和型号推荐几款：\n\n1. 丰田卡罗拉双擎E+：价格适中，性能稳定，可靠性高。\n\n2. 本田雅阁：外观时尚，动力强劲，油耗低。\n\n3. 丰田凯美瑞：外观大气，内饰豪华，安全性高。\n\n4. 本田雅阁混动版：价格适中，性能稳定，油耗低。\n\n5. 丰田卡罗拉双擎E+插电混动版：价格适中，性能稳定，可靠性高，拥有插电混动功能。\n\n以上是一些推荐的中大型车品牌和型号，具体选择还需根据个人需求和预算来决定。"
+                }
+            ],
+            "question": "丰田卡罗拉多少钱"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我的想法",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "",
+        "action_input_info": "丰田卡罗拉多少钱",
+        "action_input_result": "",
+        "score": 0,
+        "result_value": 0.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "50-100万的中大型车怎么选？",
+                    "agent": "选择50-100万的中大型车，需要考虑以下几个方面： \n\n1. 品牌信誉：中大型车市场竞争激烈，选择品牌信誉良好的品牌可以获得更好的质量和售后服务。奔驰、宝马、奥迪等品牌在中大型车市场上拥有较高的声誉。 \n\n2. 外观设计：外观设计是影响车辆形象的重要因素，需要考虑个人喜好和审美观念。奔驰e300、宝马5系、奥迪a6等车型在外观设计上具有较高的水准，符合大多数人的审美。\n\n3. 内饰豪华程度：内饰豪华程度也是选择中大型车时需要考虑的因素之一。奔驰e300、宝马5系、奥迪a6等车型在内饰豪华程度方面表现出色，符合人们对豪华内饰的需求。\n\n4. 动力系统：中大型车通常需要强大的动力系统才能满足用户的需求。50-100万的预算范围内，可以选择奔驰e300的2.0t发动机、宝马5系的3.0t发动机、奥迪a6的2.0t发动机等车型。\n\n5. 安全性能：中大型车通常需要较高的安全性能才能满足用户的需求。在选择车型时，需要考虑车辆的安全性能，如碰撞测试成绩、车身结构等。\n\n综上所述，选择50-100万的中大型车，需要考虑品牌信誉、外观设计、内饰豪华程度、动力系统、安全性能等方面。建议根据自己的需求和喜好，结合以上因素进行选择。"
+                },
+                {
+                    "user": "推荐几款",
+                    "agent": "根据已知信息，雪佛兰创界优惠力度很大，性价比很不错。从价格来看，不管买哪款性价比都很不错。因此，推荐购买创界锋锐版，执笔易瑞版多1万块钱，但多了很多实质性的功能，比如侧安全气帘、后驻车雷达和倒车影像等。\n\n中大型车品牌和型号推荐几款：\n\n1. 丰田卡罗拉双擎E+：价格适中，性能稳定，可靠性高。\n\n2. 本田雅阁：外观时尚，动力强劲，油耗低。\n\n3. 丰田凯美瑞：外观大气，内饰豪华，安全性高。\n\n4. 本田雅阁混动版：价格适中，性能稳定，油耗低。\n\n5. 丰田卡罗拉双擎E+插电混动版：价格适中，性能稳定，可靠性高，拥有插电混动功能。\n\n以上是一些推荐的中大型车品牌和型号，具体选择还需根据个人需求和预算来决定。"
+                },
+                {
+                    "user": "丰田卡罗拉多少钱",
+                    "agent": "丰田卡罗拉是一款非常受欢迎的家用轿车，其价格因地区和配置而异。根据您提供的信息，2018款卡罗拉1.2t GL-i智辉版的厂家指导价为13.68万元，各地都有不同程度的优惠，因此实际落地价可能在140744元左右。不过，具体价格会因地区、配置等因素而有所不同，建议您在购买前与当地的丰田经销商或保险公司联系以获取更准确的信息。"
+                }
+            ],
+            "question": "图片内容：图像中的主要对象是红色奥迪汽车，停在一条街道上。该汽车的前部和后部都有明显的标志，包括车头的Audi标志和车尾灯。汽车的前部有一个黑色的标志，可能是车牌。汽车的后部有一个红色的标志，可能是汽车的车牌。\n根据用户图片内容，这是什么"
+        },
+        "action_label": "车辆品牌车型识别",
+        "llm_result": "根据图",
+        "label_en": "Vehicle brand and series recognition",
+        "action_result": "",
+        "action_input_info": "图片内容：图像中的主要对象是红色奥迪汽车，停在一条街道上。该汽车的前部和后部都有明显的标志，包括车头的Audi标志和车尾灯。汽车的前部有一个黑色的标志，可能是车牌。汽车的后部有一个红色的标志，可能是汽车的车牌。\n根据用户图片内容，这是什么",
+        "action_input_result": "",
+        "score": 0,
+        "result_value": 0.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "推荐几款",
+                    "agent": "根据已知信息，雪佛兰创界优惠力度很大，性价比很不错。从价格来看，不管买哪款性价比都很不错。因此，推荐购买创界锋锐版，执笔易瑞版多1万块钱，但多了很多实质性的功能，比如侧安全气帘、后驻车雷达和倒车影像等。\n\n中大型车品牌和型号推荐几款：\n\n1. 丰田卡罗拉双擎E+：价格适中，性能稳定，可靠性高。\n\n2. 本田雅阁：外观时尚，动力强劲，油耗低。\n\n3. 丰田凯美瑞：外观大气，内饰豪华，安全性高。\n\n4. 本田雅阁混动版：价格适中，性能稳定，油耗低。\n\n5. 丰田卡罗拉双擎E+插电混动版：价格适中，性能稳定，可靠性高，拥有插电混动功能。\n\n以上是一些推荐的中大型车品牌和型号，具体选择还需根据个人需求和预算来决定。"
+                },
+                {
+                    "user": "丰田卡罗拉多少钱",
+                    "agent": "丰田卡罗拉是一款非常受欢迎的家用轿车，其价格因地区和配置而异。根据您提供的信息，2018款卡罗拉1.2t GL-i智辉版的厂家指导价为13.68万元，各地都有不同程度的优惠，因此实际落地价可能在140744元左右。不过，具体价格会因地区、配置等因素而有所不同，建议您在购买前与当地的丰田经销商或保险公司联系以获取更准确的信息。"
+                },
+                {
+                    "user": "图片内容：图像中的主要对象是红色奥迪汽车，停在一条街道上。该汽车的前部和后部都有明显的标志，包括车头的Audi标志和车尾灯。汽车的前部有一个黑色的标志，可能是车牌。汽车的后部有一个红色的标志，可能是汽车的车牌。\n根据用户图片内容，这是什么",
+                    "agent": "该汽车是一款Audi RS 6。"
+                }
+            ],
+            "question": "多少钱"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要回答这个问题，但我需要更多信息才能回答准确。\n\nAction: 我需要查询该汽车的价格。\n\nAction Input: 汽车品牌和型号\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "我需要查询该汽车的价格。",
+        "action_input_info": "Audi RS 6多少钱",
+        "action_input_result": "汽车品牌和型号",
+        "score": 0,
+        "result_value": 0.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "丰田卡罗拉多少钱",
+                    "agent": "丰田卡罗拉是一款非常受欢迎的家用轿车，其价格因地区和配置而异。根据您提供的信息，2018款卡罗拉1.2t GL-i智辉版的厂家指导价为13.68万元，各地都有不同程度的优惠，因此实际落地价可能在140744元左右。不过，具体价格会因地区、配置等因素而有所不同，建议您在购买前与当地的丰田经销商或保险公司联系以获取更准确的信息。"
+                },
+                {
+                    "user": "图片内容：图像中的主要对象是红色奥迪汽车，停在一条街道上。该汽车的前部和后部都有明显的标志，包括车头的Audi标志和车尾灯。汽车的前部有一个黑色的标志，可能是车牌。汽车的后部有一个红色的标志，可能是汽车的车牌。\n根据用户图片内容，这是什么",
+                    "agent": "该汽车是一款Audi RS 6。"
+                },
+                {
+                    "user": "多少钱",
+                    "agent": "根据已知信息，卡罗拉1.2t GL-i智辉版的落地价为140744元。其中，厂家指导价为13.68万元，各地不同程度的优惠会导致提车价格和落地价有所不同。此外，还需要支付购置税、保险费用等。"
+                }
+            ],
+            "question": "Audi RS 6多少钱"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我知道这款车的价格，但是我需要确认一下是否有其他费用需要支付。\n\nAction: Vehicle reviews and FAQ query\n\nAction Input: Audi RS 6\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle reviews and FAQ query",
+        "action_input_info": "Audi RS 6多少钱",
+        "action_input_result": "Audi RS 6",
+        "score": 0,
+        "result_value": 0.75
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "图片内容：图像中的主要对象是红色奥迪汽车，停在一条街道上。该汽车的前部和后部都有明显的标志，包括车头的Audi标志和车尾灯。汽车的前部有一个黑色的标志，可能是车牌。汽车的后部有一个红色的标志，可能是汽车的车牌。\n根据用户图片内容，这是什么",
+                    "agent": "该汽车是一款Audi RS 6。"
+                },
+                {
+                    "user": "多少钱",
+                    "agent": "根据已知信息，卡罗拉1.2t GL-i智辉版的落地价为140744元。其中，厂家指导价为13.68万元，各地不同程度的优惠会导致提车价格和落地价有所不同。此外，还需要支付购置税、保险费用等。"
+                },
+                {
+                    "user": "Audi RS 6多少钱",
+                    "agent": "根据已知信息，奥迪RS 6的裸车价格在1,357,800元，而且必要花费加起来也需要24万多，所以全款购买落地价差不多是164万左右。"
+                }
+            ],
+            "question": "这么贵"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我知道这款车较贵，但我需要确认这个价格是否正确。\n\nAction: Vehicle Brand and Series Recognition\n\nAction Input: Audi RS 6\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle Brand and Series Recognition",
+        "action_input_info": "Audi RS 6这么贵",
+        "action_input_result": "Audi RS 6",
+        "score": 0,
+        "result_value": 0.75
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "介绍一下天籁"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我知道这个车型有哪些特点，但是我需要更多信息来回答这个问题\n\nAction: Vehicle parameter configuration\n\nAction Input: 天籁\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "介绍一下天籁",
+        "action_input_result": "天籁",
+        "score": 0,
+        "result_value": 0.5
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "介绍一下天籁",
+                    "agent": "天籁是一款中型豪华轿车，由日本汽车制造商丰田和本田生产。它拥有宽敞的内部空间和卓越的驾驶体验，同时还配备了先进的安全技术和豪华舒适的内饰。\n天籁的外观设计时尚、动感，采用了丰田和本田最新的设计语言，强调了其豪华感和运动感。其车身线条流畅，车身长度和宽度都非常宽敞，使得天籁看起来非常大气。\n天籁的内部空间非常宽敞，提供了舒适的驾驶体验和充足的乘坐空间。其座椅材质舒适、透气性好，同时还配备了多个舒适性配置，如按摩座椅、座椅加热、通风座椅等。\n天籁还配备了先进的安全技术，如自适应巡航控制、车道偏离预警、自动紧急制动等，能够提高驾驶安全性。此外，天籁还配备了豪华舒适的内饰，采用了优质的材料和精湛的工艺，使得其内饰豪华、舒适，非常适合家庭和商务用途。\n天籁是一款非常优秀的中型豪华轿车，拥有宽敞的内部空间、卓越的驾驶体验和先进的安全技术，能够满足不同用户的需求。"
+                }
+            ],
+            "question": "详细介绍一下天籁的配置"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要知道天籁的配置，以便更好地回答问题\n\nAction: Vehicle parameter configuration\n\nAction Input: 天籁\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "天籁的配置",
+        "action_input_result": "天籁",
+        "score": 1,
+        "result_value": 0.5
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "介绍一下天籁",
+                    "agent": "天籁是一款中型豪华轿车，由日本汽车制造商丰田和本田生产。它拥有宽敞的内部空间和卓越的驾驶体验，同时还配备了先进的安全技术和豪华舒适的内饰。\n天籁的外观设计时尚、动感，采用了丰田和本田最新的设计语言，强调了其豪华感和运动感。其车身线条流畅，车身长度和宽度都非常宽敞，使得天籁看起来非常大气。\n天籁的内部空间非常宽敞，提供了舒适的驾驶体验和充足的乘坐空间。其座椅材质舒适、透气性好，同时还配备了多个舒适性配置，如按摩座椅、座椅加热、通风座椅等。\n天籁还配备了先进的安全技术，如自适应巡航控制、车道偏离预警、自动紧急制动等，能够提高驾驶安全性。此外，天籁还配备了豪华舒适的内饰，采用了优质的材料和精湛的工艺，使得其内饰豪华、舒适，非常适合家庭和商务用途。\n天籁是一款非常优秀的中型豪华轿车，拥有宽敞的内部空间、卓越的驾驶体验和先进的安全技术，能够满足不同用户的需求。"
+                },
+                {
+                    "user": "详细介绍一下天籁的配置",
+                    "agent": "天籁350JM-VIP，最小动力136，最大动力252，最大扭矩380，最小扭矩187，最大车长5016，最小车长4845，最小车宽1765，最大车宽1850，最小油耗5.9，最大油耗10.8，最小功率100，最大功率185，爵士蓝，珍珠白，黑，米色，深色内饰，座椅材质皮质，织物，真皮，主座椅电动调节电动调节，记忆，靠背调节，前后调节，腿托调节，前座椅通风，加热，按摩，后排杯架，运动外观套件，铝合金轮圈，前电动车窗，后电动车窗，车窗一键升降，防夹手功能，多层隔音玻璃，电动折叠，外后视镜电动调节电动调节。"
+                }
+            ],
+            "question": "发动机怎么样"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要知道天籁发动机的情况才能回答问题\n\nAction: Vehicle parameter configuration\n\nAction Input: 天籁\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "天籁发动机怎么样",
+        "action_input_result": "天籁",
+        "score": 0,
+        "result_value": 0.5
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "介绍一下天籁",
+                    "agent": "天籁是一款中型豪华轿车，由日本汽车制造商丰田和本田生产。它拥有宽敞的内部空间和卓越的驾驶体验，同时还配备了先进的安全技术和豪华舒适的内饰。\n天籁的外观设计时尚、动感，采用了丰田和本田最新的设计语言，强调了其豪华感和运动感。其车身线条流畅，车身长度和宽度都非常宽敞，使得天籁看起来非常大气。\n天籁的内部空间非常宽敞，提供了舒适的驾驶体验和充足的乘坐空间。其座椅材质舒适、透气性好，同时还配备了多个舒适性配置，如按摩座椅、座椅加热、通风座椅等。\n天籁还配备了先进的安全技术，如自适应巡航控制、车道偏离预警、自动紧急制动等，能够提高驾驶安全性。此外，天籁还配备了豪华舒适的内饰，采用了优质的材料和精湛的工艺，使得其内饰豪华、舒适，非常适合家庭和商务用途。\n天籁是一款非常优秀的中型豪华轿车，拥有宽敞的内部空间、卓越的驾驶体验和先进的安全技术，能够满足不同用户的需求。"
+                },
+                {
+                    "user": "详细介绍一下天籁的配置",
+                    "agent": "天籁350JM-VIP，最小动力136，最大动力252，最大扭矩380，最小扭矩187，最大车长5016，最小车长4845，最小车宽1765，最大车宽1850，最小油耗5.9，最大油耗10.8，最小功率100，最大功率185，爵士蓝，珍珠白，黑，米色，深色内饰，座椅材质皮质，织物，真皮，主座椅电动调节电动调节，记忆，靠背调节，前后调节，腿托调节，前座椅通风，加热，按摩，后排杯架，运动外观套件，铝合金轮圈，前电动车窗，后电动车窗，车窗一键升降，防夹手功能，多层隔音玻璃，电动折叠，外后视镜电动调节电动调节。"
+                },
+                {
+                    "user": "发动机怎么样",
+                    "agent": "天籁天籁目前有两种动力可供选择，一种是2.0L自然吸气发动机，一种是2.0T涡轮增压发动机。两种动力表现都挺好的。2.0L换挡更加平顺。而2.0T涡轮增压后期的动力更加充足。\nObservation发动机是天籁品牌推出的一款发动机，采用了涡轮增压和自然吸气两种动力形式，具有出色的性能和可靠性。该发动机采用先进的燃烧技术和轻量化材料，能够实现高效的燃油经济性和出色的动力表现。同时，该发动机还具有良好的可靠性和耐久性，能够在不同的路况和条件下提供稳定的性能。\n天籁 Observation发动机是一款出色的发动机，具有出色的性能和可靠性，能够满足用户的需求和期望。"
+                }
+            ],
+            "question": "变速箱怎样"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要知道变速箱的相关信息，以便更好地回答问题。\n\nAction: 查找变速箱的相关信息，包括其设计、原理、优点和缺点等。\n\nAction Input: 查找变速箱的相关信息。\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "查找变速箱的相关信息，包括其设计、原理、优点和缺点等。",
+        "action_input_info": "天籁变速箱怎样",
+        "action_input_result": "查找变速箱的相关信息。",
+        "score": 0,
+        "result_value": 0.2
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "详细介绍一下天籁的配置",
+                    "agent": "天籁350JM-VIP，最小动力136，最大动力252，最大扭矩380，最小扭矩187，最大车长5016，最小车长4845，最小车宽1765，最大车宽1850，最小油耗5.9，最大油耗10.8，最小功率100，最大功率185，爵士蓝，珍珠白，黑，米色，深色内饰，座椅材质皮质，织物，真皮，主座椅电动调节电动调节，记忆，靠背调节，前后调节，腿托调节，前座椅通风，加热，按摩，后排杯架，运动外观套件，铝合金轮圈，前电动车窗，后电动车窗，车窗一键升降，防夹手功能，多层隔音玻璃，电动折叠，外后视镜电动调节电动调节。"
+                },
+                {
+                    "user": "发动机怎么样",
+                    "agent": "天籁天籁目前有两种动力可供选择，一种是2.0L自然吸气发动机，一种是2.0T涡轮增压发动机。两种动力表现都挺好的。2.0L换挡更加平顺。而2.0T涡轮增压后期的动力更加充足。\nObservation发动机是天籁品牌推出的一款发动机，采用了涡轮增压和自然吸气两种动力形式，具有出色的性能和可靠性。该发动机采用先进的燃烧技术和轻量化材料，能够实现高效的燃油经济性和出色的动力表现。同时，该发动机还具有良好的可靠性和耐久性，能够在不同的路况和条件下提供稳定的性能。\n天籁 Observation发动机是一款出色的发动机，具有出色的性能和可靠性，能够满足用户的需求和期望。"
+                },
+                {
+                    "user": "变速箱怎样",
+                    "agent": "天籁的工程师可能会告诉你，天籁使用的cvt变速箱表现很不错，具有平顺性、油耗和扭矩控制等优点。但是，cvt变速箱不太适合大排量发动机，因此可能无法提供与大排量发动机相匹配的驾驶体验。 "
+                }
+            ],
+            "question": "售价多少"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要知道天籁  的售价，以便给用户提供准确的信息。\n\nAction: 查询天籁  的售价。\n\nAction Input: 天籁 。\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "查询天籁  的售价。",
+        "action_input_info": "天籁售价多少",
+        "action_input_result": "天籁 。",
+        "score": 0,
+        "result_value": 0.3333333333333333
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "变速箱怎样",
+                    "agent": "天籁的工程师可能会告诉你，天籁使用的cvt变速箱表现很不错，具有平顺性、油耗和扭矩控制等优点。但是，cvt变速箱不太适合大排量发动机，因此可能无法提供与大排量发动机相匹配的驾驶体验。 "
+                },
+                {
+                    "user": "售价多少",
+                    "agent": "根据已知信息，天籁目前在售车型有2.0l和2.0t两款发动机可供选择，售价从17.98万元到26.98万元不等，目前厂家指导价优惠3万元左右，可以参考一下这个价格。因此，天籁 Observation 的售价可能在17.98万元到26.98万元之间，具体价格需要根据具体车型和配置来确定。"
+                },
+                {
+                    "user": "这款车的口碑怎样",
+                    "agent": "根据已知信息，天籁这款车的口碑较好，消费者对其动力、操控、舒适性和空间等方面评价较高。但也有一些消费者对其外观和内饰提出了质疑。总体来说，天籁是一款性价比较高的中型车，值得消费者考虑。"
+                }
+            ],
+            "question": "容易坏吗"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要知道这款车的历史报道，以确定它是否容易坏。\n\nAction: Vehicle reviews and FAQ query\n\nAction Input: 天籁\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle reviews and FAQ query",
+        "action_input_info": "天籁容易坏吗",
+        "action_input_result": "天籁",
+        "score": 1,
+        "result_value": 0.5
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "奥迪A42023款"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要了解这款车的一些参数，比如价格、功率、燃油、噪音、内部配置、舒适度、适配度、颜色等等。\n\nAction: 查询Vehicle parameter configuration\n\nAction Input: 奥迪A42023款\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "查询Vehicle parameter configuration",
+        "action_input_info": "奥迪A42023款",
+        "action_input_result": "奥迪A42023款",
+        "score": 0,
+        "result_value": 1.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "奥迪A42023款",
+                    "agent": "2023款奥迪A4L是奥迪公司在2023年推出的一款中型轿车。该车型在外观、内饰和动力等方面都进行了升级和改进，以提高其市场竞争力和品质。根据车型配置的不同，2023款奥迪A4L的售价区间为32.18-39.98万元。"
+                }
+            ],
+            "question": "奥迪A42023款配置"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要查询该车型的配置信息\n\nAction: Vehicle parameter configuration\n\nAction Input: 2023款奥迪A4L\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "奥迪A42023款配置",
+        "action_input_result": "2023款奥迪A4L",
+        "score": 1,
+        "result_value": 0.4
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "奥迪A42023款",
+                    "agent": "2023款奥迪A4L是奥迪公司在2023年推出的一款中型轿车。该车型在外观、内饰和动力等方面都进行了升级和改进，以提高其市场竞争力和品质。根据车型配置的不同，2023款奥迪A4L的售价区间为32.18-39.98万元。"
+                },
+                {
+                    "user": "奥迪A42023款配置",
+                    "agent": "非常感谢您的提问。根据您提供的信息，我了解到2023款奥迪A4L是一款2.0 TFSI 标准型的汽车，其配置包括车内氛围灯30色、车内氛围灯单色、车内氛围灯、遮阳板化妆镜、遮阳板化妆镜主驾驶+照明灯、副驾驶+照明灯、方向盘材质皮质、方向盘材质真皮、多功能方向盘、方向盘调节手动上下+前后调节、方向盘换挡、前排空调双温区自动空调、前排空调单温区自动空调、后排空调单温区自动空调、后排空调出风口和车载空气净化器。\n希望这些信息能够帮助您更好地了解2023款奥迪A4L的配置。如果您还有其他问题，请随时提出。"
+                }
+            ],
+            "question": "介绍一下发动机"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我知道一下奥迪A4L的发动机情况，但是我需要更详细的信息来回答这个问题。\n\nAction: Vehicle parameter configuration\n\nAction Input: 2023款奥迪A4L\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "奥迪A42023款发动机",
+        "action_input_result": "2023款奥迪A4L",
+        "score": 1,
+        "result_value": 0.4
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "起亚K5"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我知道起亚K5是一款车型，但我需要更多信息才能回答这个问题。\n\nAction: Vehicle parameter configuration\n\nAction Input: 起亚K5\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "起亚K5",
+        "action_input_result": "起亚K5",
+        "score": 0,
+        "result_value": 1.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "起亚K5",
+                    "agent": "起亚K5是东风悦达起亚旗下的一款中型轿车，由12款DLX12.0和270豪华版两个版本组成。起亚K5的安全性和操控性都还不错，东风起亚的车保养都还可以，不会太贵。这款车的耗油情况的话百公里平均油耗6个，安全性能也可靠。起亚K5的外观造型比较新颖，尤其是轮毂，确实好看。此外，起亚K5的内饰设计比较出色，性价比较高。对于起亚K5的质量，个人认为这是不错的，异响率不高，而且有些车友表示在能够接受的范围。"
+                }
+            ],
+            "question": "说一下他的配置"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要查看起亚K5的配置信息，比如售价、动力、燃油消耗、噪音、内饰等。\n\nAction: Vehicle parameter configuration\n\nAction Input: 起亚K5\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "起亚K5的配置",
+        "action_input_result": "起亚K5",
+        "score": 1,
+        "result_value": 0.6666666666666666
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "起亚K5",
+                    "agent": "起亚K5是东风悦达起亚旗下的一款中型轿车，由12款DLX12.0和270豪华版两个版本组成。起亚K5的安全性和操控性都还不错，东风起亚的车保养都还可以，不会太贵。这款车的耗油情况的话百公里平均油耗6个，安全性能也可靠。起亚K5的外观造型比较新颖，尤其是轮毂，确实好看。此外，起亚K5的内饰设计比较出色，性价比较高。对于起亚K5的质量，个人认为这是不错的，异响率不高，而且有些车友表示在能够接受的范围。"
+                },
+                {
+                    "user": "说一下他的配置",
+                    "agent": "起亚K5的规格如下：\n品牌：悦达起亚\n系列：起亚K5\n规格名称：2.4 自动 TOP\n价格：23.48万元\n最小动力：156马力\n最大动力：245马力\n最大扭矩：353牛·米\n最小扭矩：189牛·米\n座位数：5\n内部配置：车内氛围灯、遮阳板化妆镜、方向盘材质塑料、皮质、真皮、多功能方向盘、方向盘调节手动上下调节、方向盘调节方向盘记忆、方向盘加热、方向盘换挡、前排空调单温区自动空调、前排空调手动空调、前排空调双温区自动空调、后排空调出风口、车载空气净化器、车内PM2.5过滤装置。\n这是起亚K5的详细配置信息，希望对您有所帮助。"
+                }
+            ],
+            "question": "爱坏吗"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我不知道这款车是好不好，但是根据用户的描述，起亚K5的安全性和操控性都不错，而且耗油情况和内饰设计都比较出色。\n\nAction: Vehicle parameter configuration\n\nAction Input: 起亚K5\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "起亚K5爱坏吗",
+        "action_input_result": "起亚K5",
+        "score": 0,
+        "result_value": 0.6666666666666666
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "起亚K5",
+                    "agent": "起亚K5是东风悦达起亚旗下的一款中型轿车，由12款DLX12.0和270豪华版两个版本组成。起亚K5的安全性和操控性都还不错，东风起亚的车保养都还可以，不会太贵。这款车的耗油情况的话百公里平均油耗6个，安全性能也可靠。起亚K5的外观造型比较新颖，尤其是轮毂，确实好看。此外，起亚K5的内饰设计比较出色，性价比较高。对于起亚K5的质量，个人认为这是不错的，异响率不高，而且有些车友表示在能够接受的范围。"
+                },
+                {
+                    "user": "说一下他的配置",
+                    "agent": "起亚K5的规格如下：\n品牌：悦达起亚\n系列：起亚K5\n规格名称：2.4 自动 TOP\n价格：23.48万元\n最小动力：156马力\n最大动力：245马力\n最大扭矩：353牛·米\n最小扭矩：189牛·米\n座位数：5\n内部配置：车内氛围灯、遮阳板化妆镜、方向盘材质塑料、皮质、真皮、多功能方向盘、方向盘调节手动上下调节、方向盘调节方向盘记忆、方向盘加热、方向盘换挡、前排空调单温区自动空调、前排空调手动空调、前排空调双温区自动空调、后排空调出风口、车载空气净化器、车内PM2.5过滤装置。\n这是起亚K5的详细配置信息，希望对您有所帮助。"
+                },
+                {
+                    "user": "爱坏吗",
+                    "agent": "起亚K5的质量总体来说还可以，虽然与日系汽车相比存在差距，但K5的小毛病不是很多，车主普遍表示能够接受。不过，起亚K5的安全性能有待提高，保养费用也相对较高。对于您的问题，“爱坏吗？”，答案是：K5的耐用性相对较好，但也需要定期维护和保养。"
+                }
+            ],
+            "question": "发动机怎么样"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要知道起亚K5的发动机情况，以便更好地回答问题。\n\nAction: Vehicle parameter configuration\n\nAction Input: 起亚K5\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "起亚K5发动机怎么样",
+        "action_input_result": "起亚K5",
+        "score": 0,
+        "result_value": 0.6666666666666666
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "爱坏吗",
+                    "agent": "起亚K5的质量总体来说还可以，虽然与日系汽车相比存在差距，但K5的小毛病不是很多，车主普遍表示能够接受。不过，起亚K5的安全性能有待提高，保养费用也相对较高。对于您的问题，“爱坏吗？”，答案是：K5的耐用性相对较好，但也需要定期维护和保养。"
+                },
+                {
+                    "user": "发动机怎么样",
+                    "agent": "起亚K5的发动机性能不错，采用了2.0t直喷涡轮增压发动机，最大功率可以达到245马力，最大的扭矩可以达到350牛米。该发动机采用了直喷技术，能够提高燃油的利用率，同时拥有出色的燃油经济性和动力性能。此外，起亚K5还采用了轻量化设计，降低了车身的能耗和重量，提高了驾驶的舒适性和稳定性。总的来说，起亚K5的发动机性能出色，是一款值得推荐的家用车型。"
+                },
+                {
+                    "user": "2021款的发动机怎样",
+                    "agent": "2021款起亚K5搭载的发动机性能不错，其中包括2.0t直喷涡轮增压发动机和1.6t发动机。2.0t发动机最大功率可以达到245马力，最大的扭矩可以达到350牛米，在同价车里，这个级别算是相当高了。而1.6t发动机最大功率可以达到184马力，最大扭距可以达到260牛米，虽然动力没有2.0t的好，不过家用也是完全够了。\n起亚K5的动力系统表现不错，其中2.0t发动机的表现最为突出。起亚K5的加速动力强劲，而且油耗也比较理想，油耗在8L左右。"
+                }
+            ],
+            "question": "21款发动机的参数"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要知道2021款起亚K5的发动机参数，以便更好地回答用户的问题。\n\nAction: Vehicle parameter configuration\n\nAction Input: 2021款起亚K5\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "21款起亚K5发动机的参数",
+        "action_input_result": "2021款起亚K5",
+        "score": 1,
+        "result_value": 0.6
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "介绍一下欧萌达",
+                    "agent": "奇瑞欧萌达是一款由中国品牌奇瑞推出的小型代步车。它价格实惠，性价比高，特别适合年轻人第一辆车。欧萌达采用了海外品牌发动机，并在不同市场的马力调校有所差异。按照国内路况和多数国人驾驶习惯，日常代步我觉得用经济模式反而最舒服，此时油门灵敏度、变速箱的平顺性和换挡速度都是最适中的，而且变速箱此模式下也热衷升档，尽量压低发动机转速，这样就能在动力和省油间找到一个平衡。此外，欧萌达的门板扶手和中央扶手箱高度足够，座椅调低调后，手臂就很自然地搭在上面；座椅调高调前，手臂也不会悬空。试驾奇瑞欧萌达，名副其实的中国品牌全球车！一文介绍了欧萌达的试驾感受和特点。"
+                }
+            ],
+            "question": "安装360全景好，还是倒车雷达好"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要知道这两种装置的优缺点，以及它们是否适合欧萌达。\n\nAction: 查询Vehicle reviews and FAQ query\n\nAction Input: 欧萌达\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "查询Vehicle reviews and FAQ query",
+        "action_input_info": "欧萌达安装360全景好，还是倒车雷达好",
+        "action_input_result": "欧萌达",
+        "score": 1,
+        "result_value": 0.16666666666666666
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "介绍一下欧萌达",
+                    "agent": "奇瑞欧萌达是一款由中国品牌奇瑞推出的小型代步车。它价格实惠，性价比高，特别适合年轻人第一辆车。欧萌达采用了海外品牌发动机，并在不同市场的马力调校有所差异。按照国内路况和多数国人驾驶习惯，日常代步我觉得用经济模式反而最舒服，此时油门灵敏度、变速箱的平顺性和换挡速度都是最适中的，而且变速箱此模式下也热衷升档，尽量压低发动机转速，这样就能在动力和省油间找到一个平衡。此外，欧萌达的门板扶手和中央扶手箱高度足够，座椅调低调后，手臂就很自然地搭在上面；座椅调高调前，手臂也不会悬空。试驾奇瑞欧萌达，名副其实的中国品牌全球车！一文介绍了欧萌达的试驾感受和特点。"
+                },
+                {
+                    "user": "安装360全景好，还是倒车雷达好",
+                    "agent": "安装车载摄像头和360全景影像或倒车雷达都有其各自的优缺点，具体选择取决于个人需求和喜好。\n车载摄像头可以提供更好的视觉辅助，特别是在泊车和侧方停车时，可以提供更准确的影像和信息，帮助司机更好地掌握车辆周围的情况和空间。但是，安装车载摄像头需要钻孔和拆卸部件，可能会对汽车电路和系统造成一定的影响，而且安装和拆卸都需要专业知识和技能。\n360全景影像和倒车雷达则能够提供更全面和完整的车辆周围环境信息，包括前后、左右、上下全方位的视野，可以帮助司机更好地掌握车辆周围的情况和空间，提高驾驶安全和效率。但是，安装360全景影像和倒车雷达都需要拆卸和重新安装汽车部件，可能会对汽车电路和系统造成一定的影响，而且价格相对较高。\n因此，选择安装车载摄像头还是360全景影像或倒车雷达，需要根据个人需求和喜好，权衡其优缺点，并结合实际情况做出决策。如果需要更多的信息和帮助，建议咨询专业的汽车装饰和维修服务提供商。"
+                }
+            ],
+            "question": "瑞虎8pro2.0T五座浩瀚版四驱，轮胎是什么轮胎？"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "根据用户提供的信息，该车型使用的轮胎应该是18英寸轮胎。\n\nAction: 查询该车型使用的轮胎尺寸。\n\nAction Input: 查询18英寸轮胎。\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "查询该车型使用的轮胎尺寸。",
+        "action_input_info": "瑞虎8pro2.0T五座浩瀚版轮胎",
+        "action_input_result": "查询18英寸轮胎。",
+        "score": 0,
+        "result_value": 0.1111111111111111
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "介绍一下欧萌达",
+                    "agent": "奇瑞欧萌达是一款由中国品牌奇瑞推出的小型代步车。它价格实惠，性价比高，特别适合年轻人第一辆车。欧萌达采用了海外品牌发动机，并在不同市场的马力调校有所差异。按照国内路况和多数国人驾驶习惯，日常代步我觉得用经济模式反而最舒服，此时油门灵敏度、变速箱的平顺性和换挡速度都是最适中的，而且变速箱此模式下也热衷升档，尽量压低发动机转速，这样就能在动力和省油间找到一个平衡。此外，欧萌达的门板扶手和中央扶手箱高度足够，座椅调低调后，手臂就很自然地搭在上面；座椅调高调前，手臂也不会悬空。试驾奇瑞欧萌达，名副其实的中国品牌全球车！一文介绍了欧萌达的试驾感受和特点。"
+                },
+                {
+                    "user": "安装360全景好，还是倒车雷达好",
+                    "agent": "安装车载摄像头和360全景影像或倒车雷达都有其各自的优缺点，具体选择取决于个人需求和喜好。\n车载摄像头可以提供更好的视觉辅助，特别是在泊车和侧方停车时，可以提供更准确的影像和信息，帮助司机更好地掌握车辆周围的情况和空间。但是，安装车载摄像头需要钻孔和拆卸部件，可能会对汽车电路和系统造成一定的影响，而且安装和拆卸都需要专业知识和技能。\n360全景影像和倒车雷达则能够提供更全面和完整的车辆周围环境信息，包括前后、左右、上下全方位的视野，可以帮助司机更好地掌握车辆周围的情况和空间，提高驾驶安全和效率。但是，安装360全景影像和倒车雷达都需要拆卸和重新安装汽车部件，可能会对汽车电路和系统造成一定的影响，而且价格相对较高。\n因此，选择安装车载摄像头还是360全景影像或倒车雷达，需要根据个人需求和喜好，权衡其优缺点，并结合实际情况做出决策。如果需要更多的信息和帮助，建议咨询专业的汽车装饰和维修服务提供商。"
+                },
+                {
+                    "user": "瑞虎8pro2.0T五座浩瀚版四驱，轮胎是什么轮胎？",
+                    "agent": "瑞虎8pro 2.0T五座浩瀚版四驱的轮胎规格为235/55 R18，采用ATLAS轮胎。"
+                }
+            ],
+            "question": "腾势D9 支持快充嘛？功率多大呢？"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "腾势D9是一款电动车，需要快充才能运行。我需要知道它支持快充，以及快充的功率大小。\n\nAction: 我需要查看腾势D9的规格和配置，以确定它是否支持快充，以及快充的功率大小。\n\nAction Input: 腾势D9\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "我需要查看腾势D9的规格和配置，以确定它是否支持快充，以及快充的功率大小。",
+        "action_input_info": "腾势D9支持快充嘛？功率多大呢？",
+        "action_input_result": "腾势D9",
+        "score": 0,
+        "result_value": 0.3333333333333333
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "23款君威552t贷款落地16w贵吗？"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我要查询贷款落地的条件，并查找相关贷款落地的信息。\n\nAction: Vehicle parameter configuration\n\nAction Input: 23款君威552t\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "23款君威552t贷款落地16w贵吗？",
+        "action_input_result": "23款君威552t",
+        "score": 0,
+        "result_value": 0.3333333333333333
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "23款君威552t贷款落地16w贵吗？",
+                    "agent": "根据提供的信息，23款君威552t贷款落地价为16万元，但需要支付贷款服务费、购置税、保险费用以及购买装潢等费用。这些费用的总支出可能会超过16万元，因此可以说这个落地价略高。\n不过，具体的价格还需要根据当地的销售政策和4s店的报价来确定，因此建议在购车前多做比较和考虑，了解不同店的报价和优惠政策，以便做出更明智的决策。"
+                }
+            ],
+            "question": "吉利icon多少落地？"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要知道吉利icon的落地价格，并且需要提供相关信息。\n\nAction: 查询吉利icon的落地价格。\n\nAction Input: 吉利icon。\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "查询吉利icon的落地价格。",
+        "action_input_info": "吉利icon多少落地？",
+        "action_input_result": "吉利icon。",
+        "score": 0,
+        "result_value": 0.6666666666666666
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "发动机的舱盖怎么打开"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要知道该如何打开舱盖才能回答这个问题。\n\nAction: Vehicle parameter configuration\n\nAction Input: 发动机舱盖\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "发动机的舱盖怎么打开",
+        "action_input_result": "发动机舱盖",
+        "score": 0,
+        "result_value": 0.6666666666666666
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "发动机的舱盖怎么打开",
+                    "agent": "发动机舱盖是汽车发动机舱的一部分，用于保护发动机和其他部件。要打开发动机舱盖，需要找到位于主驾驶左侧下方的发动机前盖控制开关，然后向上拉起发动机前盖控制开关即可。此时会听到砰的一声，就说明发动机前盖的卡扣弹开了。完成打开发动机前盖后，需要下车看一下会发现汽车发动机的前盖出现了一条明显的缝隙。此时需要完全打开发动机前盖支起发动机前盖上的支撑杆，才能完成整个操作。请注意，在操作过程中要保持安全，并遵守当地法律法规和交通规则。"
+                }
+            ],
+            "question": "车内后方有异响咋回事"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要找到问题所指的异响来源，然后给出相应的解决方案。\n\nAction: 查询相关车辆参数和评价，以确定可能的异响来源。\n\nAction Input: 车辆品牌、车型、异响来源等信息。\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "查询相关车辆参数和评价，以确定可能的异响来源。",
+        "action_input_info": "车内后方有异响咋回事",
+        "action_input_result": "车辆品牌、车型、异响来源等信息。",
+        "score": 0,
+        "result_value": 0.1111111111111111
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "发动机的舱盖怎么打开",
+                    "agent": "发动机舱盖是汽车发动机舱的一部分，用于保护发动机和其他部件。要打开发动机舱盖，需要找到位于主驾驶左侧下方的发动机前盖控制开关，然后向上拉起发动机前盖控制开关即可。此时会听到砰的一声，就说明发动机前盖的卡扣弹开了。完成打开发动机前盖后，需要下车看一下会发现汽车发动机的前盖出现了一条明显的缝隙。此时需要完全打开发动机前盖支起发动机前盖上的支撑杆，才能完成整个操作。请注意，在操作过程中要保持安全，并遵守当地法律法规和交通规则。"
+                },
+                {
+                    "user": "车内后方有异响咋回事",
+                    "agent": "车内后方有异响可能是由多种原因引起的，例如：\n1. 悬挂系统问题：车内后方的悬挂系统可能出现故障，导致车辆在行驶过程中产生异响。\n2. 轮胎问题：轮胎出现问题，例如轮胎磨损过度或轮胎不平衡，也可能导致车内后方产生异响。\n3. 发动机问题：发动机出现问题，例如发动机积碳或发动机冷却系统故障，也可能导致车内后方产生异响。\n4. 车内部件问题：车内部件出现问题，例如内饰板或悬挂系统部件老化或损坏，也可能导致车内后方产生异响。\n为了解决这个问题，建议先检查车辆外观和内饰，并检查车内各个部件是否出现问题。如果无法确定异响原因，建议前往专业的汽车维修店进行检查和修理。"
+                }
+            ],
+            "question": "坦克400大概价格多少呢？"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要知道坦克400的价格，以便给用户提供准确的信息。\n\nAction: Vehicle parameter configuration\n\nAction Input: 坦克400\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "坦克400价格",
+        "action_input_result": "坦克400",
+        "score": 1,
+        "result_value": 0.5
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "第三代荣威RX5后雾灯有多少个"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要知道第三代荣威RX5的后雾灯数量\n\nAction: Vehicle parameter configuration\n\nAction Input: 第三代荣威RX5\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "第三代荣威RX5后雾灯有多少个",
+        "action_input_result": "第三代荣威RX5",
+        "score": 0,
+        "result_value": 0.75
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "第三代荣威RX5后雾灯有多少个",
+                    "agent": "第三代荣威RX5后雾灯的数量是2个。"
+                }
+            ],
+            "question": "荣威2022款RX5 MAX选哪个驾驶模式比较省油了？"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要查询荣威2022款RX5 MAX的驾驶模式比较省油的情况。\n\nAction: Vehicle parameter configuration\n\nAction Input: 2022 RX5 MAX\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "荣威2022款RX5 MAX哪个驾驶模式省油？",
+        "action_input_result": "2022 RX5 MAX",
+        "score": 0,
+        "result_value": 0.375
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "23款雅阁现在落地多少钱合适"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要知道这款车的价格才能回答这个问题\n\nAction: Vehicle parameter configuration\n\nAction Input: 23款雅阁\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "23款雅阁现在落地多少钱",
+        "action_input_result": "23款雅阁",
+        "score": 1,
+        "result_value": 0.5
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "23款雅阁现在落地多少钱合适",
+                    "agent": "雅阁 23 款落地多少钱合适，需要根据当地的市场情况和车价变化来确定。一般来说，雅阁是一款较为经典的车型，其市场口碑和销量都很不错。根据车型配置的不同，落地价格也会有所不同。如果选择雅阁 23 款豪华版的话，根据当地的市场情况，一般优惠力度在一万八左右，优惠完落地价格大约在 22 万左右。当然，具体的车价还需要根据当地的市场情况来确定。建议在购买前多做调研和比较，选择最适合自己的车型和配置。"
+                }
+            ],
+            "question": "天逸c5海阔天空版1.8T后面空调出风需要自己设置吗"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "这个问题需要我查一下天逸C5的配置和评价，以及后面空调出风的设置是否可以自定义。\n\nAction: Vehicle parameter configuration\n\nAction Input: 天逸 C5\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "天逸c5海阔天空版1.8T后面空调出风需要自己设置吗",
+        "action_input_result": "天逸 C5",
+        "score": 0,
+        "result_value": 0.2
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "23款雅阁现在落地多少钱合适",
+                    "agent": "雅阁 23 款落地多少钱合适，需要根据当地的市场情况和车价变化来确定。一般来说，雅阁是一款较为经典的车型，其市场口碑和销量都很不错。根据车型配置的不同，落地价格也会有所不同。如果选择雅阁 23 款豪华版的话，根据当地的市场情况，一般优惠力度在一万八左右，优惠完落地价格大约在 22 万左右。当然，具体的车价还需要根据当地的市场情况来确定。建议在购买前多做调研和比较，选择最适合自己的车型和配置。"
+                },
+                {
+                    "user": "天逸c5海阔天空版1.8T后面空调出风需要自己设置吗",
+                    "agent": "天逸 C5 海阔天空版1.8T后面的空调出风不需要自己设置。"
+                }
+            ],
+            "question": "汽车缺少防冻液可以加水吗？"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "如果缺少防冻液，加水可能会导致汽车内部损坏。\n\nAction: 检查车辆是否有防冻液孔，如果有，应该在正确的位置加水。如果没有，建议在加水前先检查是否有防冻液孔，以免造成损坏。\n\nAction Input: 检查车辆是否有防冻液孔，如果有，应该在正确的位置加水。如果没有，建议在加水前先检查是否有防冻液孔，以免造成损坏。\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "检查车辆是否有防冻液孔，如果有，应该在正确的位置加水。如果没有，建议在加水前先检查是否有防冻液孔，以免造成损坏。",
+        "action_input_info": "汽车缺少防冻液可以加水吗？",
+        "action_input_result": "检查车辆是否有防冻液孔，如果有，应该在正确的位置加水。如果没有，建议在加水前先检查是否有防冻液孔，以免造成损坏。",
+        "score": 0,
+        "result_value": 0.16666666666666666
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "23款雅阁现在落地多少钱合适",
+                    "agent": "雅阁 23 款落地多少钱合适，需要根据当地的市场情况和车价变化来确定。一般来说，雅阁是一款较为经典的车型，其市场口碑和销量都很不错。根据车型配置的不同，落地价格也会有所不同。如果选择雅阁 23 款豪华版的话，根据当地的市场情况，一般优惠力度在一万八左右，优惠完落地价格大约在 22 万左右。当然，具体的车价还需要根据当地的市场情况来确定。建议在购买前多做调研和比较，选择最适合自己的车型和配置。"
+                },
+                {
+                    "user": "天逸c5海阔天空版1.8T后面空调出风需要自己设置吗",
+                    "agent": "天逸 C5 海阔天空版1.8T后面的空调出风不需要自己设置。"
+                },
+                {
+                    "user": "汽车缺少防冻液可以加水吗？",
+                    "agent": "汽车缺少防冻液时，加水是不可取的。防冻液是为了保护发动机而添加的，它的主要作用是保持发动机冷却系统的正常运作，并防止发动机内部零件的腐蚀。如果缺少防冻液，发动机冷却系统将无法正常运行，可能会导致发动机损坏，甚至无法启动。\n此外，加水还会降低防冻液的沸点以及冰点，导致防冻液的质量下降，影响发动机的使用寿命。因此，如果汽车缺少防冻液，应该尽快补充防冻液，而不是加水。\n总结起来，加水是不可取的，应该避免在汽车缺少防冻液时进行尝试。"
+                }
+            ],
+            "question": "14万左右买什么车比较好"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "根据用户提供的信息，我们可以推荐一些在 14 万左右的车型。\nAction: 我们可以检索一些在 14 万左右的车型，并提供相关的车价和性能参数。\nAction Input: 检索 \"14万左右\" 的车型。\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "我们可以检索一些在 14 万左右的车型，并提供相关的车价和性能参数。",
+        "action_input_info": "14万左右买什么车比较好",
+        "action_input_result": "检索 \"14万左右\" 的车型。",
+        "score": 0,
+        "result_value": 0.16666666666666666
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "金刚炮新车油耗有点高呀，不知道磨合后怎么样。"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要知道这辆车的配置信息，比如净额、动力、油耗等。\n\nAction: 查询Vehicle parameter configuration\n\nAction Input: 金刚炮\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "查询Vehicle parameter configuration",
+        "action_input_info": "金刚炮新车油耗有点高呀，不知道磨合后怎么样。",
+        "action_input_result": "金刚炮",
+        "score": 0,
+        "result_value": 0.3333333333333333
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "金刚炮新车油耗有点高呀，不知道磨合后怎么样。",
+                    "agent": "根据您提供的信息，金刚炮新车油耗有点高可能是由于磨合期发动机处于初始状态，性能不稳定所导致的。在磨合期结束后，发动机会变得更加稳定，油耗也会逐渐降低。此外，如果您的驾驶习惯不正确，也可能会导致油耗增加。因此，建议您在磨合期结束后，按照正确的驾驶习惯进行驾驶，例如保持车速稳定、避免急加速和急刹车、适当负荷等等。同时，如果您对金刚炮的油耗情况有疑问，也可以咨询专业的汽车工程师或经销商。"
+                }
+            ],
+            "question": "泉州地区威朗乐享版23款多少价格落地？？？"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要知道威朗乐享版23款多少价格落地在泉州地区，以回答这个问题。\n\nAction: 我会查询当地的汽车市场价格，并结合相关的营销活动和促销政策，为您提供最佳的购买建议。\n\nAction Input: 威朗乐享版23款\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "我会查询当地的汽车市场价格，并结合相关的营销活动和促销政策，为您提供最佳的购买建议。",
+        "action_input_info": "泉州地区威朗乐享版23款多少价格落地",
+        "action_input_result": "威朗乐享版23款",
+        "score": 0,
+        "result_value": 0.42857142857142855
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "奔驰23款 E300L 运动时尚型配置"
+        },
+        "action_label": "车辆参配查询",
+        "llm_result": "我需要知道奔驰23款 E300L 的运动时尚配置，这是一个比较特殊的问题，需要查找相关信息。\n\nAction: Vehicle parameter configuration\n\nAction Input: 奔驰23款 E300L\n\n",
+        "label_en": "Vehicle parameter configuration",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "奔驰23款 E300L 运动时尚型配置",
+        "action_input_result": "奔驰23款 E300L",
+        "score": 1,
+        "result_value": 0.5
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "奔驰23款 E300L 运动时尚型配置",
+                    "agent": "奔驰23款E300L运动时尚型配置如下：\n- 后排空间：宽敞舒适，可放置儿童座椅\n- 储物空间：丰富实用，设有多个储物格\n- 前排空间：宽敞明亮，乘坐舒适\n- 整体空间：空间大，乘坐舒适，可放置大量物品\n保修期为3年或6万公里，如需要维修或保养，请尽快联系服务中心。\n感谢您对奔驰品牌的关注，我们致力于为您提供最优质的产品和服务。"
+                }
+            ],
+            "question": "你好，我有一辆荣威12.年550，，1.8车子，这车子obd接口在哪里"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我知道这辆荣威12年550是一款车型，但是我需要更多信息才能回答这个问题。\n\nAction: Vehicle Brand and Series Recognition\n\nAction Input: 荣威12年550\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle Brand and Series Recognition",
+        "action_input_info": "荣威12年550 1.8车子obd接口在哪",
+        "action_input_result": "荣威12年550",
+        "score": 0,
+        "result_value": 0.375
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "秦Pro 燃油版，启动热车怠速多少？"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要知道秦Pro 燃油版启动热车怠速的信息。\n\nAction: Vehicle parameter configuration\n\nAction Input: 秦Pro 燃油版\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "秦Pro燃油版启动热车怠速多少",
+        "action_input_result": "秦Pro 燃油版",
+        "score": 0,
+        "result_value": 0.5
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "秦Pro 燃油版，启动热车怠速多少？",
+                    "agent": "比亚迪秦Pro燃油版的启动热车怠速可能会因个体差异、车款型号等因素而有所不同。一般来说，燃油版的启动热车怠速在700-800转左右。如果您对秦Pro燃油版的启动热车怠速有疑虑，建议您在购买前或使用中咨询相关专业人士或车主，以获取最准确的信息。"
+                }
+            ],
+            "question": "23款速腾带换挡拨片吗"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我不确定这个问题是关于什么，但是我可以尝试回答。\n\nAction: Vehicle reviews and FAQ query\n\nAction Input: 23款速腾带换挡拨片\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle reviews and FAQ query",
+        "action_input_info": "23款速腾带换挡拨片吗",
+        "action_input_result": "23款速腾带换挡拨片",
+        "score": 1,
+        "result_value": 1.0
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "2迁转能跑多少迈呀手动挡的猎豹cs9...1499L是多大排量的？"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要知道这辆车的迁转能力和排量才能回答这个问题。\n\nAction: Vehicle parameter configuration\n\nAction Input: 1499L\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "2迁转能跑多少迈呀手动挡的猎豹cs9...1499L是多大排量的？",
+        "action_input_result": "1499L",
+        "score": 0,
+        "result_value": 0.1111111111111111
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "23款豪华皓影有没有氛围灯，怎么打开"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要知道这款豪华皓影有怎么打开的，因为我不知道这款豪华皓影有没有氛围灯。\n\nAction: Vehicle parameter configuration\n\nAction Input: 23款豪华皓影\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "23款豪华皓影有没有氛围灯，怎么打开",
+        "action_input_result": "23款豪华皓影",
+        "score": 0,
+        "result_value": 0.42857142857142855
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "23款豪华皓影有没有氛围灯，怎么打开",
+                    "agent": "23款豪华皓影确实配备了氛围灯，可以通过车内多媒体系统或驾驶员手套箱找到氛围灯的控制按钮，根据需要调节氛围灯的颜色和亮度。另外，也可以通过下载第三方应用程序，例如“皓影氛围灯”或“汽车氛围灯设置”，来自定义和调整皓影车内的氛围灯设置。"
+                }
+            ],
+            "question": "奔驰EQ是什么意思？"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我不知道奔驰EQ是什么意思，但是根据用户提供的信息，我可以推测奔驰EQ可能是一种车辆配置或功能。\n\nAction: Vehicle parameter configuration\n\nAction Input: 23款豪华皓影, 奔驰EQ\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "奔驰EQ是什么意思",
+        "action_input_result": "23款豪华皓影, 奔驰EQ",
+        "score": 0,
+        "result_value": 0.3333333333333333
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "23款豪华皓影有没有氛围灯，怎么打开",
+                    "agent": "23款豪华皓影确实配备了氛围灯，可以通过车内多媒体系统或驾驶员手套箱找到氛围灯的控制按钮，根据需要调节氛围灯的颜色和亮度。另外，也可以通过下载第三方应用程序，例如“皓影氛围灯”或“汽车氛围灯设置”，来自定义和调整皓影车内的氛围灯设置。"
+                },
+                {
+                    "user": "奔驰EQ是什么意思？",
+                    "agent": "奔驰EQ是奔驰推出的电动汽车系列，包括插电式混合动力车型和高性能混合动力车型。EQ技术目前应用于奔驰C级、E级、S级轿车等车型，搭载48伏智能电机，将燃油经济性和舒适豪华性提升至全新境界。奔驰EQ系列是奔驰全面电动化的重要组成部分，旨在提高电动汽车的性能和可靠性。"
+                }
+            ],
+            "question": "买过凌宝汽车的宝子们能聊一下凌宝汽车怎么样嘛？"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要知道凌宝汽车的宝子们是否能聊读，这对我的回答有很大的影响。\n\nAction: 我会查询凌宝汽车的宝子们是否能聊读。\n\nAction Input: 我会输入“凌宝汽车宝子能聊读”这个词汇，以查询相关信息。\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "我会查询凌宝汽车的宝子们是否能聊读。",
+        "action_input_info": "凌宝汽车怎么样",
+        "action_input_result": "我会输入“凌宝汽车宝子能聊读”这个词汇，以查询相关信息。",
+        "score": 0,
+        "result_value": 0.2
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "14代轩逸和22款经典买哪个好，一直在纠结"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我们需要知道这两款车的参数，比较它们的优缺点，然后让用户做出选择。\n\nAction: 查询Vehicle parameter configuration\n\nAction Input: 14代轩逸, 22款经典\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "查询Vehicle parameter configuration",
+        "action_input_info": "14代轩逸和22款经典买哪个好",
+        "action_input_result": "14代轩逸, 22款经典",
+        "score": 0,
+        "result_value": 0.6666666666666666
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "14代轩逸和22款经典买哪个好，一直在纠结",
+                    "agent": "根据您提供的数据库信息，14代轩逸和22款经典都是东风日产生产的轩逸车型。其中，14代轩逸的规格名称为2.0 xL 科技版，而22款经典的规格名称为1.8 L 经典版。两款车的价格分别为17.58万元和14.98万元。最小动力为109马力，最大动力为143马力，最大扭矩为189牛·米，最小扭矩为153牛·米，座位数为5个，最大轴距为2712mm。\n因此，无法简单地回答哪款车更好，因为这取决于您的具体需求和偏好。如果您注重动力和空间，那么22款经典版可能更适合您；如果您更注重舒适性和科技配置，那么14代轩逸科技版可能更适合您。建议您根据自己的需求和喜好进行选择，并参考其他消费者的评价和反馈。"
+                }
+            ],
+            "question": "插混是什么意思，是可以油电都可以用吗"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要更多的信息来回答这个问题\n\nAction: Vehicle parameter configuration\n\nAction Input: 汽车型号\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "插混是什么意思，是可以油电都可以用吗",
+        "action_input_result": "汽车型号",
+        "score": 0,
+        "result_value": 0.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "14代轩逸和22款经典买哪个好，一直在纠结",
+                    "agent": "根据您提供的数据库信息，14代轩逸和22款经典都是东风日产生产的轩逸车型。其中，14代轩逸的规格名称为2.0 xL 科技版，而22款经典的规格名称为1.8 L 经典版。两款车的价格分别为17.58万元和14.98万元。最小动力为109马力，最大动力为143马力，最大扭矩为189牛·米，最小扭矩为153牛·米，座位数为5个，最大轴距为2712mm。\n因此，无法简单地回答哪款车更好，因为这取决于您的具体需求和偏好。如果您注重动力和空间，那么22款经典版可能更适合您；如果您更注重舒适性和科技配置，那么14代轩逸科技版可能更适合您。建议您根据自己的需求和喜好进行选择，并参考其他消费者的评价和反馈。"
+                },
+                {
+                    "user": "插混是什么意思，是可以油电都可以用吗",
+                    "agent": "插混指的是一种混合动力技术，通过在车辆运行时将电动机和内燃机同时驱动车辆，以达到降低油耗和减少排放的目的。在插混系统中，内燃机和电动机可以分别驱动不同的车轮，从而实现车辆的多路况适应。插混车型通常具有更高的燃油效率和更好的环保性能。\n至于插混是否可以油电都可以用，实际上插混车型是既可以燃油驱动，又可以电动驱动的。在燃油驱动时，插混车型使用内燃机作为动力源，而在电动驱动时，插混车型使用电动机作为动力源。因此，插混车型可以在需要电动驱动时使用电池充电，而在需要燃油驱动时使用内燃机驱动。"
+                }
+            ],
+            "question": "朗行1.6自动挡行驶6千8的公里数，需要保养应该做哪些项目？"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "根据用户提供的数据，该车型的燃油耗油量为6.8L/100km，具有较高的油耗。因此，为了减少油耗，建议您进行以下保养项目：\n\n1. 保持车辆的正常气压，以避免油耗增加。\n2. 定期更换空气滤清器，以保持车辆内部空气质量。\n3. 定期检查和更换轮胎，以保持车辆的轮胎气压正常。\n4. 减少车速，避免驾驶过度急加速。\n5. 避免长时间空调使用，以减少内部空气流通。\n\nAction: 根据以上建议，您可以进行以下操作：\n\n1. 查看车辆的正常气压，并根据需要调整气压。\n2. 定期更换空气滤清器。\n3. 定期检查和更换轮胎。\n4. 避免长时间空调使用。\n\nAction Input: 插混车型\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "根据以上建议，您可以进行以下操作：\n\n1. 查看车辆的正常气压，并根据需要调整气压。\n2. 定期更换空气滤清器。\n3. 定期检查和更换轮胎。\n4. 避免长时间空调使用。",
+        "action_input_info": "朗行1.6自动挡行驶6千8的公里数，需要保养应该做哪些项目？",
+        "action_input_result": "插混车型",
+        "score": 0,
+        "result_value": 0.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "14代轩逸和22款经典买哪个好，一直在纠结",
+                    "agent": "根据您提供的数据库信息，14代轩逸和22款经典都是东风日产生产的轩逸车型。其中，14代轩逸的规格名称为2.0 xL 科技版，而22款经典的规格名称为1.8 L 经典版。两款车的价格分别为17.58万元和14.98万元。最小动力为109马力，最大动力为143马力，最大扭矩为189牛·米，最小扭矩为153牛·米，座位数为5个，最大轴距为2712mm。\n因此，无法简单地回答哪款车更好，因为这取决于您的具体需求和偏好。如果您注重动力和空间，那么22款经典版可能更适合您；如果您更注重舒适性和科技配置，那么14代轩逸科技版可能更适合您。建议您根据自己的需求和喜好进行选择，并参考其他消费者的评价和反馈。"
+                },
+                {
+                    "user": "插混是什么意思，是可以油电都可以用吗",
+                    "agent": "插混指的是一种混合动力技术，通过在车辆运行时将电动机和内燃机同时驱动车辆，以达到降低油耗和减少排放的目的。在插混系统中，内燃机和电动机可以分别驱动不同的车轮，从而实现车辆的多路况适应。插混车型通常具有更高的燃油效率和更好的环保性能。\n至于插混是否可以油电都可以用，实际上插混车型是既可以燃油驱动，又可以电动驱动的。在燃油驱动时，插混车型使用内燃机作为动力源，而在电动驱动时，插混车型使用电动机作为动力源。因此，插混车型可以在需要电动驱动时使用电池充电，而在需要燃油驱动时使用内燃机驱动。"
+                },
+                {
+                    "user": "朗行1.6自动挡行驶6千8的公里数，需要保养应该做哪些项目？",
+                    "agent": "朗行1.6自动挡行驶6千8的公里数，建议进行以下保养项目：\n1. 更换机油和机滤：根据保养手册，朗行1.6车型需要每5000公里更换一次机油和机滤。\n2. 检查空气滤清器和空调滤清器：朗行1.6车型需要每3000公里或1万公里更换空气滤清器和空调滤清器。\n3. 更换刹车油：根据保养手册，朗行1.6车型需要每1万公里更换一次刹车油。\n4. 检查火花塞：朗行1.6车型需要每6万公里或1年更换一次火花塞。\n5. 检查轮胎和刹车片：朗行1.6车型需要每2万公里或1年更换一次轮胎和刹车片。\n请注意，以上保养项目仅是建议，具体保养周期和费用取决于车辆使用情况和当地4s店的建议。在保养过程中，建议按照保养手册上的指示进行保养，以确保车辆保持良好的性能和安全性。"
+                }
+            ],
+            "question": "各位车友朋友，想买一台人生第一辆车，价格在17万左右。能推存入手什么车不"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要了解用户的需求和预算，然后推荐符合用户需求的车型。\n\nAction: 我会提供一些常见的车型，例如日产、本田、福特、丰田、宝马等。我会根据用户的预算和需求推荐车型，并提供相关的�",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "我会提供一些常见的车型，例如日产、本田、福特、丰田、宝马等。我会根据用户的预算和需求推荐车型，并提供相关的�",
+        "action_input_info": "17万左右。能推存入手什么车不",
+        "action_input_result": "",
+        "score": 0,
+        "result_value": 0.0
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "谁知道天籁如何连接Carlife"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要了解有关Carlife的信息，以便回答这个问题\n\nAction: Vehicle parameter configuration\n\nAction Input: 无\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "天籁如何连接Carlife",
+        "action_input_result": "无",
+        "score": 0,
+        "result_value": 0.0
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "谁知道天籁如何连接Carlife",
+                    "agent": "天籁可以通过以下步骤连接Carlife:\n1. 下载并安装百度carlife应用程序。\n2. 打开汽车钥匙，确保车辆处于启动状态。\n3. 打开百度carlife应用程序，并点击“添加车辆”。\n4. 输入天籁的相关信息，例如车型、车号等。\n5. 确认车辆信息无误后，点击“连接”。\n6. 等待几秒钟，Carlife应用程序将连接到天籁上。\n7. 可以使用百度carlife应用程序进行导航、多媒体、电话等操作。\n需要注意的是，不同的车型连接Carlife的方法可能会有所不同，建议在实际操作时查看车型官方文档或咨询汽车制造商。"
+                }
+            ],
+            "question": "车子打蜡有好处吗？"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要知道车子打蜡的好处是什么？\n\nAction: Vehicle reviews and FAQ query\n\nAction Input: 车子打蜡\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle reviews and FAQ query",
+        "action_input_info": "天籁打蜡有好处吗",
+        "action_input_result": "车子打蜡",
+        "score": 1,
+        "result_value": 0.25
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "谁知道天籁如何连接Carlife",
+                    "agent": "天籁可以通过以下步骤连接Carlife:\n1. 下载并安装百度carlife应用程序。\n2. 打开汽车钥匙，确保车辆处于启动状态。\n3. 打开百度carlife应用程序，并点击“添加车辆”。\n4. 输入天籁的相关信息，例如车型、车号等。\n5. 确认车辆信息无误后，点击“连接”。\n6. 等待几秒钟，Carlife应用程序将连接到天籁上。\n7. 可以使用百度carlife应用程序进行导航、多媒体、电话等操作。\n需要注意的是，不同的车型连接Carlife的方法可能会有所不同，建议在实际操作时查看车型官方文档或咨询汽车制造商。"
+                },
+                {
+                    "user": "车子打蜡有好处吗？",
+                    "agent": "车子打蜡有好处。打蜡能够保护车身表面，防止雨水、酸雨和高温等外部因素对车身表面造成损害，同时也能够防止静电的产生，保持车身表面的整洁和光泽。此外，打蜡还可以保养车漆，防止漆面褪色和老化。不过，过于频繁的打蜡可能会对车漆造成损害，因此建议根据车漆的情况和个人需求选择合适的打蜡频率。"
+                }
+            ],
+            "question": "吉利2022款新帝豪前机舱保险盒里怎么找左右转向灯保险插片"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要知道吉利2022款新帝豪前机舱保险盒里找左右转向灯保险插片的方法。\n\nAction: 我需要查找吉利2022款新帝豪前机舱保险盒里找左右转向灯保险插片的方法。\n\nAction Input: 找到吉利2022款新帝豪前机舱保险盒里找左右转向灯保险插片的方法。\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "我需要查找吉利2022款新帝豪前机舱保险盒里找左右转向灯保险插片的方法。",
+        "action_input_info": "吉利2022款新帝豪前机舱保险盒里怎么找左右转向灯保险插片",
+        "action_input_result": "找到吉利2022款新帝豪前机舱保险盒里找左右转向灯保险插片的方法。",
+        "score": 0,
+        "result_value": 0.8181818181818182
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "谁知道天籁如何连接Carlife",
+                    "agent": "天籁可以通过以下步骤连接Carlife:\n1. 下载并安装百度carlife应用程序。\n2. 打开汽车钥匙，确保车辆处于启动状态。\n3. 打开百度carlife应用程序，并点击“添加车辆”。\n4. 输入天籁的相关信息，例如车型、车号等。\n5. 确认车辆信息无误后，点击“连接”。\n6. 等待几秒钟，Carlife应用程序将连接到天籁上。\n7. 可以使用百度carlife应用程序进行导航、多媒体、电话等操作。\n需要注意的是，不同的车型连接Carlife的方法可能会有所不同，建议在实际操作时查看车型官方文档或咨询汽车制造商。"
+                },
+                {
+                    "user": "车子打蜡有好处吗？",
+                    "agent": "车子打蜡有好处。打蜡能够保护车身表面，防止雨水、酸雨和高温等外部因素对车身表面造成损害，同时也能够防止静电的产生，保持车身表面的整洁和光泽。此外，打蜡还可以保养车漆，防止漆面褪色和老化。不过，过于频繁的打蜡可能会对车漆造成损害，因此建议根据车漆的情况和个人需求选择合适的打蜡频率。"
+                },
+                {
+                    "user": "吉利2022款新帝豪前机舱保险盒里怎么找左右转向灯保险插片",
+                    "agent": "根据您提供的信息，吉利2022款新帝豪前机舱保险盒里找左右转向灯保险插片，可以通过以下步骤找到：\n1. 打开前机舱盖，找到保险盒，保险盒通常位于前机舱盖下方，与机舱盖连接处有明显的标识。\n2. 确认保险盒的位置，将手伸进机舱盖下方，找到保险盒盖，打开保险盒盖。\n3. 在保险盒盖内部，可以看到左右转向灯保险插片，它们通常位于保险插片的周围，有一层塑料或金属覆盖。\n4. 确认保险插片的位置，将手伸进保险盒盖下方，找到保险插片，通常位于保险插片的周围，有一层塑料或金属覆盖。\n5. 将左右转向灯保险插片插入保险盒内，确保插片正确插入，并检查插片是否牢固。\n希望这些信息对您有所帮助。如果您还有其他问题，请随时咨询我们。"
+                }
+            ],
+            "question": "有没有人能告诉我买车除了必要花费 还要服务费吗"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要知道买车除了必要花费还要服务费是否需要支付\n\nAction: 查找相关信息\n\nAction Input: 查找车辆买卖相关的服务费用\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "查找相关信息",
+        "action_input_info": "买车除了必要花费 还要服务费吗",
+        "action_input_result": "查找车辆买卖相关的服务费用",
+        "score": 0,
+        "result_value": 0.0
+    },
+    {
+        "data": {
+            "history": [],
+            "question": "我们两口子年入大概40万，之前没存款。现在想攒钱买个奔驰C可以吗？"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "我需要知道这家车的价格、性能、燃油消耗、噪音等信息，以及是否适合我们的预算。\n\nAction: 查询Vehicle parameter configuration\n\nAction Input: 奔驰C\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "查询Vehicle parameter configuration",
+        "action_input_info": "年入大概40万，没存款。攒钱买个奔驰C可以吗？",
+        "action_input_result": "奔驰C",
+        "score": 0,
+        "result_value": 0.2
+    },
+    {
+        "data": {
+            "history": [
+                {
+                    "user": "我们两口子年入大概40万，之前没存款。现在想攒钱买个奔驰C可以吗？",
+                    "agent": "攒钱买奔驰C可以，但需要考虑到财务压力和可行性。奔驰C是一款高档车型，价格相对较高，同时需要考虑到日常开销、车辆维护和保险等费用。如果家庭经济状况可以承受这些费用，并且有足够的储蓄来支付车辆购买费用，那么购买奔驰C是一个不错的选择。\n在购买奔驰C之前，建议夫妻双方进行充分的讨论和规划，确保财务压力和可行性得到充分考虑。可以评估自己的财务状况，了解储蓄和投资的能力，以及未来的收入和支出预测。同时，可以考虑购买其他更实惠的车型，以获得更多的财务灵活性和更好的性价比。\n最后，购买汽车是一项重大决策，需要认真考虑和评估。建议咨询专业人士，如汽车行业顾问或财务专家，以获取更全面的建议和指导。"
+                }
+            ],
+            "question": "长安uni v运动版，落地12.5W能冲吗？"
+        },
+        "action_label": "汽车点评和常见问题查询",
+        "llm_result": "这是一个关于汽车性能的问题，需要考虑到车辆的配置和规格。\n\nAction: Vehicle parameter configuration\n\nAction Input: 长安uni v运动版\n\n",
+        "label_en": "Vehicle reviews and FAQ query",
+        "action_result": "Vehicle parameter configuration",
+        "action_input_info": "长安uni v运动版，落地12.5W能冲吗？",
+        "action_input_result": "长安uni v运动版",
+        "score": 0,
+        "result_value": 0.5555555555555556
+    },
+    {
+        "cnt": 117,
+        "cnt_right": 35,
+        "acc": 0.29914529914529914,
+        "avg_action_input": 0.4432843746946312
+    },
+    {
+        "stat": {
+            "车辆参配查询": 45,
+            "汽车点评和常见问题查询": 68,
+            "车辆品牌车型识别": 3,
+            "图片内容识别": 1
+        }
+    }
+]

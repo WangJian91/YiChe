@@ -1,0 +1,130 @@
+{
+        "id": 118704,
+        "annotations": [
+            {
+                "id": 60886,
+                "completed_by": 27,
+                "result": [
+                    {
+                        "value": {
+                            "text": [
+                                "我想知道换一个后保险杠要多少钱呢？"
+                            ]
+                        },
+                        "id": "ugXQ3xvfJG",
+                        "from_name": "_thought",
+                        "to_name": "dialogue",
+                        "type": "textarea",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "choices": [
+                                "汽车保养使用"
+                            ]
+                        },
+                        "id": "OkS1qBv6jG",
+                        "from_name": "_action",
+                        "to_name": "dialogue",
+                        "type": "choices",
+                        "origin": "manual"
+                    },
+                    {
+                        "value": {
+                            "text": [
+                                "换一个后保险杠要多少钱"
+                            ]
+                        },
+                        "id": "ABd1hKUmQE",
+                        "from_name": "_action_input",
+                        "to_name": "dialogue",
+                        "type": "textarea",
+                        "origin": "manual"
+                    }
+                ],
+                "was_cancelled": false,
+                "ground_truth": false,
+                "created_at": "2023-08-04T02:21:46.260183Z",
+                "updated_at": "2023-08-07T07:10:16.622073Z",
+                "lead_time": 128.96,
+                "prediction": {},
+                "result_count": 0,
+                "task": 118704,
+                "parent_prediction": null,
+                "parent_annotation": null
+            }
+        ],
+        "file_upload": "9b03c660-xiaoyi_data_format-0726-ls-1.json",
+        "drafts": [],
+        "predictions": [],
+        "data": {
+            "idx": 4962,
+            "session_id": "6674ff838b6b47799240fdf5e59e0e43",
+            "humanMachineDialogue": [
+                {
+                    "turn_id": "10967482",
+                    "turn_time": "2023-05-01 22:40:20",
+                    "author": "User: ",
+                    "text": "红旗轿车h5后保险杠多少钱"
+                },
+                {
+                    "turn_id": "10967482",
+                    "turn_time": "2023-05-01 22:40:20",
+                    "author": "Agent: ",
+                    "text": "你是否想了解"
+                },
+                {
+                    "turn_id": "10967489",
+                    "turn_time": "2023-05-01 22:40:36",
+                    "author": "User: ",
+                    "text": "红旗H5前保险杠多少钱？"
+                },
+                {
+                    "turn_id": "10967489",
+                    "turn_time": "2023-05-01 22:40:36",
+                    "author": "Agent: ",
+                    "text": "你是否想了解"
+                },
+                {
+                    "turn_id": "10967503",
+                    "turn_time": "2023-05-01 22:42:01",
+                    "author": "User: ",
+                    "text": "红旗轿车后保险杠多少钱"
+                },
+                {
+                    "turn_id": "10967503",
+                    "turn_time": "2023-05-01 22:42:01",
+                    "author": "Agent: ",
+                    "text": "你是否想了解"
+                },
+                {
+                    "turn_id": "10967510",
+                    "turn_time": "2023-05-01 22:42:15",
+                    "author": "User: ",
+                    "text": "更换个后保险杠需要多少钱？"
+                },
+                {
+                    "turn_id": "10967510",
+                    "turn_time": "2023-05-01 22:42:15",
+                    "author": "Agent: ",
+                    "text": "你是否想了解"
+                },
+                {
+                    "turn_id": "10967524",
+                    "turn_time": "2023-05-01 22:46:06",
+                    "author": "User: ",
+                    "text": "换一个后保险杠要多少钱呢？"
+                },
+                {
+                    "turn_id": "10967524",
+                    "turn_time": "2023-05-01 22:46:06",
+                    "author": "Agent: ",
+                    "text": "你是否想了解"
+                }
+            ]
+        },
+        "meta": {},
+        "created_at": "2023-07-26T03:26:17.130923Z",
+        "updated_at": "2023-08-07T07:10:16.663971Z",
+        "project": 281
+}

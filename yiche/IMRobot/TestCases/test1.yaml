@@ -1,0 +1,10 @@
+- history: []
+  question: 宝马5系
+  action_label: 汽车点评和常见问题查询
+  action_input_info: 宝马5系
+- history:
+  - user: 宝马5系
+    agent: 宝马5系是一款豪华型轿车，品牌为华晨宝马，系列名为宝马5系，规格名为525 Li豪华型，价格约为61.2万元，拥有156马力的最小动力和340马力的最大动力，最大扭矩为450牛·米，最小扭矩为200牛·米，座位数为5个。
+  question: 宝马525LI的配置
+  action_label: 车辆参配查询
+  action_input_info: 宝马525LI的配置

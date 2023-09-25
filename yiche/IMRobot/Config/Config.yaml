@@ -1,0 +1,10 @@
+#基础路径配置
+base:
+  ws_url: ws://10.168.47.10:3000/infer/ws
+
+#日志配置
+log:
+  log_level: info
+#  log_format: '[%(asctime)s] %(filename)s->%(funcName)s line:%(lineno)d [%(levelname)s] %(message)s'
+  log_format: '[%(asctime)s][%(levelname)s] %(message)s'
+

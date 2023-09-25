@@ -1,0 +1,341 @@
+1、宝马5系
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+2、宝马525LI怎么样
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+3、525的同级车有哪些
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+4、星越L
+预期：Vehicle parameter configuration
+实际：
+--------------------------------------------------
+5、配置怎么样呢？通俗的给我介绍下
+预期：Vehicle parameter configuration
+实际：配置推荐
+--------------------------------------------------
+6、星越L
+预期：Vehicle parameter configuration
+实际：Vehicle reviews and FAQ query
+--------------------------------------------------
+7、星越L
+预期：Vehicle parameter configuration
+实际：
+--------------------------------------------------
+8、价格是多少
+预期：Vehicle parameter configuration
+实际：查询Vehicle parameter configuration
+--------------------------------------------------
+9、星越L2.0T价格还能优惠吗?最低价多少？
+预期：Vehicle reviews and FAQ query
+实际：请提供更多关于星越L2.0T的信息。
+--------------------------------------------------
+10、比较下宝马6GT和宝马525
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+11、比较下宝马6GT和宝马525Li的动力
+预期：Vehicle parameter configuration
+实际：查询宝马6GT和宝马525Li的动力表现。
+--------------------------------------------------
+12、个我介绍下宝马6GT
+预期：Vehicle reviews and FAQ query
+实际：查询宝马6GT的规格和评价
+--------------------------------------------------
+13、它的发动机怎么样
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+14、如果贷款的话，裸车价格会不会相对低一些
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+15、欧拉好猫续航
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+16、欧拉好猫续航怎么样
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+17、多少钱
+预期：Vehicle parameter configuration
+实际：Vehicle reviews and FAQ query
+--------------------------------------------------
+18、是磷酸铁锂电池吗
+预期：Vehicle parameter configuration
+实际：Vehicle Brand and Series Recognition
+--------------------------------------------------
+19、介绍一下最新款的宝来
+预期：Vehicle reviews and FAQ query
+实际：
+--------------------------------------------------
+20、宝马5系
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+21、宝马525
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+22、宝马525Li
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+23、发动机怎么样
+预期：Vehicle reviews and FAQ query
+实际：查询宝马5系的发动机参数
+--------------------------------------------------
+24、变速箱怎么样
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+25、20-25万值得购买的车
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+26、雅阁多少钱
+预期：Vehicle parameter configuration
+实际：Vehicle reviews and FAQ query
+--------------------------------------------------
+27、图片内容：图像的主要元素是一辆黑色的宝马轿车停在停车场。这辆车停在停车场的中心位置。
+根据用户图片内容，这是什么车
+预期：Vehicle brand and series recognition
+实际：我会查询该车的品牌和型号，以确定这辆车的具体车型。
+--------------------------------------------------
+28、这个车多少钱
+预期：Vehicle parameter configuration
+实际：Vehicle reviews and FAQ query
+--------------------------------------------------
+29、图片内容：图像中的主要元素是一辆红色的奥迪汽车。它停在一条街道上，靠近一座砖墙。
+根据用户图片内容，这个车多少钱
+预期：Vehicle brand and series recognition
+实际：Vehicle reviews and FAQ query
+--------------------------------------------------
+30、图片内容：图像的主要对象是一只狗。这只狗是一只棕色的金毛犬，它的嘴巴张开，嘴唇湿润。它的眼睛是蓝色的，看起来很有趣。狗坐在一张蓝色的椅子上，椅子上有一个蓝色的背景。
+根据用户图片内容，图片里面是什么
+预期：Image content recognition
+实际：我会使用"Vehicle Brand and Series Recognition"工具来识别椅子上的背景是什么车型。
+--------------------------------------------------
+31、奥迪热门车推荐
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+32、奥迪A7和帝豪gl phev对比
+预期：Vehicle parameter configuration
+实际：查询奥迪A7和帝豪gl phev的优缺点，并对比分析。
+--------------------------------------------------
+33、凯美瑞颜色有哪些
+预期：Vehicle parameter configuration
+实际：Vehicle Brand and Series Recognition
+--------------------------------------------------
+34、风神A60内部空间
+预期：Vehicle parameter configuration
+实际：我会查询风神A60内部空间的相关信息，包括座椅的宽度、舒适度、车内空间的大小、配置等。
+--------------------------------------------------
+35、你说的没一点用
+预期：Vehicle parameter configuration
+实际：检查其他车型的内部空间，比较奥迪A7与其他车的空间大小和设计，提供相关的规格和价格信息。
+--------------------------------------------------
+36、具体长宽高是多少
+预期：Vehicle parameter configuration
+实际：查询奥迪A7的具体长宽高
+--------------------------------------------------
+37、50-100万的中大型车怎么选？
+预期：Vehicle reviews and FAQ query
+实际：根据已知信息，推荐使用Vehicle parameter configuration工具，输入车型名称，比较车辆的功能性、安全性、舒适性、动力性能和价格等方面的参数，并结合用户的需求和预算，找到最合适的车型。
+--------------------------------------------------
+38、50-100万的中大型车怎么选？
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+39、推荐几款
+预期：Vehicle reviews and FAQ query
+实际：推荐几款中大型车
+--------------------------------------------------
+40、丰田卡罗拉多少钱
+预期：Vehicle parameter configuration
+实际：
+--------------------------------------------------
+41、图片内容：图像中的主要对象是红色奥迪汽车，停在一条街道上。该汽车的前部和后部都有明显的标志，包括车头的Audi标志和车尾灯。汽车的前部有一个黑色的标志，可能是车牌。汽车的后部有一个红色的标志，可能是汽车的车牌。
+根据用户图片内容，这是什么
+预期：Vehicle brand and series recognition
+实际：
+--------------------------------------------------
+42、多少钱
+预期：Vehicle parameter configuration
+实际：我需要查询该汽车的价格。
+--------------------------------------------------
+43、Audi RS 6多少钱
+预期：Vehicle parameter configuration
+实际：Vehicle reviews and FAQ query
+--------------------------------------------------
+44、这么贵
+预期：Vehicle reviews and FAQ query
+实际：Vehicle Brand and Series Recognition
+--------------------------------------------------
+45、介绍一下天籁
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+46、发动机怎么样
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+47、变速箱怎样
+预期：Vehicle reviews and FAQ query
+实际：查找变速箱的相关信息，包括其设计、原理、优点和缺点等。
+--------------------------------------------------
+48、售价多少
+预期：Vehicle parameter configuration
+实际：查询天籁  的售价。
+--------------------------------------------------
+49、奥迪A42023款
+预期：Vehicle reviews and FAQ query
+实际：查询Vehicle parameter configuration
+--------------------------------------------------
+50、起亚K5
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+51、爱坏吗
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+52、发动机怎么样
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+53、2021款的发动机怎样
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+54、介绍一下欧萌达
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+55、安装360全景好，还是倒车雷达好
+预期：Vehicle reviews and FAQ query
+实际：查询Vehicle reviews and FAQ query
+--------------------------------------------------
+56、瑞虎8pro2.0T五座浩瀚版四驱，轮胎是什么轮胎？
+预期：Vehicle reviews and FAQ query
+实际：查询该车型使用的轮胎尺寸。
+--------------------------------------------------
+57、腾势D9 支持快充嘛？功率多大呢？
+预期：Vehicle reviews and FAQ query
+实际：我需要查看腾势D9的规格和配置，以确定它是否支持快充，以及快充的功率大小。
+--------------------------------------------------
+58、23款君威552t贷款落地16w贵吗？
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+59、吉利icon多少落地？
+预期：Vehicle reviews and FAQ query
+实际：查询吉利icon的落地价格。
+--------------------------------------------------
+60、发动机的舱盖怎么打开
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+61、车内后方有异响咋回事
+预期：Vehicle reviews and FAQ query
+实际：查询相关车辆参数和评价，以确定可能的异响来源。
+--------------------------------------------------
+62、第三代荣威RX5后雾灯有多少个
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+63、荣威2022款RX5 MAX选哪个驾驶模式比较省油了？
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+64、天逸c5海阔天空版1.8T后面空调出风需要自己设置吗
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+65、汽车缺少防冻液可以加水吗？
+预期：Vehicle reviews and FAQ query
+实际：检查车辆是否有防冻液孔，如果有，应该在正确的位置加水。如果没有，建议在加水前先检查是否有防冻液孔，以免造成损坏。
+--------------------------------------------------
+66、14万左右买什么车比较好
+预期：Vehicle reviews and FAQ query
+实际：我们可以检索一些在 14 万左右的车型，并提供相关的车价和性能参数。
+--------------------------------------------------
+67、金刚炮新车油耗有点高呀，不知道磨合后怎么样。
+预期：Vehicle reviews and FAQ query
+实际：查询Vehicle parameter configuration
+--------------------------------------------------
+68、泉州地区威朗乐享版23款多少价格落地？？？
+预期：Vehicle reviews and FAQ query
+实际：我会查询当地的汽车市场价格，并结合相关的营销活动和促销政策，为您提供最佳的购买建议。
+--------------------------------------------------
+69、你好，我有一辆荣威12.年550，，1.8车子，这车子obd接口在哪里
+预期：Vehicle reviews and FAQ query
+实际：Vehicle Brand and Series Recognition
+--------------------------------------------------
+70、秦Pro 燃油版，启动热车怠速多少？
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+71、2迁转能跑多少迈呀手动挡的猎豹cs9...1499L是多大排量的？
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+72、23款豪华皓影有没有氛围灯，怎么打开
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+73、奔驰EQ是什么意思？
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+74、买过凌宝汽车的宝子们能聊一下凌宝汽车怎么样嘛？
+预期：Vehicle reviews and FAQ query
+实际：我会查询凌宝汽车的宝子们是否能聊读。
+--------------------------------------------------
+75、14代轩逸和22款经典买哪个好，一直在纠结
+预期：Vehicle reviews and FAQ query
+实际：查询Vehicle parameter configuration
+--------------------------------------------------
+76、插混是什么意思，是可以油电都可以用吗
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+77、朗行1.6自动挡行驶6千8的公里数，需要保养应该做哪些项目？
+预期：Vehicle reviews and FAQ query
+实际：根据以上建议，您可以进行以下操作：
+
+1. 查看车辆的正常气压，并根据需要调整气压。
+2. 定期更换空气滤清器。
+3. 定期检查和更换轮胎。
+4. 避免长时间空调使用。
+--------------------------------------------------
+78、各位车友朋友，想买一台人生第一辆车，价格在17万左右。能推存入手什么车不
+预期：Vehicle reviews and FAQ query
+实际：我会提供一些常见的车型，例如日产、本田、福特、丰田、宝马等。我会根据用户的预算和需求推荐车型，并提供相关的�
+--------------------------------------------------
+79、谁知道天籁如何连接Carlife
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
+80、吉利2022款新帝豪前机舱保险盒里怎么找左右转向灯保险插片
+预期：Vehicle reviews and FAQ query
+实际：我需要查找吉利2022款新帝豪前机舱保险盒里找左右转向灯保险插片的方法。
+--------------------------------------------------
+81、有没有人能告诉我买车除了必要花费 还要服务费吗
+预期：Vehicle reviews and FAQ query
+实际：查找相关信息
+--------------------------------------------------
+82、我们两口子年入大概40万，之前没存款。现在想攒钱买个奔驰C可以吗？
+预期：Vehicle reviews and FAQ query
+实际：查询Vehicle parameter configuration
+--------------------------------------------------
+83、长安uni v运动版，落地12.5W能冲吗？
+预期：Vehicle reviews and FAQ query
+实际：Vehicle parameter configuration
+--------------------------------------------------
